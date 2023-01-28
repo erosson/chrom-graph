@@ -1331,6 +1331,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@xmldom/xmldom@npm:^0.8.3":
+  version: 0.8.6
+  resolution: "@xmldom/xmldom@npm:0.8.6"
+  checksum: f17ac6d99a971a6aeb831fcfc5cfa86f367664e45815046548814b2deb17ccc421fef4e0d5ba29e66179d112b552f6caa5680064f8e7bd8a389b788a60404c8e
+  languageName: node
+  linkType: hard
+
 "@xtuc/ieee754@npm:^1.2.0":
   version: 1.2.0
   resolution: "@xtuc/ieee754@npm:1.2.0"
@@ -2033,6 +2040,7 @@ __metadata:
     css-loader: ^6.7.3
     fp-ts: ^2.13.1
     graphology: ^0.25.1
+    graphology-gexf: ^0.10.3
     graphology-types: ^0.24.7
     html-webpack-plugin: ^5.5.0
     jest: ^29.4.1
@@ -3117,6 +3125,31 @@ __metadata:
   languageName: node
   linkType: hard
 
+"graphology-gexf@npm:^0.10.3":
+  version: 0.10.3
+  resolution: "graphology-gexf@npm:0.10.3"
+  dependencies:
+    "@xmldom/xmldom": ^0.8.3
+    graphology-operators: ^1.5.0
+    graphology-utils: ^2.4.1
+    xml-writer: ^1.7.0
+  peerDependencies:
+    graphology-types: ">=0.20.0"
+  checksum: c57538f912f67e120465fdcbde79a6d891f89e3272748835689f058a235ae7f8d882401db790af8dfccb2394394c6c4f90daf19b16e660d9b91af70160b1e500
+  languageName: node
+  linkType: hard
+
+"graphology-operators@npm:^1.5.0":
+  version: 1.6.0
+  resolution: "graphology-operators@npm:1.6.0"
+  dependencies:
+    graphology-utils: ^2.0.0
+  peerDependencies:
+    graphology-types: ">=0.20.0"
+  checksum: 23e6de7e4b5ff100a36cfc08b5d73dcadf18a636e46f8eb07d52b878dc0204298c8cf83785f38dffa37e0a4f244c9f48a29700c63a7d6f591d280910f1a27b49
+  languageName: node
+  linkType: hard
+
 "graphology-types@npm:^0.24.7":
   version: 0.24.7
   resolution: "graphology-types@npm:0.24.7"
@@ -3124,7 +3157,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphology-utils@npm:^2.5.0":
+"graphology-utils@npm:^2.0.0, graphology-utils@npm:^2.4.1, graphology-utils@npm:^2.5.0":
   version: 2.5.2
   resolution: "graphology-utils@npm:2.5.2"
   peerDependencies:
@@ -6560,6 +6593,13 @@ __metadata:
     utf-8-validate:
       optional: true
   checksum: 818ff3f8749c172a95a114cceb8b89cedd27e43a82d65c7ad0f7882b1e96a2ee6709e3746a903c3fa88beec0c8bae9a9fcd75f20858b32a166dfb7519316a5d7
+  languageName: node
+  linkType: hard
+
+"xml-writer@npm:^1.7.0":
+  version: 1.7.0
+  resolution: "xml-writer@npm:1.7.0"
+  checksum: 1d41f4efdd2fc8c92dea877b930fd6bb1fb44543c7459d28c64d514ef6a4a4bfddaef343939bc91b323503dc0293a2de2d2644df05d7b769a13e194b73391527
   languageName: node
   linkType: hard
 

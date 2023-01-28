@@ -9,6 +9,7 @@ import * as N from "./node";
 import * as F from "./figure";
 import * as Collide from "./collide";
 import * as Route from "../route";
+import gexf from 'graphology-gexf/browser'
 import { Link, useParams } from "react-router-dom";
 // import forceAtlas2 from "graphology-layout-forceatlas2";
 
@@ -86,6 +87,9 @@ function loadFigure(figure: string | undefined): N.Node[] {
   }
 }
 
+// function createFileDownload(body: string, filename: string): () => void {
+  // return 
+// }
 export default function ChromaticGraph(): JSX.Element {
   const params = useParams();
   const tsA = Date.now();
@@ -96,6 +100,9 @@ export default function ChromaticGraph(): JSX.Element {
   const elapsedLoad = tsB - tsA;
   const elapsedCollide = tsC - tsB;
   const graph = toGraph(collide.fig);
+  const gexfS = gexf.write(graph)
+  const download = `data:text/plain;base64,${encodeURIComponent(btoa(gexfS))}`
+  const downloadFilename = `${params.figure ?? 'figure1'}.gexf`
   const canvas = React.useRef<HTMLDivElement | null>(null);
   React.useEffect(() => {
     if (canvas.current) {
@@ -168,6 +175,9 @@ export default function ChromaticGraph(): JSX.Element {
         <li>
           node generation in {elapsedLoad}ms, collision detection
           (edges/duplicates) in {elapsedCollide}ms
+        </li>
+        <li>
+          download: <a href={download} download={downloadFilename}>.gexf</a>
         </li>
       </ul>
       <div style={style.canvas} ref={canvas}></div>

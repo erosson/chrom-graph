@@ -35,6 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["css-loader", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:6.7.3"],\
             ["fp-ts", "npm:2.13.1"],\
             ["graphology", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:0.25.1"],\
+            ["graphology-gexf", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:0.10.3"],\
             ["graphology-types", "npm:0.24.7"],\
             ["html-webpack-plugin", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:5.5.0"],\
             ["jest", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:29.4.1"],\
@@ -1940,6 +1941,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["@xmldom/xmldom", [\
+        ["npm:0.8.6", {\
+          "packageLocation": "./.yarn/cache/@xmldom-xmldom-npm-0.8.6-babebbf6e9-f17ac6d99a.zip/node_modules/@xmldom/xmldom/",\
+          "packageDependencies": [\
+            ["@xmldom/xmldom", "npm:0.8.6"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["@xtuc/ieee754", [\
         ["npm:1.2.0", {\
           "packageLocation": "./.yarn/cache/@xtuc-ieee754-npm-1.2.0-ec0ce4e025-ac56d4ca6e.zip/node_modules/@xtuc/ieee754/",\
@@ -2805,6 +2815,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["css-loader", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:6.7.3"],\
             ["fp-ts", "npm:2.13.1"],\
             ["graphology", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:0.25.1"],\
+            ["graphology-gexf", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:0.10.3"],\
             ["graphology-types", "npm:0.24.7"],\
             ["html-webpack-plugin", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:5.5.0"],\
             ["jest", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:29.4.1"],\
@@ -4117,6 +4128,55 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["graphology-gexf", [\
+        ["npm:0.10.3", {\
+          "packageLocation": "./.yarn/cache/graphology-gexf-npm-0.10.3-765a7b3ff9-c57538f912.zip/node_modules/graphology-gexf/",\
+          "packageDependencies": [\
+            ["graphology-gexf", "npm:0.10.3"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:0.10.3", {\
+          "packageLocation": "./.yarn/__virtual__/graphology-gexf-virtual-16cc495373/0/cache/graphology-gexf-npm-0.10.3-765a7b3ff9-c57538f912.zip/node_modules/graphology-gexf/",\
+          "packageDependencies": [\
+            ["graphology-gexf", "virtual:6b50ad3d5a34748a7b68154e8999e3881901343004e509d808e15de01382cb777c97df2f4af756cd771add4dffff7cce2c5a09fc6f922449318930d4dd67c42b#npm:0.10.3"],\
+            ["@types/graphology-types", null],\
+            ["@xmldom/xmldom", "npm:0.8.6"],\
+            ["graphology-operators", "virtual:16cc495373a03af61db2b1efe83561769efa365ed6a71bdb76c6617e2c8701b48288b88013ba1afeda1b2afe3752511ae5052f802484f14e940977212a811b4c#npm:1.6.0"],\
+            ["graphology-types", "npm:0.24.7"],\
+            ["graphology-utils", "virtual:16cc495373a03af61db2b1efe83561769efa365ed6a71bdb76c6617e2c8701b48288b88013ba1afeda1b2afe3752511ae5052f802484f14e940977212a811b4c#npm:2.5.2"],\
+            ["xml-writer", "npm:1.7.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/graphology-types",\
+            "graphology-types"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["graphology-operators", [\
+        ["npm:1.6.0", {\
+          "packageLocation": "./.yarn/cache/graphology-operators-npm-1.6.0-fb2109d6ff-23e6de7e4b.zip/node_modules/graphology-operators/",\
+          "packageDependencies": [\
+            ["graphology-operators", "npm:1.6.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:16cc495373a03af61db2b1efe83561769efa365ed6a71bdb76c6617e2c8701b48288b88013ba1afeda1b2afe3752511ae5052f802484f14e940977212a811b4c#npm:1.6.0", {\
+          "packageLocation": "./.yarn/__virtual__/graphology-operators-virtual-8686d68d1e/0/cache/graphology-operators-npm-1.6.0-fb2109d6ff-23e6de7e4b.zip/node_modules/graphology-operators/",\
+          "packageDependencies": [\
+            ["graphology-operators", "virtual:16cc495373a03af61db2b1efe83561769efa365ed6a71bdb76c6617e2c8701b48288b88013ba1afeda1b2afe3752511ae5052f802484f14e940977212a811b4c#npm:1.6.0"],\
+            ["@types/graphology-types", null],\
+            ["graphology-types", "npm:0.24.7"],\
+            ["graphology-utils", "virtual:16cc495373a03af61db2b1efe83561769efa365ed6a71bdb76c6617e2c8701b48288b88013ba1afeda1b2afe3752511ae5052f802484f14e940977212a811b4c#npm:2.5.2"]\
+          ],\
+          "packagePeers": [\
+            "@types/graphology-types",\
+            "graphology-types"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["graphology-types", [\
         ["npm:0.24.7", {\
           "packageLocation": "./.yarn/cache/graphology-types-npm-0.24.7-a8b00b29fd-352de48ee7.zip/node_modules/graphology-types/",\
@@ -4133,6 +4193,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["graphology-utils", "npm:2.5.2"]\
           ],\
           "linkType": "SOFT"\
+        }],\
+        ["virtual:16cc495373a03af61db2b1efe83561769efa365ed6a71bdb76c6617e2c8701b48288b88013ba1afeda1b2afe3752511ae5052f802484f14e940977212a811b4c#npm:2.5.2", {\
+          "packageLocation": "./.yarn/__virtual__/graphology-utils-virtual-eb07ca50cc/0/cache/graphology-utils-npm-2.5.2-374071b406-803e53795c.zip/node_modules/graphology-utils/",\
+          "packageDependencies": [\
+            ["graphology-utils", "virtual:16cc495373a03af61db2b1efe83561769efa365ed6a71bdb76c6617e2c8701b48288b88013ba1afeda1b2afe3752511ae5052f802484f14e940977212a811b4c#npm:2.5.2"],\
+            ["@types/graphology-types", null],\
+            ["graphology-types", "npm:0.24.7"]\
+          ],\
+          "packagePeers": [\
+            "@types/graphology-types",\
+            "graphology-types"\
+          ],\
+          "linkType": "HARD"\
         }],\
         ["virtual:5a3a64e43a7a2ed50158f5ebdfe5f99490db342464fa397eaa3d5d3de790fa2cae435deadff2b34e5a53844572f9b2c34a848ba4ff7c1d658761409f928088e5#npm:2.5.2", {\
           "packageLocation": "./.yarn/__virtual__/graphology-utils-virtual-ee6c9ef853/0/cache/graphology-utils-npm-2.5.2-374071b406-803e53795c.zip/node_modules/graphology-utils/",\
@@ -8210,6 +8283,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             "@types/utf-8-validate",\
             "bufferutil",\
             "utf-8-validate"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["xml-writer", [\
+        ["npm:1.7.0", {\
+          "packageLocation": "./.yarn/cache/xml-writer-npm-1.7.0-20fc111d97-1d41f4efdd.zip/node_modules/xml-writer/",\
+          "packageDependencies": [\
+            ["xml-writer", "npm:1.7.0"]\
           ],\
           "linkType": "HARD"\
         }]\
