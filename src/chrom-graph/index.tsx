@@ -1,17 +1,9 @@
 import React from "react";
-// import * as GT from "graphology-types";
-import * as G from "graphology";
-// import * as C from "graphology-canvas";
 import * as C from "sigma";
-import * as CT from "sigma/types";
-// import * as GL from "graphology-layout";
-import * as N from "./node";
-import * as F from "./figure";
-import * as Collide from "./collide";
 import * as Route from "../route";
-import gexf from 'graphology-gexf/browser'
+import * as Graph from "./graph";
+import gexf from "graphology-gexf/browser";
 import { Link, useParams } from "react-router-dom";
-// import forceAtlas2 from "graphology-layout-forceatlas2";
 
 const style = {
   canvas: {
@@ -22,87 +14,16 @@ const style = {
   },
 };
 
-function empty(): G.default {
-  return new G.UndirectedGraph<
-    Partial<CT.NodeDisplayData>,
-    Partial<CT.EdgeDisplayData>
-  >({
-    allowSelfLoops: false,
-    multi: false,
-    type: "undirected",
-  });
-}
-
-function renderNode(node: N.Node): Partial<CT.NodeDisplayData> {
-  const xy = N.toXY(node.coords);
-  return {
-    color: node.color ?? "black",
-    label: node.label
-      ? `${node.label} (${node.id})@${JSON.stringify(xy)}`
-      : `${node.id}@${JSON.stringify(xy)}`,
-    size: 5,
-    ...xy,
-  };
-}
-
-function toGraph(d: N.Figure): G.default {
-  const g = empty();
-  for (let node of d.nodes) {
-    g.addNode(node.id, renderNode(node));
-  }
-  for (let [a, b] of d.edges) {
-    g.addEdge(a, b);
-  }
-  return g;
-}
-
-function loadFigure(figure: string | undefined): N.Node[] {
-  switch (figure) {
-    case "figure1":
-      return F.figure1("figure1");
-    case "figure2":
-      return F.figure2("figure2");
-    case "figure4":
-      return F.figure4("figure4");
-    case "figure5":
-      return F.figure5("figure5");
-    case "figure7a":
-      return F.figure7a("figure7a");
-    case "figure7b":
-      return F.figure7b("figure7b");
-    case "figure7c":
-      return F.figure7c("figure7c");
-    case "figureW":
-      return F.figureW("figureW");
-    case "figure8":
-      return F.figure8("figure8");
-    case "figurePreN2":
-      return F.figurePreN2("figurePreN2");
-    case "figurePreN4":
-      return F.figurePreN4("figurePreN4");
-    case "figurePreN5":
-      return F.figurePreN5("figurePreN5");
-    default:
-      return F.figure1("figure1");
-  }
-}
-
-// function createFileDownload(body: string, filename: string): () => void {
-  // return 
-// }
 export default function ChromaticGraph(): JSX.Element {
   const params = useParams();
-  const tsA = Date.now();
-  const fig0 = loadFigure(params.figure);
-  const tsB = Date.now();
-  const collide = Collide.collide(fig0);
-  const tsC = Date.now();
-  const elapsedLoad = tsB - tsA;
-  const elapsedCollide = tsC - tsB;
-  const graph = toGraph(collide.fig);
-  const gexfS = gexf.write(graph)
-  const download = `data:text/plain;base64,${encodeURIComponent(btoa(gexfS))}`
-  const downloadFilename = `${params.figure ?? 'figure1'}.gexf`
+  const figureName = params.figure ?? "figure1";
+  const instance = Graph.byName[figureName];
+  if (!instance) throw new Error(`no such figure: ${figureName}`);
+  const { graph, collide, fig, elapsedCollide, elapsedLoad } =
+    Graph.buildGraph(instance);
+  const gexfS = gexf.write(graph);
+  const download = `data:text/plain;base64,${encodeURIComponent(btoa(gexfS))}`;
+  const downloadFilename = `${params.figure ?? "figure1"}.gexf`;
   const canvas = React.useRef<HTMLDivElement | null>(null);
   React.useEffect(() => {
     if (canvas.current) {
@@ -163,7 +84,7 @@ export default function ChromaticGraph(): JSX.Element {
       </nav>
       <ul>
         <li>
-          {collide.fig.nodes.length} nodes ({fig0.length} generated nodes;{" "}
+          {collide.fig.nodes.length} nodes ({fig.length} generated nodes;{" "}
           {collide.removed.size} collisions removed)
         </li>
         <li>
@@ -177,7 +98,10 @@ export default function ChromaticGraph(): JSX.Element {
           (edges/duplicates) in {elapsedCollide}ms
         </li>
         <li>
-          download: <a href={download} download={downloadFilename}>.gexf</a>
+          download:{" "}
+          <a href={download} download={downloadFilename}>
+            .gexf
+          </a>
         </li>
       </ul>
       <div style={style.canvas} ref={canvas}></div>

@@ -26,6 +26,27 @@ import { flow, pipe } from "fp-ts/lib/function";
 import * as C from "./collide";
 import { keyBy } from "../util/schema";
 
+export interface Instance {
+    name: string
+    label?: string
+    figure: (s: string) => Node[]
+}
+export const list: readonly Instance[] = [
+    {name: 'figure1', figure: figure1},
+    {name: 'figure2', figure: figure2},
+    {name: 'figure4', figure: figure4},
+    {name: 'figure5', figure: figure5},
+    {name: 'figure7a', figure: figure7a},
+    {name: 'figure7b', figure: figure7b},
+    {name: 'figure7c', figure: figure7c},
+    {name: 'figureW', figure: figureW},
+    {name: 'figure8', figure: figure8},
+    {name: 'figurePreN2', figure: figurePreN2},
+    {name: 'figurePreN4', figure: figurePreN4},
+    {name: 'figurePreN5', figure: figurePreN5},
+]
+export const byName: Record<string, Instance> = keyBy(list, i => i.name)
+
 export function figure1(name: string): Node[] {
   const origin = {
     id: `${name}-0`,
