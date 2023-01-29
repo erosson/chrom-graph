@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
-import ChromGraph from "./chrom-graph/index.js";
+import ChromGraphGen from "./chrom-graph/view-gen.js";
+import ChromGraphFetch from "./chrom-graph/view-fetch.js";
 import * as Route from "./route.js";
 
 function Layout() {
@@ -21,12 +22,15 @@ function App(): JSX.Element {
       children: [
         {
           path: Route.Route.home,
-          // element: <>howdy! click a demo link above</>,
-          element: <ChromGraph />,
+          element: <ChromGraphFetch/>,
         },
         {
           path: Route.Route.chromGraph,
-          element: <ChromGraph />,
+          element: <ChromGraphFetch />,
+        },
+        {
+          path: Route.Route.chromGraphGen,
+          element: <ChromGraphGen />,
         },
       ],
     },

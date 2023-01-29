@@ -10,5 +10,6 @@
 !.yarn/cache
 #.pnp.*
 
+/dist
 /build
-/out
+/public/graphdata

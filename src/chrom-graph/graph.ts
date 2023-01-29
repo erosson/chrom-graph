@@ -6,12 +6,12 @@ import * as CT from "sigma/types.js";
 
 export {byName} from './figure.js'
 
-type Graph = G.default<
+export type Graph = G.default<
   Partial<CT.NodeDisplayData>,
   Partial<CT.EdgeDisplayData>
 >;
 
-function empty(): Graph {
+export function empty(): Graph {
   // @ts-expect-error graphology-types seems screwy here
   return new G.default({
     allowSelfLoops: false,

@@ -32,18 +32,18 @@ export interface Instance {
     figure: (s: string) => Node[]
 }
 export const list: readonly Instance[] = [
-    {name: 'figure1', figure: figure1},
-    {name: 'figure2', figure: figure2},
-    {name: 'figure4', figure: figure4},
-    {name: 'figure5', figure: figure5},
-    {name: 'figure7a', figure: figure7a},
-    {name: 'figure7b', figure: figure7b},
-    {name: 'figure7c', figure: figure7c},
-    {name: 'figureW', figure: figureW},
-    {name: 'figure8', figure: figure8},
-    {name: 'figurePreN2', figure: figurePreN2},
-    {name: 'figurePreN4', figure: figurePreN4},
-    {name: 'figurePreN5', figure: figurePreN5},
+    {name: 'figure1', figure: figure1, label: 'Figure 1'},
+    {name: 'figure2', figure: figure2, label: 'Figure 2'},
+    {name: 'figure4', figure: figure4, label: 'Figure 4'},
+    {name: 'figure5', figure: figure5, label: 'Figure 5'},
+    {name: 'figure7a', figure: figure7a, label: 'Figure 7a (Moser spindle)'},
+    {name: 'figure7b', figure: figure7b, label: 'Figure 7b'},
+    {name: 'figure7c', figure: figure7c, label: 'Figure 7c'},
+    {name: 'figureW', figure: figureW, label: 'Graph W'},
+    {name: 'figure8', figure: figure8, label: 'Figure 8/graph M'},
+    {name: 'figurePreN2', figure: figurePreN2, label: 'Figure 2-preN'},
+    {name: 'figurePreN4', figure: figurePreN4, label: 'Figure 4-preN'},
+    {name: 'figurePreN5', figure: figurePreN5, label: 'Figure 5-preN'},
 ]
 export const byName: Record<string, Instance> = keyBy(list, i => i.name)
 
