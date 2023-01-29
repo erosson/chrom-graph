@@ -1,4 +1,4 @@
-import { sum } from "../util/math";
+import { sum } from "../util/math.js";
 
 export type ID = string;
 

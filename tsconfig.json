@@ -5,11 +5,12 @@
     "strict": true,
     "noImplicitAny": true,
     "module": "es2020",
-    "moduleResolution": "node",
+    "moduleResolution": "nodenext",
     "target": "es2020",
     "jsx": "react",
     "lib": ["DOM", "ES2019"],
+    "outDir": "build",
     "allowJs": true
   },
-  "files": ["src/index.tsx"]
+  "files": ["src/index.tsx", "src/cli.ts"]
 }

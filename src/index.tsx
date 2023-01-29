@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
-import ChromGraph from "./chrom-graph";
-import * as Route from "./route";
+import ChromGraph from "./chrom-graph/index.js";
+import * as Route from "./route.js";
 
 function Layout() {
   return (

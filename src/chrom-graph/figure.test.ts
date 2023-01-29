@@ -1,40 +1,32 @@
-import * as F from './figure'
-import * as C from './collide'
+import * as G from './graph.js'
 
 test('figure1', () => {
-    const fig0 = F.figure1('')
-    const collide = C.collide(fig0)
-    expect(collide.fig.nodes).toHaveLength(7)
+    const g = G.buildGraph(G.byName['figure1'])
+    expect(g.collide.fig.nodes).toHaveLength(7)
 })
 test('figure2', () => {
-    const fig0 = F.figure2('')
-    const collide = C.collide(fig0)
-    expect(collide.fig.nodes).toHaveLength(31)
+    const g = G.buildGraph(G.byName['figure2'])
+    expect(g.collide.fig.nodes).toHaveLength(31)
 })
 test('figure4', () => {
-    const fig0 = F.figure4('')
-    const collide = C.collide(fig0)
-    expect(collide.fig.nodes).toHaveLength(61)
+    const g = G.buildGraph(G.byName['figure4'])
+    expect(g.collide.fig.nodes).toHaveLength(61)
 })
 test('figure5', () => {
-    const fig0 = F.figure5('')
-    const collide = C.collide(fig0)
-    expect(collide.fig.nodes).toHaveLength(121)
+    const g = G.buildGraph(G.byName['figure5'])
+    expect(g.collide.fig.nodes).toHaveLength(121)
 })
 test('figure7a', () => {
-    const fig0 = F.figure7a('')
-    const collide = C.collide(fig0)
-    expect(collide.fig.nodes).toHaveLength(7)
-    expect(collide.fig.edges).toHaveLength(11)
+    const g = G.buildGraph(G.byName['figure7a'])
+    expect(g.collide.fig.nodes).toHaveLength(7)
+    expect(g.collide.fig.edges).toHaveLength(11)
 })
 test('figureW', () => {
-    const fig0 = F.figureW('')
-    const collide = C.collide(fig0)
-    expect(collide.fig.nodes).toHaveLength(301)
+    const g = G.buildGraph(G.byName['figureW'])
+    expect(g.collide.fig.nodes).toHaveLength(301)
 })
 test('figure8', () => {
-    const fig0 = F.figure8('')
-    const collide = C.collide(fig0)
-    expect(collide.fig.nodes).toHaveLength(1345)
+    const g = G.buildGraph(G.byName['figure8'])
+    expect(g.collide.fig.nodes).toHaveLength(1345)
 })
 

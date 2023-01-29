@@ -1,5 +1,5 @@
-import * as F from "./figure";
-import * as N from "./node";
+import * as F from "./figure.js";
+import * as N from "./node.js";
 
 export interface Collide {
   /**

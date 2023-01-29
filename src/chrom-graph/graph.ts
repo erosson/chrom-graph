@@ -1,10 +1,10 @@
-import * as N from "./node";
-import * as F from "./figure";
-import * as C from "./collide";
+import * as N from "./node.js";
+import * as F from "./figure.js";
+import * as C from "./collide.js";
 import * as G from "graphology";
-import * as CT from "sigma/types";
+import * as CT from "sigma/types.js";
 
-export {byName} from './figure'
+export {byName} from './figure.js'
 
 type Graph = G.default<
   Partial<CT.NodeDisplayData>,
@@ -12,7 +12,8 @@ type Graph = G.default<
 >;
 
 function empty(): Graph {
-  return new G.UndirectedGraph({
+  // @ts-expect-error graphology-types seems screwy here
+  return new G.default({
     allowSelfLoops: false,
     multi: false,
     type: "undirected",

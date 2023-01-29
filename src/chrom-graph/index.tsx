@@ -1,7 +1,7 @@
 import React from "react";
 import * as C from "sigma";
-import * as Route from "../route";
-import * as Graph from "./graph";
+import * as Route from "../route.js";
+import * as Graph from "./graph.js";
 import gexf from "graphology-gexf/browser";
 import { Link, useParams } from "react-router-dom";
 

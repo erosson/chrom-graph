@@ -1,5 +1,5 @@
-import * as F from './chrom-graph/figure'
-import * as G from './chrom-graph/graph'
+import * as F from './chrom-graph/figure.js'
+import * as G from './chrom-graph/graph.js'
 import gexf from "graphology-gexf";
 import * as fs from 'fs/promises'
 

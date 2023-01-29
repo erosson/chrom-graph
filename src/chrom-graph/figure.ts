@@ -19,12 +19,12 @@ import {
   recenter,
   Coords,
   scaleAngle,
-} from "./node";
-import { range, sum } from "../util/math";
-import { distance } from "./collide";
-import { flow, pipe } from "fp-ts/lib/function";
-import * as C from "./collide";
-import { keyBy } from "../util/schema";
+} from "./node.js";
+import { range, sum } from "../util/math.js";
+import { distance } from "./collide.js";
+import { flow, pipe } from "fp-ts/lib/function.js";
+import * as C from "./collide.js";
+import { keyBy } from "../util/schema.js";
 
 export interface Instance {
     name: string
