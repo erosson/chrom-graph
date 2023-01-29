@@ -27,25 +27,26 @@ import * as C from "./collide.js";
 import { keyBy } from "../util/schema.js";
 
 export interface Instance {
-    name: string
-    label?: string
-    figure: (s: string) => Node[]
+  name: string;
+  label?: string;
+  figure: (s: string) => Node[];
 }
 export const list: readonly Instance[] = [
-    {name: 'figure1', figure: figure1, label: 'Figure 1'},
-    {name: 'figure2', figure: figure2, label: 'Figure 2'},
-    {name: 'figure4', figure: figure4, label: 'Figure 4'},
-    {name: 'figure5', figure: figure5, label: 'Figure 5'},
-    {name: 'figure7a', figure: figure7a, label: 'Figure 7a (Moser spindle)'},
-    {name: 'figure7b', figure: figure7b, label: 'Figure 7b'},
-    {name: 'figure7c', figure: figure7c, label: 'Figure 7c'},
-    {name: 'figureW', figure: figureW, label: 'Graph W'},
-    {name: 'figure8', figure: figure8, label: 'Figure 8/graph M'},
-    {name: 'figurePreN2', figure: figurePreN2, label: 'Figure 2-preN'},
-    {name: 'figurePreN4', figure: figurePreN4, label: 'Figure 4-preN'},
-    {name: 'figurePreN5', figure: figurePreN5, label: 'Figure 5-preN'},
-]
-export const byName: Record<string, Instance> = keyBy(list, i => i.name)
+  { name: "figure1", figure: figure1, label: "Figure 1" },
+  { name: "figure2", figure: figure2, label: "Figure 2" },
+  { name: "figure4", figure: figure4, label: "Figure 4" },
+  { name: "figure5", figure: figure5, label: "Figure 5" },
+  { name: "figure7a", figure: figure7a, label: "Figure 7a (Moser spindle)" },
+  { name: "figure7b", figure: figure7b, label: "Figure 7b" },
+  { name: "figure7c", figure: figure7c, label: "Figure 7c" },
+  { name: "figureW", figure: figureW, label: "Graph W" },
+  { name: "figure8", figure: figure8, label: "Figure 8/graph M" },
+  { name: "figurePreN2", figure: figurePreN2, label: "Figure 2-preN" },
+  { name: "figurePreN4", figure: figurePreN4, label: "Figure 4-preN" },
+  { name: "figurePreN5", figure: figurePreN5, label: "Figure 5-preN" },
+  { name: "section51", figure: section51 },
+];
+export const byName: Record<string, Instance> = keyBy(list, (i) => i.name);
 
 export function figure1(name: string): Node[] {
   const origin = {
@@ -295,4 +296,34 @@ export function figureN(name: string): Node[] {
   // Gotta refactor all those early figures to make that possible though - shouldn't be too bad.
   // though, we're too slow to run it right now anyway...
   throw new Error("TODO");
+}
+
+export function section51(name: string): Node[] {
+  // (1) Let S be the following set of points:
+  const coords0 = [
+    // line 1
+    xy(0, 0),
+    xy(1 / 3, 0),
+    xy(1, 0),
+    xy(2, 0),
+    xy((Math.sqrt(33) - 3) / 6, 0),
+    xy(1 / 2, 1 / Math.sqrt(12)),
+    xy(1, 1 / Math.sqrt(3)),
+    xy(3 / 2, Math.sqrt(3) / 2),
+    // line 2
+    xy(7 / 6, Math.sqrt(11) / 6),
+    xy(1 / 6, (Math.sqrt(12) - Math.sqrt(11)) / 6),
+    xy(6 / 6, (Math.sqrt(12) - Math.sqrt(11)) / 6),
+    // line 3
+    xy(2 / 3, (Math.sqrt(11) - Math.sqrt(3)) / 6),
+    xy(2 / 3, (3 * Math.sqrt(3) - Math.sqrt(11)) / 6),
+    xy(Math.sqrt(33) / 6, 1 / Math.sqrt(12)),
+    // line 4
+    xy((Math.sqrt(33) + 3) / 6, 1 / Math.sqrt(3)),
+    xy((Math.sqrt(33) + 1) / 6, (3 * Math.sqrt(3) - Math.sqrt(11)) / 6),
+    xy((Math.sqrt(33) - 1) / 6, (3 * Math.sqrt(3) - Math.sqrt(11)) / 6),
+    // line 5
+    // ugh this is tedious, more later
+  ];
+  return coords0.map((coords, i) => ({ id: `${name}-${i}`, coords }));
 }
