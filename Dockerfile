@@ -12,7 +12,7 @@ COPY .pnp.cjs .pnp.cjs
 COPY .pnp.loader.mjs .pnp.loader.mjs
 COPY package.json package.json
 COPY yarn.lock yarn.lock
-COPY webpack.config.js webpack.config.js
+COPY webpack.config.cjs webpack.config.cjs
 COPY tsconfig.json tsconfig.json
 
 # RUN --mount=type=cache,target=/root/.yarn/berry/cache \
