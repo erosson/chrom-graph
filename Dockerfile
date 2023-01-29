@@ -24,9 +24,8 @@ FROM node:16.13.0-alpine as build
 COPY --from=dependencies /app /app
 WORKDIR /app
 COPY src src
-COPY public public
 # FROM build as x
-RUN yarn build
+RUN yarn cli && yarn build
 
 # after building, `www` is static html
 # https://hub.docker.com/_/nginx
