@@ -7,45 +7,9 @@
 // loop over verts: every vert must have a color. 1 var per color per vert. multiple colors okay?!
 // loop over edges: every edge must join two *different* colors.
 
-// TODO: run minisat on the cnf file
-// TODO: parse minisat's output
-// TODO: draw minisat's colors
-
-import { range } from "../util/math.js";
-import { groupBy } from "../util/schema.js";
-import * as N from "./node.js";
-
-// CNF file variables are just numbers, borderline human-unreadable. Map them to our string node names.
-// cnfVar === nodeId + color. For a 4-color file, 1 nodeId has 4 VarEntrys
-export type ColorID = number;
-export interface VarEntry {
-  cnfVar: number;
-  nodeId: N.ID;
-  color: ColorID;
-}
-export interface VarIndex {
-  list: VarEntry[];
-  byNodeId: Record<N.ID, VarEntry[]>;
-}
-
-export function toVarIndex(fig: N.Figure, colors: ColorID[]): VarIndex {
-  const list = fig.nodes
-    .map((node, i) => {
-      return colors.map((color, j) => {
-        const cnfVar = i * colors.length + j + 1;
-        return { cnfVar, color, nodeId: node.id };
-      });
-    })
-    .flat();
-  return {
-    list,
-    byNodeId: groupBy<N.ID, VarEntry>(
-      fig.nodes.map((n) => n.id),
-      list,
-      (v) => v.nodeId
-    ),
-  };
-}
+import { range } from "../../util/math.js";
+import * as N from "../node.js";
+import * as X from './lookup.js'
 
 // CNF file code generation.
 // All lines (clauses) are ANDed together; all vars on each line are ORed together.
@@ -56,8 +20,8 @@ export function toVarIndex(fig: N.Figure, colors: ColorID[]): VarIndex {
 // 4 5 0
 // means
 // (1 OR (NOT 2) OR (NOT 3)) AND (4 OR 5)
-export interface File {
-  type: "file";
+export interface InputFile {
+  type: "input-file";
   header: Header;
   body: Line[];
 }
@@ -90,8 +54,8 @@ export interface Negate {
   v: Var;
 }
 
-function file(header: Header, body: Line[]): File {
-  return { type: "file", header, body };
+function inputFile(header: Header, body: Line[]): InputFile {
+  return { type: "input-file", header, body };
 }
 function header(h: Omit<Header, "type">): Header {
   return { type: "header", ...h };
@@ -102,16 +66,16 @@ function comment(comment: string): Line {
 function clause(values: Value[]): Line {
   return { type: "clause", values };
 }
-function var_(entry: VarEntry): Var {
+function var_(entry: X.VarEntry): Var {
   return { type: "var", name: entry.cnfVar };
 }
 function negate(v: Var): Value {
   return { type: "negate", v };
 }
-export type Element = File | Header | Comment | Clause | Var | Negate;
+export type Element = InputFile | Header | Comment | Clause | Var | Negate;
 export function render(el: Element): string {
   switch (el.type) {
-    case "file":
+    case "input-file":
       return [el.header as Element].concat(el.body).map(render).join("\n");
     case "header":
       return `p cnf ${el.varCount} ${el.clauseCount}`;
@@ -128,8 +92,8 @@ export function render(el: Element): string {
   }
 }
 
-export function toFile(fig: N.Figure, colors: ColorID[] = range(4)): File {
-  const index = toVarIndex(fig, colors);
+export function toInputFile(fig: N.Figure, colors: X.ColorID[]): InputFile {
+  const index = X.toVarIndex(fig.nodes.map(n => n.id), colors);
   const atLeastOneColorPerVar = fig.nodes.flatMap((node) => {
     const entries = index.byNodeId[node.id];
     return [
@@ -155,8 +119,8 @@ export function toFile(fig: N.Figure, colors: ColorID[] = range(4)): File {
     ...adjacentNodesMustBeDifferentColors,
   ];
   const head = header({
-    clauseCount: body.length,
+    clauseCount: body.filter(l => l.type === 'clause').length,
     varCount: index.list.length,
   });
-  return { type: "file", body, header: head };
+  return inputFile(head, body)
 }

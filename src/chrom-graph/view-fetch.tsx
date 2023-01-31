@@ -5,6 +5,9 @@ import * as G from "graphology";
 import * as Route from "../route.js";
 import Nav from "../nav.js";
 import gexf from "graphology-gexf/browser";
+import {colors} from './node.js'
+import * as CNF from './cnf/lookup.js'
+import * as CNFO from './cnf/output-file.js'
 import { Link, useParams } from "react-router-dom";
 
 const style = {
@@ -21,12 +24,13 @@ export default function ChromaticGraphFetch(): JSX.Element {
   const figureName = params.figure ?? "figure1";
   const gexfSrc = `/graphdata/${figureName}.gexf`;
   const cnfSrc = `/graphdata/${figureName}.cnf`;
+  const satSrc = `/graphdata/${figureName}.sat`;
   const [graph, setGraph] = React.useState<G.default | null>(null);
   const [error, setError] = React.useState<Error | null>(null);
 
   React.useEffect(() => {
     (async () => {
-      const srcs = [gexfSrc, cnfSrc];
+      const srcs = [gexfSrc, cnfSrc, satSrc];
       const ress = await Promise.all(srcs.map((src) => fetch(src)));
       for (let res of ress) {
         if (res.status !== 200) {
@@ -34,9 +38,12 @@ export default function ChromaticGraphFetch(): JSX.Element {
         }
       }
       const strs = await Promise.all(ress.map((res) => res.text()));
-      const [gexfS, cnfS] = strs;
+      const [gexfS, cnfS, satS] = strs;
       // @ts-expect-error graphology-types is screwy
-      setGraph(gexf.parse(G.default, gexfS));
+      const graph0 = gexf.parse(G.default, gexfS)
+      const cnfOutput = CNFO.parse(satS)
+      const graph = cnfOutput.type === 'output-sat' ? CNFO.colorize(graph0, colors, cnfOutput) : graph0
+      setGraph(graph);
     })().catch((err) => {
       console.error(err);
       setError(err);
@@ -66,7 +73,8 @@ export default function ChromaticGraphFetch(): JSX.Element {
         <li>{graph.edges().length} unit edges</li>
         <li>
           download: <a href={gexfSrc}>.gexf</a>,{" "}
-          <a href={cnfSrc}>4-color .cnf</a>
+          <a href={cnfSrc}>4-color .cnf</a>,{" "}
+          <a href={satSrc}>4-color minisat output</a>
         </li>
       </ul>
       <div style={style.canvas} ref={canvas}></div>

@@ -114,12 +114,4 @@ export function toXY(c: Coords): { x: number; y: number } {
   }
 }
 
-// enum Color {
-//   a = "yellow",
-//   b = "red",
-//   c = "blue",
-//   d = "green",
-//   e = "purple",
-//   f = "orange",
-//   g = "pink",
-// }
+export const colors = ['red', 'blue', 'green', 'yellow']

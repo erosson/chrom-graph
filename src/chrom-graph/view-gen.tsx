@@ -25,7 +25,7 @@ export default function ChromaticGraphGen(): JSX.Element {
   const download = `data:text/plain;base64,${encodeURIComponent(btoa(gexfS))}`;
   const downloadFilename = `${params.figure ?? "figure1"}.gexf`;
   const downloadCnf = `data:text/plain;base64,${encodeURIComponent(
-    btoa(g.cnf)
+    btoa(g.cnfInput)
   )}`;
   const downloadFilenameCnf = `${params.figure ?? "figure1"}.cnf`;
 

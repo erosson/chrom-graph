@@ -3,7 +3,8 @@ import * as F from "./figure.js";
 import * as C from "./collide.js";
 import * as G from "graphology";
 import * as CT from "sigma/types.js";
-import * as CNF from "./cnf.js";
+import * as CNF from "./cnf/lookup.js";
+import * as CNFI from "./cnf/input-file.js";
 
 export { byName } from "./figure.js";
 
@@ -15,8 +16,8 @@ interface GraphOutput {
   elapsedLoad: number;
   elapsedCollide: number;
   cnfIndex: CNF.VarIndex;
-  cnfFile: CNF.File;
-  cnf: string;
+  cnfFile: CNFI.InputFile;
+  cnfInput: string;
 }
 
 export type Graph = G.default<
@@ -65,9 +66,9 @@ export function buildGraph(instance: F.Instance): GraphOutput {
   const elapsedLoad = tsB - tsA;
   const elapsedCollide = tsC - tsB;
   const graph = toGraph(collide.fig);
-  const cnfIndex = CNF.toVarIndex(collide.fig, [1, 2, 3, 4]);
-  const cnfFile = CNF.toFile(collide.fig, [1, 2, 3, 4]);
-  const cnf = CNF.render(cnfFile)
+  const cnfIndex = CNF.toVarIndex(collide.fig.nodes.map(n => n.id), N.colors);
+  const cnfFile = CNFI.toInputFile(collide.fig, N.colors);
+  const cnfInput = CNFI.render(cnfFile)
   return {
     graph,
     collide,
@@ -77,6 +78,6 @@ export function buildGraph(instance: F.Instance): GraphOutput {
     elapsedCollide,
     cnfIndex,
     cnfFile,
-    cnf
+    cnfInput,
   };
 }

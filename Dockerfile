@@ -24,6 +24,8 @@ FROM node:16.13.0-alpine as build
 COPY --from=dependencies /app /app
 WORKDIR /app
 COPY src src
+COPY vendor vendor
+COPY scripts scripts
 # FROM build as x
 RUN yarn cli && yarn build
 
