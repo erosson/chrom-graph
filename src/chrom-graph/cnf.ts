@@ -15,7 +15,8 @@ import { range } from "../util/math.js";
 import { groupBy } from "../util/schema.js";
 import * as N from "./node.js";
 
-// build an index mapping cnf-variables to node-id + color-id
+// CNF file variables are just numbers, borderline human-unreadable. Map them to our string node names.
+// cnfVar === nodeId + color. For a 4-color file, 1 nodeId has 4 VarEntrys
 export type ColorID = number;
 export interface VarEntry {
   cnfVar: number;
@@ -46,12 +47,22 @@ export function toVarIndex(fig: N.Figure, colors: ColorID[]): VarIndex {
   };
 }
 
+// CNF file code generation.
+// All lines (clauses) are ANDed together; all vars on each line are ORed together.
+// Negative means NOT. Each number is a variable - except 0, which is EOL.
+//
+// For example:
+// 1 -2 -3 0
+// 4 5 0
+// means
+// (1 OR (NOT 2) OR (NOT 3)) AND (4 OR 5)
 export interface File {
   type: "file";
   header: Header;
   body: Line[];
 }
 export interface Header {
+  // The first line of every CNF file.
   // `p cnf varCount clauseCount`
   type: "header";
   varCount: number;
@@ -147,5 +158,5 @@ export function toFile(fig: N.Figure, colors: ColorID[] = range(4)): File {
     clauseCount: body.length,
     varCount: index.list.length,
   });
-  return { type: 'file', body, header: head };
+  return { type: "file", body, header: head };
 }
