@@ -3,8 +3,21 @@ import * as F from "./figure.js";
 import * as C from "./collide.js";
 import * as G from "graphology";
 import * as CT from "sigma/types.js";
+import * as CNF from "./cnf.js";
 
-export {byName} from './figure.js'
+export { byName } from "./figure.js";
+
+interface GraphOutput {
+  graph: Graph;
+  collide: C.Collide;
+  fig: N.Node[];
+  instance: F.Instance;
+  elapsedLoad: number;
+  elapsedCollide: number;
+  cnfIndex: CNF.VarIndex;
+  cnfFile: CNF.File;
+  cnf: string;
+}
 
 export type Graph = G.default<
   Partial<CT.NodeDisplayData>,
@@ -43,14 +56,6 @@ function toGraph(d: N.Figure): G.default {
   return g;
 }
 
-interface GraphOutput {
-  graph: Graph;
-  collide: C.Collide;
-  fig: N.Node[];
-  instance: F.Instance;
-  elapsedLoad: number;
-  elapsedCollide: number;
-}
 export function buildGraph(instance: F.Instance): GraphOutput {
   const tsA = Date.now();
   const fig = instance.figure(instance.name);
@@ -60,5 +65,18 @@ export function buildGraph(instance: F.Instance): GraphOutput {
   const elapsedLoad = tsB - tsA;
   const elapsedCollide = tsC - tsB;
   const graph = toGraph(collide.fig);
-  return { graph, collide, fig, instance, elapsedLoad, elapsedCollide };
+  const cnfIndex = CNF.toVarIndex(collide.fig, [1, 2, 3, 4]);
+  const cnfFile = CNF.toFile(collide.fig, [1, 2, 3, 4]);
+  const cnf = CNF.render(cnfFile)
+  return {
+    graph,
+    collide,
+    fig,
+    instance,
+    elapsedLoad,
+    elapsedCollide,
+    cnfIndex,
+    cnfFile,
+    cnf
+  };
 }

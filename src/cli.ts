@@ -12,6 +12,7 @@ async function main() {
     await Promise.all([
       await fs.writeFile(`${dir}/${instance.name}.gexf`, gexf.write(g.graph)),
       // await fs.writeFile(`${dir}/${instance.name}.json`, JSON.stringify(g))
+      await fs.writeFile(`${dir}/${instance.name}.cnf`, g.cnf)
     ]);
     console.log(`${instance.name} finished`);
   }

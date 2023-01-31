@@ -22,19 +22,29 @@ export default function ChromaticGraphFetch(): JSX.Element {
   const [graph, setGraph] = React.useState<G.default | null>(null);
   const [error, setError] = React.useState<Error | null>(null);
   const [gexfS, setGexfS] = React.useState<string | null>(null);
+  const [cnfS, setCnfS] = React.useState<string | null>(null);
   const download = gexfS ? `data:text/plain;base64,${encodeURIComponent(btoa(gexfS))}` : null;
   const downloadFilename = `${params.figure ?? "figure1"}.gexf`;
+  const downloadCnf = cnfS? `data:text/plain;base64,${encodeURIComponent(btoa(cnfS))}` : null;
+  const downloadFilenameCnf = `${params.figure ?? "figure1"}.gexf`;
 
   React.useEffect(() => {
     (async () => {
-      const res = await fetch(`/graphdata/${figureName}.gexf`);
-      if (res.status !== 200) {
-        throw new Error('no such graph')
+      const [gexfRes, cnfRes] = await Promise.all([
+        fetch(`/graphdata/${figureName}.gexf`),
+        fetch(`/graphdata/${figureName}.cnf`),
+      ]);
+      if (gexfRes.status !== 200) {
+        throw new Error('no such graph gexf')
       }
-      const gexfS = await res.text();
+      if (cnfRes.status !== 200) {
+        throw new Error('no such graph cnf')
+      }
+      const [gexfS, cnfS] = await Promise.all([gexfRes.text(), cnfRes.text()]);
       // @ts-expect-error graphology-types is screwy
       setGraph(gexf.parse(G.default, gexfS));
       setGexfS(gexfS)
+      setCnfS(cnfS)
     })().catch(err => {
       console.error(err)
       setError(err)
@@ -67,6 +77,9 @@ export default function ChromaticGraphFetch(): JSX.Element {
           download:{" "}
           <a href={download ?? ''} download={downloadFilename}>
             .gexf
+          </a>,{' '}
+          <a href={downloadCnf ?? ''} download={downloadFilenameCnf}>
+            4-color .cnf
           </a>
         </li>
       </ul>
