@@ -2,7 +2,7 @@ import React from "react";
 import * as C from "sigma";
 // import * as G from './graph.js'
 import * as G from "graphology";
-import * as Route from '../route.js'
+import * as Route from "../route.js";
 import Nav from "../nav.js";
 import gexf from "graphology-gexf/browser";
 import { Link, useParams } from "react-router-dom";
@@ -19,35 +19,27 @@ const style = {
 export default function ChromaticGraphFetch(): JSX.Element {
   const params = useParams();
   const figureName = params.figure ?? "figure1";
+  const gexfSrc = `/graphdata/${figureName}.gexf`;
+  const cnfSrc = `/graphdata/${figureName}.cnf`;
   const [graph, setGraph] = React.useState<G.default | null>(null);
   const [error, setError] = React.useState<Error | null>(null);
-  const [gexfS, setGexfS] = React.useState<string | null>(null);
-  const [cnfS, setCnfS] = React.useState<string | null>(null);
-  const download = gexfS ? `data:text/plain;base64,${encodeURIComponent(btoa(gexfS))}` : null;
-  const downloadFilename = `${params.figure ?? "figure1"}.gexf`;
-  const downloadCnf = cnfS? `data:text/plain;base64,${encodeURIComponent(btoa(cnfS))}` : null;
-  const downloadFilenameCnf = `${params.figure ?? "figure1"}.gexf`;
 
   React.useEffect(() => {
     (async () => {
-      const [gexfRes, cnfRes] = await Promise.all([
-        fetch(`/graphdata/${figureName}.gexf`),
-        fetch(`/graphdata/${figureName}.cnf`),
-      ]);
-      if (gexfRes.status !== 200) {
-        throw new Error('no such graph gexf')
+      const srcs = [gexfSrc, cnfSrc];
+      const ress = await Promise.all(srcs.map((src) => fetch(src)));
+      for (let res of ress) {
+        if (res.status !== 200) {
+          throw new Error("missing graph file");
+        }
       }
-      if (cnfRes.status !== 200) {
-        throw new Error('no such graph cnf')
-      }
-      const [gexfS, cnfS] = await Promise.all([gexfRes.text(), cnfRes.text()]);
+      const strs = await Promise.all(ress.map((res) => res.text()));
+      const [gexfS, cnfS] = strs;
       // @ts-expect-error graphology-types is screwy
       setGraph(gexf.parse(G.default, gexfS));
-      setGexfS(gexfS)
-      setCnfS(cnfS)
-    })().catch(err => {
-      console.error(err)
-      setError(err)
+    })().catch((err) => {
+      console.error(err);
+      setError(err);
     });
   }, [figureName]);
 
@@ -65,22 +57,16 @@ export default function ChromaticGraphFetch(): JSX.Element {
   ) : (
     <div>
       <Nav />
-      <div>Viewing pre-rendered graph (<Link to={Route.chromGraphGen(figureName)}>generate it live</Link>)</div>
+      <div>
+        Viewing pre-rendered graph (
+        <Link to={Route.chromGraphGen(figureName)}>generate it live</Link>)
+      </div>
       <ul>
+        <li>{graph.nodes().length} nodes</li>
+        <li>{graph.edges().length} unit edges</li>
         <li>
-          {graph.nodes().length} nodes
-        </li>
-        <li>
-          {graph.edges().length} unit edges
-        </li>
-        <li>
-          download:{" "}
-          <a href={download ?? ''} download={downloadFilename}>
-            .gexf
-          </a>,{' '}
-          <a href={downloadCnf ?? ''} download={downloadFilenameCnf}>
-            4-color .cnf
-          </a>
+          download: <a href={gexfSrc}>.gexf</a>,{" "}
+          <a href={cnfSrc}>4-color .cnf</a>
         </li>
       </ul>
       <div style={style.canvas} ref={canvas}></div>
