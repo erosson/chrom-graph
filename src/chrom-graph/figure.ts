@@ -44,7 +44,12 @@ export const list: readonly Instance[] = [
   { name: "figurePreN2", figure: figurePreN2, label: "Figure 2-preN" },
   { name: "figurePreN4", figure: figurePreN4, label: "Figure 4-preN" },
   { name: "figurePreN5", figure: figurePreN5, label: "Figure 5-preN" },
-  { name: "section51", figure: section51 },
+  {
+    name: "section51",
+    figure: section51,
+    label:
+      "Section 5.1 (This shouldn't be 4-colorable, I've clearly messed something up)",
+  },
 ];
 export const byName: Record<string, Instance> = keyBy(list, (i) => i.name);
 
@@ -300,7 +305,7 @@ export function figureN(name: string): Node[] {
 
 export function section51(name: string): Node[] {
   // (1) Let S be the following set of points:
-  const coords0 = [
+  const s = [
     // line 1
     xy(0, 0),
     xy(1 / 3, 0),
@@ -323,7 +328,78 @@ export function section51(name: string): Node[] {
     xy((Math.sqrt(33) + 1) / 6, (3 * Math.sqrt(3) - Math.sqrt(11)) / 6),
     xy((Math.sqrt(33) - 1) / 6, (3 * Math.sqrt(3) - Math.sqrt(11)) / 6),
     // line 5
-    // ugh this is tedious, more later
+    xy((Math.sqrt(33) + 1) / 6, (Math.sqrt(11) - Math.sqrt(3)) / 6),
+    xy((Math.sqrt(33) - 1) / 6, (Math.sqrt(11) - Math.sqrt(3)) / 6),
+    // line 6
+    xy((Math.sqrt(33) - 2) / 6, (2 * Math.sqrt(3) - Math.sqrt(11)) / 6),
+    xy((Math.sqrt(33) - 4) / 6, (2 * Math.sqrt(3) - Math.sqrt(11)) / 6),
+    // line 7
+    xy((Math.sqrt(33) + 13) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 12),
+    xy((Math.sqrt(33) + 11) / 12, (Math.sqrt(3) + Math.sqrt(11)) / 12),
+    // line 8
+    xy((Math.sqrt(33) + 9) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 4),
+    xy((Math.sqrt(33) + 9) / 12, (3 * Math.sqrt(3) + Math.sqrt(11)) / 12),
+    // line 9
+    xy((Math.sqrt(33) + 7) / 12, (Math.sqrt(3) + Math.sqrt(11)) / 12),
+    xy((Math.sqrt(33) + 7) / 12, (3 * Math.sqrt(3) - Math.sqrt(11)) / 12),
+    // line 10
+    xy((Math.sqrt(33) + 5) / 12, (5 * Math.sqrt(3) - Math.sqrt(11)) / 12),
+    xy((Math.sqrt(33) + 5) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 12),
+    // line 11 (-5)
+    xy((Math.sqrt(33) + 3) / 12, (3 * Math.sqrt(11) - 5 * Math.sqrt(3)) / 12),
+    xy((Math.sqrt(33) + 3) / 12, (Math.sqrt(3) + Math.sqrt(11)) / 12),
+    // line 12 (-4)
+    xy((Math.sqrt(33) + 3) / 12, (3 * Math.sqrt(3) - Math.sqrt(11)) / 12),
+    xy((Math.sqrt(33) + 1) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 12),
+    // line 13 (-3)
+    xy((Math.sqrt(33) - 1) / 12, (3 * Math.sqrt(3) - Math.sqrt(11)) / 12),
+    xy((Math.sqrt(33) - 3) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 12),
+    // line 14 (-2)
+    xy((15 - Math.sqrt(33)) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 4),
+    xy((15 - Math.sqrt(33)) / 12, (7 * Math.sqrt(3) - 3 * Math.sqrt(11)) / 4),
+    // line 15 (-1)
+    xy((13 - Math.sqrt(33)) / 12, (3 * Math.sqrt(3) - Math.sqrt(11)) / 12),
+    xy((11 - Math.sqrt(33)) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 12),
+    // ...ugh, tedious
   ];
-  return coords0.map((coords, i) => ({ id: `${name}-${i}`, coords }));
+
+  // 2. Let Sa be the unit-distance graph whose vertices consist of all points
+  // obtained by rotating the points in S around the origin by multiples of 60
+  // degrees and/or by negating their y-coordinates. Sa has a total of 397 vertices
+  const sa0 = s.flatMap((c0) => {
+    const p = toXY(c0);
+    const c1s = [c0, xy(p.x, -p.y)];
+    return range(0, 6).flatMap((slice) =>
+      c1s.map((c) => rotate(c, degrees(slice * 60)))
+    );
+  });
+  // merge coords to get the checkpointed node-count
+  const sa: Coords[] = C.mergeCoords(sa0);
+  if (sa.length !== 397)
+    throw new Error(`sa.length: expected 397, got ${sa.length}`);
+  // 3. Let Sb be Sa rotated anticlockwise about the origin by 2 arcsin(1/4).
+  const sb = sa.flatMap((c) => rotate(c, radians(2 * Math.asin(1 / 4))));
+  // 4. Let Y be the union of Sa and Sb with the vertices (1/3, 0) and (−1/3, 0) deleted.
+  const y = [...sa, ...sb].filter(
+    (c) =>
+      C.distance(toXY(c), { x: 1 / 3, y: 0 }) >= C.tolerance &&
+      C.distance(toXY(c), { x: -1 / 3, y: 0 }) >= C.tolerance
+  );
+  if (y.length !== 397 * 2 - 2)
+    throw new Error(`y.length: expected ${397 * 2 - 2}, got ${y.length}`);
+  // (5) Rotate Y anticlockwise about (-2,0) by π/2 + arcsin(1/8) to give Ya.
+  const ya = y.map((c) =>
+    rotateAbout(c, radians(Math.PI / 2 + Math.asin(1 / 8)), xy(-2, 0))
+  );
+  // (6) Rotate Y anticlockwise about (-2,0) by π/2 − arcsin(1/8) to give Yb.
+  const yb = y.map((c) =>
+    rotateAbout(c, radians(Math.PI / 2 - Math.asin(1 / 8)), xy(-2, 0))
+  );
+  // (7) Let G be the union of Ya and Yb.
+  // ...our current record being the 1581-vertex graph G
+  const g = C.mergeCoords([...ya, ...yb]);
+  if (g.length !== 1581)
+    throw new Error(`g.length: expected 1581, got ${g.length}`);
+  // hooray, now turn them into nodes and we're done
+  return g.map((coords, i) => ({ id: `${name}-${i}`, coords }));
 }
