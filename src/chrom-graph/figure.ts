@@ -402,4 +402,6 @@ export function section51(name: string): Node[] {
     throw new Error(`g.length: expected 1581, got ${g.length}`);
   // hooray, now turn them into nodes and we're done
   return g.map((coords, i) => ({ id: `${name}-${i}`, coords }));
+  // TODO: something is wrong here. it's not even symmetrical :(
+  // https://chrom-graph.erosson.org/chrom-graph/section51
 }
