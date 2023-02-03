@@ -27,7 +27,9 @@ COPY src src
 COPY vendor vendor
 COPY scripts scripts
 # FROM build as x
-RUN yarn cli && yarn build
+# RUN yarn cli && yarn build
+COPY public public
+RUN yarn build
 
 # after building, `www` is static html
 # https://hub.docker.com/_/nginx

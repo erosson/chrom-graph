@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <nodes>
+      <node id="figure7c-0-0" label="O (figure7c-0-0)@{&quot;x&quot;:0,&quot;y&quot;:0}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0" y="0"/>
+      </node>
+      <node id="figure7c-0-1" label="figure7c-0-1@{&quot;x&quot;:0.8333333333333333,&quot;y&quot;:-0.5527707983925667}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8333333333333333" y="-0.5527707983925667"/>
+      </node>
+      <node id="figure7c-0-2" label="figure7c-0-2@{&quot;x&quot;:0.8953802205448358,&quot;y&quot;:0.4453024372907487}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8953802205448358" y="0.4453024372907487"/>
+      </node>
+      <node id="figure7c-1-1" label="figure7c-1-1@{&quot;x&quot;:0.9574271077563381,&quot;y&quot;:-0.2886751345948129}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.9574271077563381" y="-0.2886751345948129"/>
+      </node>
+      <node id="figure7c-1-2" label="figure7c-1-2@{&quot;x&quot;:0.7287135538781692,&quot;y&quot;:0.6848186302914434}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.7287135538781692" y="0.6848186302914434"/>
+      </node>
+      <node id="figure7c-2-1" label="figure7c-2-1@{&quot;x&quot;:1,&quot;y&quot;:0}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1" y="0"/>
+      </node>
+      <node id="figure7c-2-2" label="figure7c-2-2@{&quot;x&quot;:0.5000000000000001,&quot;y&quot;:0.8660254037844386}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.5000000000000001" y="0.8660254037844386"/>
+      </node>
+      <node id="figure7c-3-1" label="figure7c-3-1@{&quot;x&quot;:0.9574271077563381,&quot;y&quot;:0.2886751345948129}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.9574271077563381" y="0.2886751345948129"/>
+      </node>
+      <node id="figure7c-3-2" label="figure7c-3-2@{&quot;x&quot;:0.2287135538781691,&quot;y&quot;:0.9734937648862564}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.2287135538781691" y="0.9734937648862564"/>
+      </node>
+      <node id="figure7c-4-1" label="figure7c-4-1@{&quot;x&quot;:0.8333333333333333,&quot;y&quot;:0.5527707983925667}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8333333333333333" y="0.5527707983925667"/>
+      </node>
+      <node id="figure7c-4-2" label="figure7c-4-2@{&quot;x&quot;:-0.06204688721150239,&quot;y&quot;:0.9980732356833155}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.06204688721150239" y="0.9980732356833155"/>
+      </node>
+      <node id="figure7c-5-2" label="figure7c-5-2@{&quot;x&quot;:0.06204688721150273,&quot;y&quot;:0.9980732356833155}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.06204688721150273" y="0.9980732356833155"/>
+      </node>
+      <node id="figure7c-6-2" label="figure7c-6-2@{&quot;x&quot;:-0.22871355387816877,&quot;y&quot;:0.9734937648862565}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.22871355387816877" y="0.9734937648862565"/>
+      </node>
+      <node id="figure7c-7-2" label="figure7c-7-2@{&quot;x&quot;:-0.4999999999999998,&quot;y&quot;:0.8660254037844387}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.4999999999999998" y="0.8660254037844387"/>
+      </node>
+      <node id="figure7c-8-2" label="figure7c-8-2@{&quot;x&quot;:-0.7287135538781689,&quot;y&quot;:0.6848186302914436}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.7287135538781689" y="0.6848186302914436"/>
+      </node>
+      <node id="figure7c-9-2" label="figure7c-9-2@{&quot;x&quot;:-0.8953802205448357,&quot;y&quot;:0.445302437290749}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8953802205448357" y="0.445302437290749"/>
+      </node>
+      <node id="figure7c-10-2" label="figure7c-10-2@{&quot;x&quot;:-0.8333333333333333,&quot;y&quot;:0.5527707983925668}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8333333333333333" y="0.5527707983925668"/>
+      </node>
+      <node id="figure7c-11-2" label="figure7c-11-2@{&quot;x&quot;:-0.9574271077563381,&quot;y&quot;:0.28867513459481303}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.9574271077563381" y="0.28867513459481303"/>
+      </node>
+      <node id="figure7c-12-2" label="figure7c-12-2@{&quot;x&quot;:-1,&quot;y&quot;:1.2246467991473532e-16}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1" y="1.2246467991473532e-16"/>
+      </node>
+      <node id="figure7c-13-2" label="figure7c-13-2@{&quot;x&quot;:-0.9574271077563381,&quot;y&quot;:-0.2886751345948128}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.9574271077563381" y="-0.2886751345948128"/>
+      </node>
+      <node id="figure7c-14-2" label="figure7c-14-2@{&quot;x&quot;:-0.8333333333333334,&quot;y&quot;:-0.5527707983925666}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8333333333333334" y="-0.5527707983925666"/>
+      </node>
+      <node id="figure7c-15-2" label="figure7c-15-2@{&quot;x&quot;:-0.895380220544836,&quot;y&quot;:-0.44530243729074837}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.895380220544836" y="-0.44530243729074837"/>
+      </node>
+      <node id="figure7c-16-2" label="figure7c-16-2@{&quot;x&quot;:-0.7287135538781694,&quot;y&quot;:-0.6848186302914432}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.7287135538781694" y="-0.6848186302914432"/>
+      </node>
+      <node id="figure7c-17-2" label="figure7c-17-2@{&quot;x&quot;:-0.5000000000000004,&quot;y&quot;:-0.8660254037844385}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.5000000000000004" y="-0.8660254037844385"/>
+      </node>
+      <node id="figure7c-18-2" label="figure7c-18-2@{&quot;x&quot;:-0.22871355387816944,&quot;y&quot;:-0.9734937648862563}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.22871355387816944" y="-0.9734937648862563"/>
+      </node>
+      <node id="figure7c-19-2" label="figure7c-19-2@{&quot;x&quot;:0.06204688721150204,&quot;y&quot;:-0.9980732356833155}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.06204688721150204" y="-0.9980732356833155"/>
+      </node>
+      <node id="figure7c-20-2" label="figure7c-20-2@{&quot;x&quot;:-0.062046887211503296,&quot;y&quot;:-0.9980732356833155}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.062046887211503296" y="-0.9980732356833155"/>
+      </node>
+      <node id="figure7c-21-2" label="figure7c-21-2@{&quot;x&quot;:0.22871355387816822,&quot;y&quot;:-0.9734937648862566}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.22871355387816822" y="-0.9734937648862566"/>
+      </node>
+      <node id="figure7c-22-2" label="figure7c-22-2@{&quot;x&quot;:0.49999999999999933,&quot;y&quot;:-0.866025403784439}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.49999999999999933" y="-0.866025403784439"/>
+      </node>
+      <node id="figure7c-23-2" label="figure7c-23-2@{&quot;x&quot;:0.7287135538781686,&quot;y&quot;:-0.6848186302914441}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.7287135538781686" y="-0.6848186302914441"/>
+      </node>
+      <node id="figure7c-24-2" label="figure7c-24-2@{&quot;x&quot;:0.8953802205448355,&quot;y&quot;:-0.4453024372907495}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8953802205448355" y="-0.4453024372907495"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_13_0" source="figure7c-0-0" target="figure7c-0-1"/>
+      <edge id="geid_13_1" source="figure7c-0-0" target="figure7c-0-2"/>
+      <edge id="geid_13_2" source="figure7c-0-0" target="figure7c-1-1"/>
+      <edge id="geid_13_3" source="figure7c-0-0" target="figure7c-1-2"/>
+      <edge id="geid_13_4" source="figure7c-0-0" target="figure7c-2-1"/>
+      <edge id="geid_13_5" source="figure7c-0-0" target="figure7c-2-2"/>
+      <edge id="geid_13_6" source="figure7c-0-0" target="figure7c-3-1"/>
+      <edge id="geid_13_7" source="figure7c-0-0" target="figure7c-3-2"/>
+      <edge id="geid_13_8" source="figure7c-0-0" target="figure7c-4-1"/>
+      <edge id="geid_13_9" source="figure7c-0-0" target="figure7c-4-2"/>
+      <edge id="geid_13_10" source="figure7c-0-0" target="figure7c-5-2"/>
+      <edge id="geid_13_11" source="figure7c-0-0" target="figure7c-6-2"/>
+      <edge id="geid_13_12" source="figure7c-0-0" target="figure7c-7-2"/>
+      <edge id="geid_13_13" source="figure7c-0-0" target="figure7c-8-2"/>
+      <edge id="geid_13_14" source="figure7c-0-0" target="figure7c-9-2"/>
+      <edge id="geid_13_15" source="figure7c-0-0" target="figure7c-10-2"/>
+      <edge id="geid_13_16" source="figure7c-0-0" target="figure7c-11-2"/>
+      <edge id="geid_13_17" source="figure7c-0-0" target="figure7c-12-2"/>
+      <edge id="geid_13_18" source="figure7c-0-0" target="figure7c-13-2"/>
+      <edge id="geid_13_19" source="figure7c-0-0" target="figure7c-14-2"/>
+      <edge id="geid_13_20" source="figure7c-0-0" target="figure7c-15-2"/>
+      <edge id="geid_13_21" source="figure7c-0-0" target="figure7c-16-2"/>
+      <edge id="geid_13_22" source="figure7c-0-0" target="figure7c-17-2"/>
+      <edge id="geid_13_23" source="figure7c-0-0" target="figure7c-18-2"/>
+      <edge id="geid_13_24" source="figure7c-0-0" target="figure7c-19-2"/>
+      <edge id="geid_13_25" source="figure7c-0-0" target="figure7c-20-2"/>
+      <edge id="geid_13_26" source="figure7c-0-0" target="figure7c-21-2"/>
+      <edge id="geid_13_27" source="figure7c-0-0" target="figure7c-22-2"/>
+      <edge id="geid_13_28" source="figure7c-0-0" target="figure7c-23-2"/>
+      <edge id="geid_13_29" source="figure7c-0-0" target="figure7c-24-2"/>
+      <edge id="geid_13_30" source="figure7c-0-1" target="figure7c-0-2"/>
+      <edge id="geid_13_31" source="figure7c-0-1" target="figure7c-20-2"/>
+      <edge id="geid_13_32" source="figure7c-0-2" target="figure7c-5-2"/>
+      <edge id="geid_13_33" source="figure7c-1-1" target="figure7c-1-2"/>
+      <edge id="geid_13_34" source="figure7c-1-1" target="figure7c-21-2"/>
+      <edge id="geid_13_35" source="figure7c-1-2" target="figure7c-6-2"/>
+      <edge id="geid_13_36" source="figure7c-2-1" target="figure7c-2-2"/>
+      <edge id="geid_13_37" source="figure7c-2-1" target="figure7c-22-2"/>
+      <edge id="geid_13_38" source="figure7c-2-2" target="figure7c-7-2"/>
+      <edge id="geid_13_39" source="figure7c-3-1" target="figure7c-3-2"/>
+      <edge id="geid_13_40" source="figure7c-3-1" target="figure7c-23-2"/>
+      <edge id="geid_13_41" source="figure7c-3-2" target="figure7c-8-2"/>
+      <edge id="geid_13_42" source="figure7c-4-1" target="figure7c-4-2"/>
+      <edge id="geid_13_43" source="figure7c-4-1" target="figure7c-24-2"/>
+      <edge id="geid_13_44" source="figure7c-4-2" target="figure7c-9-2"/>
+      <edge id="geid_13_45" source="figure7c-5-2" target="figure7c-10-2"/>
+      <edge id="geid_13_46" source="figure7c-6-2" target="figure7c-11-2"/>
+      <edge id="geid_13_47" source="figure7c-7-2" target="figure7c-12-2"/>
+      <edge id="geid_13_48" source="figure7c-8-2" target="figure7c-13-2"/>
+      <edge id="geid_13_49" source="figure7c-9-2" target="figure7c-14-2"/>
+      <edge id="geid_13_50" source="figure7c-10-2" target="figure7c-15-2"/>
+      <edge id="geid_13_51" source="figure7c-11-2" target="figure7c-16-2"/>
+      <edge id="geid_13_52" source="figure7c-12-2" target="figure7c-17-2"/>
+      <edge id="geid_13_53" source="figure7c-13-2" target="figure7c-18-2"/>
+      <edge id="geid_13_54" source="figure7c-14-2" target="figure7c-19-2"/>
+      <edge id="geid_13_55" source="figure7c-15-2" target="figure7c-20-2"/>
+      <edge id="geid_13_56" source="figure7c-16-2" target="figure7c-21-2"/>
+      <edge id="geid_13_57" source="figure7c-17-2" target="figure7c-22-2"/>
+      <edge id="geid_13_58" source="figure7c-18-2" target="figure7c-23-2"/>
+      <edge id="geid_13_59" source="figure7c-19-2" target="figure7c-24-2"/>
+    </edges>
+  </graph>
+</gexf>

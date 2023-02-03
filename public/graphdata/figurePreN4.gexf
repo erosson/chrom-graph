@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <nodes>
+      <node id="figurePreN4-0-0-0" label="origin-H (figurePreN4-0-0-0)@{&quot;x&quot;:0,&quot;y&quot;:0}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0" y="0"/>
+      </node>
+      <node id="figurePreN4-0-1-0" label="origin-H (figurePreN4-0-1-0)@{&quot;x&quot;:1,&quot;y&quot;:0}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1" y="0"/>
+      </node>
+      <node id="figurePreN4-0-2-0" label="origin-H (figurePreN4-0-2-0)@{&quot;x&quot;:0.5000000000000001,&quot;y&quot;:0.8660254037844386}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.5000000000000001" y="0.8660254037844386"/>
+      </node>
+      <node id="figurePreN4-0-3-0" label="origin-H (figurePreN4-0-3-0)@{&quot;x&quot;:-0.4999999999999998,&quot;y&quot;:0.8660254037844387}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.4999999999999998" y="0.8660254037844387"/>
+      </node>
+      <node id="figurePreN4-0-4-0" label="origin-H (figurePreN4-0-4-0)@{&quot;x&quot;:-1,&quot;y&quot;:1.2246467991473532e-16}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1" y="1.2246467991473532e-16"/>
+      </node>
+      <node id="figurePreN4-0-5-0" label="origin-H (figurePreN4-0-5-0)@{&quot;x&quot;:-0.5000000000000004,&quot;y&quot;:-0.8660254037844385}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.5000000000000004" y="-0.8660254037844385"/>
+      </node>
+      <node id="figurePreN4-0-6-0" label="origin-H (figurePreN4-0-6-0)@{&quot;x&quot;:0.5000000000000001,&quot;y&quot;:-0.8660254037844386}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.5000000000000001" y="-0.8660254037844386"/>
+      </node>
+      <node id="figurePreN4-0-7-0" label="origin-H (figurePreN4-0-7-0)@{&quot;x&quot;:1.5,&quot;y&quot;:0.8660254037844386}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.5" y="0.8660254037844386"/>
+      </node>
+      <node id="figurePreN4-0-8-0" label="origin-H (figurePreN4-0-8-0)@{&quot;x&quot;:3.3306690738754696e-16,&quot;y&quot;:1.7320508075688772}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="3.3306690738754696e-16" y="1.7320508075688772"/>
+      </node>
+      <node id="figurePreN4-0-9-0" label="origin-H (figurePreN4-0-9-0)@{&quot;x&quot;:-1.4999999999999998,&quot;y&quot;:0.8660254037844388}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.4999999999999998" y="0.8660254037844388"/>
+      </node>
+      <node id="figurePreN4-0-10-0" label="origin-H (figurePreN4-0-10-0)@{&quot;x&quot;:-1.5000000000000004,&quot;y&quot;:-0.8660254037844384}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.5000000000000004" y="-0.8660254037844384"/>
+      </node>
+      <node id="figurePreN4-0-11-0" label="origin-H (figurePreN4-0-11-0)@{&quot;x&quot;:-3.3306690738754696e-16,&quot;y&quot;:-1.7320508075688772}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-3.3306690738754696e-16" y="-1.7320508075688772"/>
+      </node>
+      <node id="figurePreN4-0-12-0" label="origin-H (figurePreN4-0-12-0)@{&quot;x&quot;:1.5,&quot;y&quot;:-0.8660254037844388}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.5" y="-0.8660254037844388"/>
+      </node>
+      <node id="figurePreN4-1-1-0" label="origin-H (figurePreN4-1-1-0)@{&quot;x&quot;:0.875,&quot;y&quot;:-0.4841229182759271}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.875" y="-0.4841229182759271"/>
+      </node>
+      <node id="figurePreN4-1-2-0" label="origin-H (figurePreN4-1-2-0)@{&quot;x&quot;:0.8567627457812106,&quot;y&quot;:0.5157107691734202}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8567627457812106" y="0.5157107691734202"/>
+      </node>
+      <node id="figurePreN4-1-3-0" label="origin-H (figurePreN4-1-3-0)@{&quot;x&quot;:-0.018237254218789765,&quot;y&quot;:0.9998336874493473}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.018237254218789765" y="0.9998336874493473"/>
+      </node>
+      <node id="figurePreN4-1-4-0" label="origin-H (figurePreN4-1-4-0)@{&quot;x&quot;:-0.875,&quot;y&quot;:0.4841229182759271}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.875" y="0.4841229182759271"/>
+      </node>
+      <node id="figurePreN4-1-5-0" label="origin-H (figurePreN4-1-5-0)@{&quot;x&quot;:-0.8567627457812108,&quot;y&quot;:-0.5157107691734198}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8567627457812108" y="-0.5157107691734198"/>
+      </node>
+      <node id="figurePreN4-1-6-0" label="origin-H (figurePreN4-1-6-0)@{&quot;x&quot;:0.01823725421878945,&quot;y&quot;:-0.9998336874493474}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.01823725421878945" y="-0.9998336874493474"/>
+      </node>
+      <node id="figurePreN4-1-7-0" label="origin-H (figurePreN4-1-7-0)@{&quot;x&quot;:1.7317627457812106,&quot;y&quot;:0.031587850897493074}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.7317627457812106" y="0.031587850897493074"/>
+      </node>
+      <node id="figurePreN4-1-8-0" label="origin-H (figurePreN4-1-8-0)@{&quot;x&quot;:0.8385254915624217,&quot;y&quot;:1.5155444566227672}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8385254915624217" y="1.5155444566227672"/>
+      </node>
+      <node id="figurePreN4-1-9-0" label="origin-H (figurePreN4-1-9-0)@{&quot;x&quot;:-0.8932372542187891,&quot;y&quot;:1.4839566057252747}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8932372542187891" y="1.4839566057252747"/>
+      </node>
+      <node id="figurePreN4-1-10-0" label="origin-H (figurePreN4-1-10-0)@{&quot;x&quot;:-1.731762745781211,&quot;y&quot;:-0.03158785089749252}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.731762745781211" y="-0.03158785089749252"/>
+      </node>
+      <node id="figurePreN4-1-11-0" label="origin-H (figurePreN4-1-11-0)@{&quot;x&quot;:-0.8385254915624215,&quot;y&quot;:-1.5155444566227674}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8385254915624215" y="-1.5155444566227674"/>
+      </node>
+      <node id="figurePreN4-1-12-0" label="origin-H (figurePreN4-1-12-0)@{&quot;x&quot;:0.8932372542187893,&quot;y&quot;:-1.4839566057252747}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8932372542187893" y="-1.4839566057252747"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_17_0" source="figurePreN4-0-0-0" target="figurePreN4-0-1-0"/>
+      <edge id="geid_17_1" source="figurePreN4-0-0-0" target="figurePreN4-0-2-0"/>
+      <edge id="geid_17_2" source="figurePreN4-0-0-0" target="figurePreN4-0-3-0"/>
+      <edge id="geid_17_3" source="figurePreN4-0-0-0" target="figurePreN4-0-4-0"/>
+      <edge id="geid_17_4" source="figurePreN4-0-0-0" target="figurePreN4-0-5-0"/>
+      <edge id="geid_17_5" source="figurePreN4-0-0-0" target="figurePreN4-0-6-0"/>
+      <edge id="geid_17_6" source="figurePreN4-0-0-0" target="figurePreN4-1-1-0"/>
+      <edge id="geid_17_7" source="figurePreN4-0-0-0" target="figurePreN4-1-2-0"/>
+      <edge id="geid_17_8" source="figurePreN4-0-0-0" target="figurePreN4-1-3-0"/>
+      <edge id="geid_17_9" source="figurePreN4-0-0-0" target="figurePreN4-1-4-0"/>
+      <edge id="geid_17_10" source="figurePreN4-0-0-0" target="figurePreN4-1-5-0"/>
+      <edge id="geid_17_11" source="figurePreN4-0-0-0" target="figurePreN4-1-6-0"/>
+      <edge id="geid_17_12" source="figurePreN4-0-1-0" target="figurePreN4-0-2-0"/>
+      <edge id="geid_17_13" source="figurePreN4-0-1-0" target="figurePreN4-0-6-0"/>
+      <edge id="geid_17_14" source="figurePreN4-0-1-0" target="figurePreN4-0-7-0"/>
+      <edge id="geid_17_15" source="figurePreN4-0-1-0" target="figurePreN4-0-12-0"/>
+      <edge id="geid_17_16" source="figurePreN4-0-2-0" target="figurePreN4-0-3-0"/>
+      <edge id="geid_17_17" source="figurePreN4-0-2-0" target="figurePreN4-0-7-0"/>
+      <edge id="geid_17_18" source="figurePreN4-0-2-0" target="figurePreN4-0-8-0"/>
+      <edge id="geid_17_19" source="figurePreN4-0-3-0" target="figurePreN4-0-4-0"/>
+      <edge id="geid_17_20" source="figurePreN4-0-3-0" target="figurePreN4-0-8-0"/>
+      <edge id="geid_17_21" source="figurePreN4-0-3-0" target="figurePreN4-0-9-0"/>
+      <edge id="geid_17_22" source="figurePreN4-0-4-0" target="figurePreN4-0-5-0"/>
+      <edge id="geid_17_23" source="figurePreN4-0-4-0" target="figurePreN4-0-9-0"/>
+      <edge id="geid_17_24" source="figurePreN4-0-4-0" target="figurePreN4-0-10-0"/>
+      <edge id="geid_17_25" source="figurePreN4-0-5-0" target="figurePreN4-0-6-0"/>
+      <edge id="geid_17_26" source="figurePreN4-0-5-0" target="figurePreN4-0-10-0"/>
+      <edge id="geid_17_27" source="figurePreN4-0-5-0" target="figurePreN4-0-11-0"/>
+      <edge id="geid_17_28" source="figurePreN4-0-6-0" target="figurePreN4-0-11-0"/>
+      <edge id="geid_17_29" source="figurePreN4-0-6-0" target="figurePreN4-0-12-0"/>
+      <edge id="geid_17_30" source="figurePreN4-1-1-0" target="figurePreN4-1-2-0"/>
+      <edge id="geid_17_31" source="figurePreN4-1-1-0" target="figurePreN4-1-6-0"/>
+      <edge id="geid_17_32" source="figurePreN4-1-1-0" target="figurePreN4-1-7-0"/>
+      <edge id="geid_17_33" source="figurePreN4-1-1-0" target="figurePreN4-1-12-0"/>
+      <edge id="geid_17_34" source="figurePreN4-1-2-0" target="figurePreN4-1-3-0"/>
+      <edge id="geid_17_35" source="figurePreN4-1-2-0" target="figurePreN4-1-7-0"/>
+      <edge id="geid_17_36" source="figurePreN4-1-2-0" target="figurePreN4-1-8-0"/>
+      <edge id="geid_17_37" source="figurePreN4-1-3-0" target="figurePreN4-1-4-0"/>
+      <edge id="geid_17_38" source="figurePreN4-1-3-0" target="figurePreN4-1-8-0"/>
+      <edge id="geid_17_39" source="figurePreN4-1-3-0" target="figurePreN4-1-9-0"/>
+      <edge id="geid_17_40" source="figurePreN4-1-4-0" target="figurePreN4-1-5-0"/>
+      <edge id="geid_17_41" source="figurePreN4-1-4-0" target="figurePreN4-1-9-0"/>
+      <edge id="geid_17_42" source="figurePreN4-1-4-0" target="figurePreN4-1-10-0"/>
+      <edge id="geid_17_43" source="figurePreN4-1-5-0" target="figurePreN4-1-6-0"/>
+      <edge id="geid_17_44" source="figurePreN4-1-5-0" target="figurePreN4-1-10-0"/>
+      <edge id="geid_17_45" source="figurePreN4-1-5-0" target="figurePreN4-1-11-0"/>
+      <edge id="geid_17_46" source="figurePreN4-1-6-0" target="figurePreN4-1-11-0"/>
+      <edge id="geid_17_47" source="figurePreN4-1-6-0" target="figurePreN4-1-12-0"/>
+    </edges>
+  </graph>
+</gexf>

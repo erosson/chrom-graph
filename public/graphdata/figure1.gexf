@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <nodes>
+      <node id="figure1-0" label="origin-H (figure1-0)@{&quot;x&quot;:0,&quot;y&quot;:0}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0" y="0"/>
+      </node>
+      <node id="figure1-1" label="figure1-1@{&quot;x&quot;:1,&quot;y&quot;:0}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1" y="0"/>
+      </node>
+      <node id="figure1-2" label="figure1-2@{&quot;x&quot;:0.5000000000000001,&quot;y&quot;:0.8660254037844386}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.5000000000000001" y="0.8660254037844386"/>
+      </node>
+      <node id="figure1-3" label="figure1-3@{&quot;x&quot;:-0.4999999999999998,&quot;y&quot;:0.8660254037844387}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.4999999999999998" y="0.8660254037844387"/>
+      </node>
+      <node id="figure1-4" label="figure1-4@{&quot;x&quot;:-1,&quot;y&quot;:1.2246467991473532e-16}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1" y="1.2246467991473532e-16"/>
+      </node>
+      <node id="figure1-5" label="figure1-5@{&quot;x&quot;:-0.5000000000000004,&quot;y&quot;:-0.8660254037844385}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.5000000000000004" y="-0.8660254037844385"/>
+      </node>
+      <node id="figure1-6" label="figure1-6@{&quot;x&quot;:0.5000000000000001,&quot;y&quot;:-0.8660254037844386}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.5000000000000001" y="-0.8660254037844386"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_7_0" source="figure1-0" target="figure1-1"/>
+      <edge id="geid_7_1" source="figure1-0" target="figure1-2"/>
+      <edge id="geid_7_2" source="figure1-0" target="figure1-3"/>
+      <edge id="geid_7_3" source="figure1-0" target="figure1-4"/>
+      <edge id="geid_7_4" source="figure1-0" target="figure1-5"/>
+      <edge id="geid_7_5" source="figure1-0" target="figure1-6"/>
+      <edge id="geid_7_6" source="figure1-1" target="figure1-2"/>
+      <edge id="geid_7_7" source="figure1-1" target="figure1-6"/>
+      <edge id="geid_7_8" source="figure1-2" target="figure1-3"/>
+      <edge id="geid_7_9" source="figure1-3" target="figure1-4"/>
+      <edge id="geid_7_10" source="figure1-4" target="figure1-5"/>
+      <edge id="geid_7_11" source="figure1-5" target="figure1-6"/>
+    </edges>
+  </graph>
+</gexf>

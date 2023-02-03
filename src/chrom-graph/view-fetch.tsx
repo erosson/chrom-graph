@@ -24,7 +24,7 @@ export default function ChromaticGraphFetch(): JSX.Element {
   const figureName = params.figure ?? "figure1";
   const gexfSrc = `/graphdata/${figureName}.gexf`;
   const cnfSrc = `/graphdata/${figureName}.cnf`;
-  const satSrc = `/graphdata/${figureName}.sat`;
+  const satSrc = `/graphdata/${figureName}.sat.txt`;
   const [graph, setGraph] = React.useState<G.default | null>(null);
   const [error, setError] = React.useState<Error | null>(null);
 

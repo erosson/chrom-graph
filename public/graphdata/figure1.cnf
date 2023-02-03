@@ -1,0 +1,75 @@
+p cnf 28 55
+c node "figure1-0" must have at least one color
+1 2 3 4 0
+c node "figure1-1" must have at least one color
+5 6 7 8 0
+c node "figure1-2" must have at least one color
+9 10 11 12 0
+c node "figure1-3" must have at least one color
+13 14 15 16 0
+c node "figure1-4" must have at least one color
+17 18 19 20 0
+c node "figure1-5" must have at least one color
+21 22 23 24 0
+c node "figure1-6" must have at least one color
+25 26 27 28 0
+c nodes "figure1-0" and "figure1-1" may not have the same color
+-1 -5 0
+-2 -6 0
+-3 -7 0
+-4 -8 0
+c nodes "figure1-0" and "figure1-2" may not have the same color
+-1 -9 0
+-2 -10 0
+-3 -11 0
+-4 -12 0
+c nodes "figure1-0" and "figure1-3" may not have the same color
+-1 -13 0
+-2 -14 0
+-3 -15 0
+-4 -16 0
+c nodes "figure1-0" and "figure1-4" may not have the same color
+-1 -17 0
+-2 -18 0
+-3 -19 0
+-4 -20 0
+c nodes "figure1-0" and "figure1-5" may not have the same color
+-1 -21 0
+-2 -22 0
+-3 -23 0
+-4 -24 0
+c nodes "figure1-0" and "figure1-6" may not have the same color
+-1 -25 0
+-2 -26 0
+-3 -27 0
+-4 -28 0
+c nodes "figure1-1" and "figure1-2" may not have the same color
+-5 -9 0
+-6 -10 0
+-7 -11 0
+-8 -12 0
+c nodes "figure1-1" and "figure1-6" may not have the same color
+-5 -25 0
+-6 -26 0
+-7 -27 0
+-8 -28 0
+c nodes "figure1-2" and "figure1-3" may not have the same color
+-9 -13 0
+-10 -14 0
+-11 -15 0
+-12 -16 0
+c nodes "figure1-3" and "figure1-4" may not have the same color
+-13 -17 0
+-14 -18 0
+-15 -19 0
+-16 -20 0
+c nodes "figure1-4" and "figure1-5" may not have the same color
+-17 -21 0
+-18 -22 0
+-19 -23 0
+-20 -24 0
+c nodes "figure1-5" and "figure1-6" may not have the same color
+-21 -25 0
+-22 -26 0
+-23 -27 0
+-24 -28 0

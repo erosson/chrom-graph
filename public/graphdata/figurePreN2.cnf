@@ -1,0 +1,147 @@
+p cnf 52 109
+c node "figurePreN2-0-0" must have at least one color
+1 2 3 4 0
+c node "figurePreN2-1-0" must have at least one color
+5 6 7 8 0
+c node "figurePreN2-2-0" must have at least one color
+9 10 11 12 0
+c node "figurePreN2-3-0" must have at least one color
+13 14 15 16 0
+c node "figurePreN2-4-0" must have at least one color
+17 18 19 20 0
+c node "figurePreN2-5-0" must have at least one color
+21 22 23 24 0
+c node "figurePreN2-6-0" must have at least one color
+25 26 27 28 0
+c node "figurePreN2-7-0" must have at least one color
+29 30 31 32 0
+c node "figurePreN2-8-0" must have at least one color
+33 34 35 36 0
+c node "figurePreN2-9-0" must have at least one color
+37 38 39 40 0
+c node "figurePreN2-10-0" must have at least one color
+41 42 43 44 0
+c node "figurePreN2-11-0" must have at least one color
+45 46 47 48 0
+c node "figurePreN2-12-0" must have at least one color
+49 50 51 52 0
+c nodes "figurePreN2-0-0" and "figurePreN2-1-0" may not have the same color
+-1 -5 0
+-2 -6 0
+-3 -7 0
+-4 -8 0
+c nodes "figurePreN2-0-0" and "figurePreN2-2-0" may not have the same color
+-1 -9 0
+-2 -10 0
+-3 -11 0
+-4 -12 0
+c nodes "figurePreN2-0-0" and "figurePreN2-3-0" may not have the same color
+-1 -13 0
+-2 -14 0
+-3 -15 0
+-4 -16 0
+c nodes "figurePreN2-0-0" and "figurePreN2-4-0" may not have the same color
+-1 -17 0
+-2 -18 0
+-3 -19 0
+-4 -20 0
+c nodes "figurePreN2-0-0" and "figurePreN2-5-0" may not have the same color
+-1 -21 0
+-2 -22 0
+-3 -23 0
+-4 -24 0
+c nodes "figurePreN2-0-0" and "figurePreN2-6-0" may not have the same color
+-1 -25 0
+-2 -26 0
+-3 -27 0
+-4 -28 0
+c nodes "figurePreN2-1-0" and "figurePreN2-2-0" may not have the same color
+-5 -9 0
+-6 -10 0
+-7 -11 0
+-8 -12 0
+c nodes "figurePreN2-1-0" and "figurePreN2-6-0" may not have the same color
+-5 -25 0
+-6 -26 0
+-7 -27 0
+-8 -28 0
+c nodes "figurePreN2-1-0" and "figurePreN2-7-0" may not have the same color
+-5 -29 0
+-6 -30 0
+-7 -31 0
+-8 -32 0
+c nodes "figurePreN2-1-0" and "figurePreN2-12-0" may not have the same color
+-5 -49 0
+-6 -50 0
+-7 -51 0
+-8 -52 0
+c nodes "figurePreN2-2-0" and "figurePreN2-3-0" may not have the same color
+-9 -13 0
+-10 -14 0
+-11 -15 0
+-12 -16 0
+c nodes "figurePreN2-2-0" and "figurePreN2-7-0" may not have the same color
+-9 -29 0
+-10 -30 0
+-11 -31 0
+-12 -32 0
+c nodes "figurePreN2-2-0" and "figurePreN2-8-0" may not have the same color
+-9 -33 0
+-10 -34 0
+-11 -35 0
+-12 -36 0
+c nodes "figurePreN2-3-0" and "figurePreN2-4-0" may not have the same color
+-13 -17 0
+-14 -18 0
+-15 -19 0
+-16 -20 0
+c nodes "figurePreN2-3-0" and "figurePreN2-8-0" may not have the same color
+-13 -33 0
+-14 -34 0
+-15 -35 0
+-16 -36 0
+c nodes "figurePreN2-3-0" and "figurePreN2-9-0" may not have the same color
+-13 -37 0
+-14 -38 0
+-15 -39 0
+-16 -40 0
+c nodes "figurePreN2-4-0" and "figurePreN2-5-0" may not have the same color
+-17 -21 0
+-18 -22 0
+-19 -23 0
+-20 -24 0
+c nodes "figurePreN2-4-0" and "figurePreN2-9-0" may not have the same color
+-17 -37 0
+-18 -38 0
+-19 -39 0
+-20 -40 0
+c nodes "figurePreN2-4-0" and "figurePreN2-10-0" may not have the same color
+-17 -41 0
+-18 -42 0
+-19 -43 0
+-20 -44 0
+c nodes "figurePreN2-5-0" and "figurePreN2-6-0" may not have the same color
+-21 -25 0
+-22 -26 0
+-23 -27 0
+-24 -28 0
+c nodes "figurePreN2-5-0" and "figurePreN2-10-0" may not have the same color
+-21 -41 0
+-22 -42 0
+-23 -43 0
+-24 -44 0
+c nodes "figurePreN2-5-0" and "figurePreN2-11-0" may not have the same color
+-21 -45 0
+-22 -46 0
+-23 -47 0
+-24 -48 0
+c nodes "figurePreN2-6-0" and "figurePreN2-11-0" may not have the same color
+-25 -45 0
+-26 -46 0
+-27 -47 0
+-28 -48 0
+c nodes "figurePreN2-6-0" and "figurePreN2-12-0" may not have the same color
+-25 -49 0
+-26 -50 0
+-27 -51 0
+-28 -52 0

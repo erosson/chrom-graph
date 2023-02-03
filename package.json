@@ -13,7 +13,7 @@
     "sat": "./scripts/sat.sh",
     "start": "yarn serve",
     "test": "jest",
-    "test:ci": "yarn cli && yarn build && yarn test",
+    "test:ci": "yarn build && yarn test",
     "docker": "docker buildx build -t ghcr.io/erosson/chrom-graph:latest .",
     "docker:buildrun": "yarn docker && yarn docker:run",
     "docker:run": "docker run -p 8000:80 -it ghcr.io/erosson/chrom-graph:latest"

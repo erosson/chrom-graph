@@ -1,0 +1,6753 @@
+p cnf 1204 5221
+c node "figureW-0" must have at least one color
+1 2 3 4 0
+c node "figureW-1" must have at least one color
+5 6 7 8 0
+c node "figureW-2" must have at least one color
+9 10 11 12 0
+c node "figureW-3" must have at least one color
+13 14 15 16 0
+c node "figureW-4" must have at least one color
+17 18 19 20 0
+c node "figureW-5" must have at least one color
+21 22 23 24 0
+c node "figureW-6" must have at least one color
+25 26 27 28 0
+c node "figureW-7" must have at least one color
+29 30 31 32 0
+c node "figureW-8" must have at least one color
+33 34 35 36 0
+c node "figureW-9" must have at least one color
+37 38 39 40 0
+c node "figureW-10" must have at least one color
+41 42 43 44 0
+c node "figureW-11" must have at least one color
+45 46 47 48 0
+c node "figureW-12" must have at least one color
+49 50 51 52 0
+c node "figureW-13" must have at least one color
+53 54 55 56 0
+c node "figureW-14" must have at least one color
+57 58 59 60 0
+c node "figureW-15" must have at least one color
+61 62 63 64 0
+c node "figureW-16" must have at least one color
+65 66 67 68 0
+c node "figureW-17" must have at least one color
+69 70 71 72 0
+c node "figureW-18" must have at least one color
+73 74 75 76 0
+c node "figureW-19" must have at least one color
+77 78 79 80 0
+c node "figureW-20" must have at least one color
+81 82 83 84 0
+c node "figureW-41" must have at least one color
+85 86 87 88 0
+c node "figureW-42" must have at least one color
+89 90 91 92 0
+c node "figureW-43" must have at least one color
+93 94 95 96 0
+c node "figureW-44" must have at least one color
+97 98 99 100 0
+c node "figureW-45" must have at least one color
+101 102 103 104 0
+c node "figureW-46" must have at least one color
+105 106 107 108 0
+c node "figureW-47" must have at least one color
+109 110 111 112 0
+c node "figureW-48" must have at least one color
+113 114 115 116 0
+c node "figureW-49" must have at least one color
+117 118 119 120 0
+c node "figureW-50" must have at least one color
+121 122 123 124 0
+c node "figureW-51" must have at least one color
+125 126 127 128 0
+c node "figureW-53" must have at least one color
+129 130 131 132 0
+c node "figureW-54" must have at least one color
+133 134 135 136 0
+c node "figureW-55" must have at least one color
+137 138 139 140 0
+c node "figureW-56" must have at least one color
+141 142 143 144 0
+c node "figureW-57" must have at least one color
+145 146 147 148 0
+c node "figureW-58" must have at least one color
+149 150 151 152 0
+c node "figureW-59" must have at least one color
+153 154 155 156 0
+c node "figureW-60" must have at least one color
+157 158 159 160 0
+c node "figureW-86" must have at least one color
+161 162 163 164 0
+c node "figureW-87" must have at least one color
+165 166 167 168 0
+c node "figureW-88" must have at least one color
+169 170 171 172 0
+c node "figureW-89" must have at least one color
+173 174 175 176 0
+c node "figureW-90" must have at least one color
+177 178 179 180 0
+c node "figureW-91" must have at least one color
+181 182 183 184 0
+c node "figureW-92" must have at least one color
+185 186 187 188 0
+c node "figureW-93" must have at least one color
+189 190 191 192 0
+c node "figureW-94" must have at least one color
+193 194 195 196 0
+c node "figureW-95" must have at least one color
+197 198 199 200 0
+c node "figureW-97" must have at least one color
+201 202 203 204 0
+c node "figureW-98" must have at least one color
+205 206 207 208 0
+c node "figureW-99" must have at least one color
+209 210 211 212 0
+c node "figureW-100" must have at least one color
+213 214 215 216 0
+c node "figureW-101" must have at least one color
+217 218 219 220 0
+c node "figureW-102" must have at least one color
+221 222 223 224 0
+c node "figureW-103" must have at least one color
+225 226 227 228 0
+c node "figureW-104" must have at least one color
+229 230 231 232 0
+c node "figureW-105" must have at least one color
+233 234 235 236 0
+c node "figureW-106" must have at least one color
+237 238 239 240 0
+c node "figureW-129" must have at least one color
+241 242 243 244 0
+c node "figureW-130" must have at least one color
+245 246 247 248 0
+c node "figureW-131" must have at least one color
+249 250 251 252 0
+c node "figureW-132" must have at least one color
+253 254 255 256 0
+c node "figureW-133" must have at least one color
+257 258 259 260 0
+c node "figureW-134" must have at least one color
+261 262 263 264 0
+c node "figureW-135" must have at least one color
+265 266 267 268 0
+c node "figureW-136" must have at least one color
+269 270 271 272 0
+c node "figureW-137" must have at least one color
+273 274 275 276 0
+c node "figureW-139" must have at least one color
+277 278 279 280 0
+c node "figureW-140" must have at least one color
+281 282 283 284 0
+c node "figureW-141" must have at least one color
+285 286 287 288 0
+c node "figureW-142" must have at least one color
+289 290 291 292 0
+c node "figureW-143" must have at least one color
+293 294 295 296 0
+c node "figureW-144" must have at least one color
+297 298 299 300 0
+c node "figureW-145" must have at least one color
+301 302 303 304 0
+c node "figureW-146" must have at least one color
+305 306 307 308 0
+c node "figureW-149" must have at least one color
+309 310 311 312 0
+c node "figureW-173" must have at least one color
+313 314 315 316 0
+c node "figureW-174" must have at least one color
+317 318 319 320 0
+c node "figureW-175" must have at least one color
+321 322 323 324 0
+c node "figureW-176" must have at least one color
+325 326 327 328 0
+c node "figureW-177" must have at least one color
+329 330 331 332 0
+c node "figureW-178" must have at least one color
+333 334 335 336 0
+c node "figureW-179" must have at least one color
+337 338 339 340 0
+c node "figureW-180" must have at least one color
+341 342 343 344 0
+c node "figureW-181" must have at least one color
+345 346 347 348 0
+c node "figureW-182" must have at least one color
+349 350 351 352 0
+c node "figureW-184" must have at least one color
+353 354 355 356 0
+c node "figureW-185" must have at least one color
+357 358 359 360 0
+c node "figureW-186" must have at least one color
+361 362 363 364 0
+c node "figureW-187" must have at least one color
+365 366 367 368 0
+c node "figureW-188" must have at least one color
+369 370 371 372 0
+c node "figureW-189" must have at least one color
+373 374 375 376 0
+c node "figureW-190" must have at least one color
+377 378 379 380 0
+c node "figureW-191" must have at least one color
+381 382 383 384 0
+c node "figureW-192" must have at least one color
+385 386 387 388 0
+c node "figureW-193" must have at least one color
+389 390 391 392 0
+c node "figureW-217" must have at least one color
+393 394 395 396 0
+c node "figureW-218" must have at least one color
+397 398 399 400 0
+c node "figureW-219" must have at least one color
+401 402 403 404 0
+c node "figureW-220" must have at least one color
+405 406 407 408 0
+c node "figureW-221" must have at least one color
+409 410 411 412 0
+c node "figureW-222" must have at least one color
+413 414 415 416 0
+c node "figureW-223" must have at least one color
+417 418 419 420 0
+c node "figureW-224" must have at least one color
+421 422 423 424 0
+c node "figureW-225" must have at least one color
+425 426 427 428 0
+c node "figureW-226" must have at least one color
+429 430 431 432 0
+c node "figureW-228" must have at least one color
+433 434 435 436 0
+c node "figureW-229" must have at least one color
+437 438 439 440 0
+c node "figureW-230" must have at least one color
+441 442 443 444 0
+c node "figureW-231" must have at least one color
+445 446 447 448 0
+c node "figureW-232" must have at least one color
+449 450 451 452 0
+c node "figureW-233" must have at least one color
+453 454 455 456 0
+c node "figureW-234" must have at least one color
+457 458 459 460 0
+c node "figureW-261" must have at least one color
+461 462 463 464 0
+c node "figureW-262" must have at least one color
+465 466 467 468 0
+c node "figureW-263" must have at least one color
+469 470 471 472 0
+c node "figureW-264" must have at least one color
+473 474 475 476 0
+c node "figureW-265" must have at least one color
+477 478 479 480 0
+c node "figureW-266" must have at least one color
+481 482 483 484 0
+c node "figureW-267" must have at least one color
+485 486 487 488 0
+c node "figureW-268" must have at least one color
+489 490 491 492 0
+c node "figureW-269" must have at least one color
+493 494 495 496 0
+c node "figureW-270" must have at least one color
+497 498 499 500 0
+c node "figureW-272" must have at least one color
+501 502 503 504 0
+c node "figureW-273" must have at least one color
+505 506 507 508 0
+c node "figureW-274" must have at least one color
+509 510 511 512 0
+c node "figureW-275" must have at least one color
+513 514 515 516 0
+c node "figureW-276" must have at least one color
+517 518 519 520 0
+c node "figureW-277" must have at least one color
+521 522 523 524 0
+c node "figureW-278" must have at least one color
+525 526 527 528 0
+c node "figureW-279" must have at least one color
+529 530 531 532 0
+c node "figureW-280" must have at least one color
+533 534 535 536 0
+c node "figureW-281" must have at least one color
+537 538 539 540 0
+c node "figureW-306" must have at least one color
+541 542 543 544 0
+c node "figureW-307" must have at least one color
+545 546 547 548 0
+c node "figureW-308" must have at least one color
+549 550 551 552 0
+c node "figureW-309" must have at least one color
+553 554 555 556 0
+c node "figureW-310" must have at least one color
+557 558 559 560 0
+c node "figureW-311" must have at least one color
+561 562 563 564 0
+c node "figureW-312" must have at least one color
+565 566 567 568 0
+c node "figureW-313" must have at least one color
+569 570 571 572 0
+c node "figureW-314" must have at least one color
+573 574 575 576 0
+c node "figureW-315" must have at least one color
+577 578 579 580 0
+c node "figureW-317" must have at least one color
+581 582 583 584 0
+c node "figureW-318" must have at least one color
+585 586 587 588 0
+c node "figureW-319" must have at least one color
+589 590 591 592 0
+c node "figureW-320" must have at least one color
+593 594 595 596 0
+c node "figureW-321" must have at least one color
+597 598 599 600 0
+c node "figureW-322" must have at least one color
+601 602 603 604 0
+c node "figureW-349" must have at least one color
+605 606 607 608 0
+c node "figureW-350" must have at least one color
+609 610 611 612 0
+c node "figureW-351" must have at least one color
+613 614 615 616 0
+c node "figureW-352" must have at least one color
+617 618 619 620 0
+c node "figureW-353" must have at least one color
+621 622 623 624 0
+c node "figureW-354" must have at least one color
+625 626 627 628 0
+c node "figureW-355" must have at least one color
+629 630 631 632 0
+c node "figureW-356" must have at least one color
+633 634 635 636 0
+c node "figureW-357" must have at least one color
+637 638 639 640 0
+c node "figureW-359" must have at least one color
+641 642 643 644 0
+c node "figureW-360" must have at least one color
+645 646 647 648 0
+c node "figureW-361" must have at least one color
+649 650 651 652 0
+c node "figureW-362" must have at least one color
+653 654 655 656 0
+c node "figureW-363" must have at least one color
+657 658 659 660 0
+c node "figureW-364" must have at least one color
+661 662 663 664 0
+c node "figureW-365" must have at least one color
+665 666 667 668 0
+c node "figureW-366" must have at least one color
+669 670 671 672 0
+c node "figureW-367" must have at least one color
+673 674 675 676 0
+c node "figureW-368" must have at least one color
+677 678 679 680 0
+c node "figureW-394" must have at least one color
+681 682 683 684 0
+c node "figureW-395" must have at least one color
+685 686 687 688 0
+c node "figureW-396" must have at least one color
+689 690 691 692 0
+c node "figureW-397" must have at least one color
+693 694 695 696 0
+c node "figureW-398" must have at least one color
+697 698 699 700 0
+c node "figureW-399" must have at least one color
+701 702 703 704 0
+c node "figureW-400" must have at least one color
+705 706 707 708 0
+c node "figureW-401" must have at least one color
+709 710 711 712 0
+c node "figureW-403" must have at least one color
+713 714 715 716 0
+c node "figureW-404" must have at least one color
+717 718 719 720 0
+c node "figureW-405" must have at least one color
+721 722 723 724 0
+c node "figureW-406" must have at least one color
+725 726 727 728 0
+c node "figureW-407" must have at least one color
+729 730 731 732 0
+c node "figureW-415" must have at least one color
+733 734 735 736 0
+c node "figureW-433" must have at least one color
+737 738 739 740 0
+c node "figureW-434" must have at least one color
+741 742 743 744 0
+c node "figureW-435" must have at least one color
+745 746 747 748 0
+c node "figureW-436" must have at least one color
+749 750 751 752 0
+c node "figureW-437" must have at least one color
+753 754 755 756 0
+c node "figureW-438" must have at least one color
+757 758 759 760 0
+c node "figureW-439" must have at least one color
+761 762 763 764 0
+c node "figureW-440" must have at least one color
+765 766 767 768 0
+c node "figureW-441" must have at least one color
+769 770 771 772 0
+c node "figureW-442" must have at least one color
+773 774 775 776 0
+c node "figureW-443" must have at least one color
+777 778 779 780 0
+c node "figureW-445" must have at least one color
+781 782 783 784 0
+c node "figureW-446" must have at least one color
+785 786 787 788 0
+c node "figureW-447" must have at least one color
+789 790 791 792 0
+c node "figureW-448" must have at least one color
+793 794 795 796 0
+c node "figureW-474" must have at least one color
+797 798 799 800 0
+c node "figureW-475" must have at least one color
+801 802 803 804 0
+c node "figureW-476" must have at least one color
+805 806 807 808 0
+c node "figureW-477" must have at least one color
+809 810 811 812 0
+c node "figureW-478" must have at least one color
+813 814 815 816 0
+c node "figureW-479" must have at least one color
+817 818 819 820 0
+c node "figureW-480" must have at least one color
+821 822 823 824 0
+c node "figureW-481" must have at least one color
+825 826 827 828 0
+c node "figureW-482" must have at least one color
+829 830 831 832 0
+c node "figureW-483" must have at least one color
+833 834 835 836 0
+c node "figureW-485" must have at least one color
+837 838 839 840 0
+c node "figureW-486" must have at least one color
+841 842 843 844 0
+c node "figureW-487" must have at least one color
+845 846 847 848 0
+c node "figureW-512" must have at least one color
+849 850 851 852 0
+c node "figureW-513" must have at least one color
+853 854 855 856 0
+c node "figureW-514" must have at least one color
+857 858 859 860 0
+c node "figureW-515" must have at least one color
+861 862 863 864 0
+c node "figureW-516" must have at least one color
+865 866 867 868 0
+c node "figureW-517" must have at least one color
+869 870 871 872 0
+c node "figureW-518" must have at least one color
+873 874 875 876 0
+c node "figureW-519" must have at least one color
+877 878 879 880 0
+c node "figureW-520" must have at least one color
+881 882 883 884 0
+c node "figureW-521" must have at least one color
+885 886 887 888 0
+c node "figureW-523" must have at least one color
+889 890 891 892 0
+c node "figureW-524" must have at least one color
+893 894 895 896 0
+c node "figureW-548" must have at least one color
+897 898 899 900 0
+c node "figureW-549" must have at least one color
+901 902 903 904 0
+c node "figureW-550" must have at least one color
+905 906 907 908 0
+c node "figureW-551" must have at least one color
+909 910 911 912 0
+c node "figureW-552" must have at least one color
+913 914 915 916 0
+c node "figureW-553" must have at least one color
+917 918 919 920 0
+c node "figureW-554" must have at least one color
+921 922 923 924 0
+c node "figureW-555" must have at least one color
+925 926 927 928 0
+c node "figureW-556" must have at least one color
+929 930 931 932 0
+c node "figureW-557" must have at least one color
+933 934 935 936 0
+c node "figureW-559" must have at least one color
+937 938 939 940 0
+c node "figureW-582" must have at least one color
+941 942 943 944 0
+c node "figureW-583" must have at least one color
+945 946 947 948 0
+c node "figureW-584" must have at least one color
+949 950 951 952 0
+c node "figureW-585" must have at least one color
+953 954 955 956 0
+c node "figureW-586" must have at least one color
+957 958 959 960 0
+c node "figureW-587" must have at least one color
+961 962 963 964 0
+c node "figureW-588" must have at least one color
+965 966 967 968 0
+c node "figureW-589" must have at least one color
+969 970 971 972 0
+c node "figureW-590" must have at least one color
+973 974 975 976 0
+c node "figureW-612" must have at least one color
+977 978 979 980 0
+c node "figureW-613" must have at least one color
+981 982 983 984 0
+c node "figureW-614" must have at least one color
+985 986 987 988 0
+c node "figureW-615" must have at least one color
+989 990 991 992 0
+c node "figureW-616" must have at least one color
+993 994 995 996 0
+c node "figureW-617" must have at least one color
+997 998 999 1000 0
+c node "figureW-618" must have at least one color
+1001 1002 1003 1004 0
+c node "figureW-619" must have at least one color
+1005 1006 1007 1008 0
+c node "figureW-620" must have at least one color
+1009 1010 1011 1012 0
+c node "figureW-621" must have at least one color
+1013 1014 1015 1016 0
+c node "figureW-642" must have at least one color
+1017 1018 1019 1020 0
+c node "figureW-643" must have at least one color
+1021 1022 1023 1024 0
+c node "figureW-644" must have at least one color
+1025 1026 1027 1028 0
+c node "figureW-645" must have at least one color
+1029 1030 1031 1032 0
+c node "figureW-646" must have at least one color
+1033 1034 1035 1036 0
+c node "figureW-647" must have at least one color
+1037 1038 1039 1040 0
+c node "figureW-648" must have at least one color
+1041 1042 1043 1044 0
+c node "figureW-649" must have at least one color
+1045 1046 1047 1048 0
+c node "figureW-668" must have at least one color
+1049 1050 1051 1052 0
+c node "figureW-669" must have at least one color
+1053 1054 1055 1056 0
+c node "figureW-670" must have at least one color
+1057 1058 1059 1060 0
+c node "figureW-671" must have at least one color
+1061 1062 1063 1064 0
+c node "figureW-672" must have at least one color
+1065 1066 1067 1068 0
+c node "figureW-673" must have at least one color
+1069 1070 1071 1072 0
+c node "figureW-674" must have at least one color
+1073 1074 1075 1076 0
+c node "figureW-692" must have at least one color
+1077 1078 1079 1080 0
+c node "figureW-693" must have at least one color
+1081 1082 1083 1084 0
+c node "figureW-694" must have at least one color
+1085 1086 1087 1088 0
+c node "figureW-695" must have at least one color
+1089 1090 1091 1092 0
+c node "figureW-696" must have at least one color
+1093 1094 1095 1096 0
+c node "figureW-697" must have at least one color
+1097 1098 1099 1100 0
+c node "figureW-703" must have at least one color
+1101 1102 1103 1104 0
+c node "figureW-715" must have at least one color
+1105 1106 1107 1108 0
+c node "figureW-716" must have at least one color
+1109 1110 1111 1112 0
+c node "figureW-717" must have at least one color
+1113 1114 1115 1116 0
+c node "figureW-718" must have at least one color
+1117 1118 1119 1120 0
+c node "figureW-734" must have at least one color
+1121 1122 1123 1124 0
+c node "figureW-735" must have at least one color
+1125 1126 1127 1128 0
+c node "figureW-736" must have at least one color
+1129 1130 1131 1132 0
+c node "figureW-737" must have at least one color
+1133 1134 1135 1136 0
+c node "figureW-738" must have at least one color
+1137 1138 1139 1140 0
+c node "figureW-740" must have at least one color
+1141 1142 1143 1144 0
+c node "figureW-746" must have at least one color
+1145 1146 1147 1148 0
+c node "figureW-756" must have at least one color
+1149 1150 1151 1152 0
+c node "figureW-757" must have at least one color
+1153 1154 1155 1156 0
+c node "figureW-758" must have at least one color
+1157 1158 1159 1160 0
+c node "figureW-762" must have at least one color
+1161 1162 1163 1164 0
+c node "figureW-766" must have at least one color
+1165 1166 1167 1168 0
+c node "figureW-775" must have at least one color
+1169 1170 1171 1172 0
+c node "figureW-776" must have at least one color
+1173 1174 1175 1176 0
+c node "figureW-784" must have at least one color
+1177 1178 1179 1180 0
+c node "figureW-792" must have at least one color
+1181 1182 1183 1184 0
+c node "figureW-801" must have at least one color
+1185 1186 1187 1188 0
+c node "figureW-818" must have at least one color
+1189 1190 1191 1192 0
+c node "figureW-820" must have at least one color
+1193 1194 1195 1196 0
+c node "figureW-825" must have at least one color
+1197 1198 1199 1200 0
+c node "figureW-1054" must have at least one color
+1201 1202 1203 1204 0
+c nodes "figureW-0" and "figureW-6" may not have the same color
+-1 -25 0
+-2 -26 0
+-3 -27 0
+-4 -28 0
+c nodes "figureW-0" and "figureW-57" may not have the same color
+-1 -145 0
+-2 -146 0
+-3 -147 0
+-4 -148 0
+c nodes "figureW-0" and "figureW-173" may not have the same color
+-1 -313 0
+-2 -314 0
+-3 -315 0
+-4 -316 0
+c nodes "figureW-0" and "figureW-192" may not have the same color
+-1 -385 0
+-2 -386 0
+-3 -387 0
+-4 -388 0
+c nodes "figureW-0" and "figureW-231" may not have the same color
+-1 -445 0
+-2 -446 0
+-3 -447 0
+-4 -448 0
+c nodes "figureW-1" and "figureW-7" may not have the same color
+-5 -29 0
+-6 -30 0
+-7 -31 0
+-8 -32 0
+c nodes "figureW-1" and "figureW-57" may not have the same color
+-5 -145 0
+-6 -146 0
+-7 -147 0
+-8 -148 0
+c nodes "figureW-1" and "figureW-91" may not have the same color
+-5 -181 0
+-6 -182 0
+-7 -183 0
+-8 -184 0
+c nodes "figureW-1" and "figureW-142" may not have the same color
+-5 -289 0
+-6 -290 0
+-7 -291 0
+-8 -292 0
+c nodes "figureW-1" and "figureW-176" may not have the same color
+-5 -325 0
+-6 -326 0
+-7 -327 0
+-8 -328 0
+c nodes "figureW-1" and "figureW-193" may not have the same color
+-5 -389 0
+-6 -390 0
+-7 -391 0
+-8 -392 0
+c nodes "figureW-1" and "figureW-446" may not have the same color
+-5 -785 0
+-6 -786 0
+-7 -787 0
+-8 -788 0
+c nodes "figureW-2" and "figureW-8" may not have the same color
+-9 -33 0
+-10 -34 0
+-11 -35 0
+-12 -36 0
+c nodes "figureW-2" and "figureW-57" may not have the same color
+-9 -145 0
+-10 -146 0
+-11 -147 0
+-12 -148 0
+c nodes "figureW-2" and "figureW-178" may not have the same color
+-9 -333 0
+-10 -334 0
+-11 -335 0
+-12 -336 0
+c nodes "figureW-2" and "figureW-230" may not have the same color
+-9 -441 0
+-10 -442 0
+-11 -443 0
+-12 -444 0
+c nodes "figureW-3" and "figureW-9" may not have the same color
+-13 -37 0
+-14 -38 0
+-15 -39 0
+-16 -40 0
+c nodes "figureW-3" and "figureW-57" may not have the same color
+-13 -145 0
+-14 -146 0
+-15 -147 0
+-16 -148 0
+c nodes "figureW-3" and "figureW-266" may not have the same color
+-13 -481 0
+-14 -482 0
+-15 -483 0
+-16 -484 0
+c nodes "figureW-3" and "figureW-318" may not have the same color
+-13 -585 0
+-14 -586 0
+-15 -587 0
+-16 -588 0
+c nodes "figureW-4" and "figureW-5" may not have the same color
+-17 -21 0
+-18 -22 0
+-19 -23 0
+-20 -24 0
+c nodes "figureW-4" and "figureW-57" may not have the same color
+-17 -145 0
+-18 -146 0
+-19 -147 0
+-20 -148 0
+c nodes "figureW-4" and "figureW-364" may not have the same color
+-17 -661 0
+-18 -662 0
+-19 -663 0
+-20 -664 0
+c nodes "figureW-4" and "figureW-407" may not have the same color
+-17 -729 0
+-18 -730 0
+-19 -731 0
+-20 -732 0
+c nodes "figureW-5" and "figureW-10" may not have the same color
+-21 -41 0
+-22 -42 0
+-23 -43 0
+-24 -44 0
+c nodes "figureW-5" and "figureW-41" may not have the same color
+-21 -85 0
+-22 -86 0
+-23 -87 0
+-24 -88 0
+c nodes "figureW-5" and "figureW-57" may not have the same color
+-21 -145 0
+-22 -146 0
+-23 -147 0
+-24 -148 0
+c nodes "figureW-5" and "figureW-353" may not have the same color
+-21 -621 0
+-22 -622 0
+-23 -623 0
+-24 -624 0
+c nodes "figureW-5" and "figureW-403" may not have the same color
+-21 -713 0
+-22 -714 0
+-23 -715 0
+-24 -716 0
+c nodes "figureW-6" and "figureW-11" may not have the same color
+-25 -45 0
+-26 -46 0
+-27 -47 0
+-28 -48 0
+c nodes "figureW-6" and "figureW-41" may not have the same color
+-25 -85 0
+-26 -86 0
+-27 -87 0
+-28 -88 0
+c nodes "figureW-6" and "figureW-42" may not have the same color
+-25 -89 0
+-26 -90 0
+-27 -91 0
+-28 -92 0
+c nodes "figureW-6" and "figureW-43" may not have the same color
+-25 -93 0
+-26 -94 0
+-27 -95 0
+-28 -96 0
+c nodes "figureW-6" and "figureW-44" may not have the same color
+-25 -97 0
+-26 -98 0
+-27 -99 0
+-28 -100 0
+c nodes "figureW-6" and "figureW-45" may not have the same color
+-25 -101 0
+-26 -102 0
+-27 -103 0
+-28 -104 0
+c nodes "figureW-6" and "figureW-46" may not have the same color
+-25 -105 0
+-26 -106 0
+-27 -107 0
+-28 -108 0
+c nodes "figureW-6" and "figureW-47" may not have the same color
+-25 -109 0
+-26 -110 0
+-27 -111 0
+-28 -112 0
+c nodes "figureW-6" and "figureW-48" may not have the same color
+-25 -113 0
+-26 -114 0
+-27 -115 0
+-28 -116 0
+c nodes "figureW-6" and "figureW-49" may not have the same color
+-25 -117 0
+-26 -118 0
+-27 -119 0
+-28 -120 0
+c nodes "figureW-6" and "figureW-50" may not have the same color
+-25 -121 0
+-26 -122 0
+-27 -123 0
+-28 -124 0
+c nodes "figureW-6" and "figureW-51" may not have the same color
+-25 -125 0
+-26 -126 0
+-27 -127 0
+-28 -128 0
+c nodes "figureW-6" and "figureW-53" may not have the same color
+-25 -129 0
+-26 -130 0
+-27 -131 0
+-28 -132 0
+c nodes "figureW-6" and "figureW-54" may not have the same color
+-25 -133 0
+-26 -134 0
+-27 -135 0
+-28 -136 0
+c nodes "figureW-6" and "figureW-55" may not have the same color
+-25 -137 0
+-26 -138 0
+-27 -139 0
+-28 -140 0
+c nodes "figureW-6" and "figureW-56" may not have the same color
+-25 -141 0
+-26 -142 0
+-27 -143 0
+-28 -144 0
+c nodes "figureW-6" and "figureW-57" may not have the same color
+-25 -145 0
+-26 -146 0
+-27 -147 0
+-28 -148 0
+c nodes "figureW-6" and "figureW-58" may not have the same color
+-25 -149 0
+-26 -150 0
+-27 -151 0
+-28 -152 0
+c nodes "figureW-6" and "figureW-59" may not have the same color
+-25 -153 0
+-26 -154 0
+-27 -155 0
+-28 -156 0
+c nodes "figureW-6" and "figureW-60" may not have the same color
+-25 -157 0
+-26 -158 0
+-27 -159 0
+-28 -160 0
+c nodes "figureW-7" and "figureW-12" may not have the same color
+-29 -49 0
+-30 -50 0
+-31 -51 0
+-32 -52 0
+c nodes "figureW-7" and "figureW-43" may not have the same color
+-29 -93 0
+-30 -94 0
+-31 -95 0
+-32 -96 0
+c nodes "figureW-7" and "figureW-57" may not have the same color
+-29 -145 0
+-30 -146 0
+-31 -147 0
+-32 -148 0
+c nodes "figureW-7" and "figureW-133" may not have the same color
+-29 -257 0
+-30 -258 0
+-31 -259 0
+-32 -260 0
+c nodes "figureW-7" and "figureW-173" may not have the same color
+-29 -313 0
+-30 -314 0
+-31 -315 0
+-32 -316 0
+c nodes "figureW-7" and "figureW-186" may not have the same color
+-29 -361 0
+-30 -362 0
+-31 -363 0
+-32 -364 0
+c nodes "figureW-7" and "figureW-225" may not have the same color
+-29 -425 0
+-30 -426 0
+-31 -427 0
+-32 -428 0
+c nodes "figureW-7" and "figureW-483" may not have the same color
+-29 -833 0
+-30 -834 0
+-31 -835 0
+-32 -836 0
+c nodes "figureW-8" and "figureW-13" may not have the same color
+-33 -53 0
+-34 -54 0
+-35 -55 0
+-36 -56 0
+c nodes "figureW-8" and "figureW-44" may not have the same color
+-33 -97 0
+-34 -98 0
+-35 -99 0
+-36 -100 0
+c nodes "figureW-8" and "figureW-57" may not have the same color
+-33 -145 0
+-34 -146 0
+-35 -147 0
+-36 -148 0
+c nodes "figureW-8" and "figureW-176" may not have the same color
+-33 -325 0
+-34 -326 0
+-35 -327 0
+-36 -328 0
+c nodes "figureW-8" and "figureW-187" may not have the same color
+-33 -365 0
+-34 -366 0
+-35 -367 0
+-36 -368 0
+c nodes "figureW-8" and "figureW-222" may not have the same color
+-33 -413 0
+-34 -414 0
+-35 -415 0
+-36 -416 0
+c nodes "figureW-8" and "figureW-440" may not have the same color
+-33 -765 0
+-34 -766 0
+-35 -767 0
+-36 -768 0
+c nodes "figureW-8" and "figureW-520" may not have the same color
+-33 -881 0
+-34 -882 0
+-35 -883 0
+-36 -884 0
+c nodes "figureW-9" and "figureW-14" may not have the same color
+-37 -57 0
+-38 -58 0
+-39 -59 0
+-40 -60 0
+c nodes "figureW-9" and "figureW-45" may not have the same color
+-37 -101 0
+-38 -102 0
+-39 -103 0
+-40 -104 0
+c nodes "figureW-9" and "figureW-57" may not have the same color
+-37 -145 0
+-38 -146 0
+-39 -147 0
+-40 -148 0
+c nodes "figureW-9" and "figureW-311" may not have the same color
+-37 -561 0
+-38 -562 0
+-39 -563 0
+-40 -564 0
+c nodes "figureW-9" and "figureW-555" may not have the same color
+-37 -925 0
+-38 -926 0
+-39 -927 0
+-40 -928 0
+c nodes "figureW-10" and "figureW-15" may not have the same color
+-41 -61 0
+-42 -62 0
+-43 -63 0
+-44 -64 0
+c nodes "figureW-10" and "figureW-46" may not have the same color
+-41 -105 0
+-42 -106 0
+-43 -107 0
+-44 -108 0
+c nodes "figureW-10" and "figureW-57" may not have the same color
+-41 -145 0
+-42 -146 0
+-43 -147 0
+-44 -148 0
+c nodes "figureW-10" and "figureW-397" may not have the same color
+-41 -693 0
+-42 -694 0
+-43 -695 0
+-44 -696 0
+c nodes "figureW-10" and "figureW-587" may not have the same color
+-41 -961 0
+-42 -962 0
+-43 -963 0
+-44 -964 0
+c nodes "figureW-11" and "figureW-16" may not have the same color
+-45 -65 0
+-46 -66 0
+-47 -67 0
+-48 -68 0
+c nodes "figureW-11" and "figureW-47" may not have the same color
+-45 -109 0
+-46 -110 0
+-47 -111 0
+-48 -112 0
+c nodes "figureW-11" and "figureW-57" may not have the same color
+-45 -145 0
+-46 -146 0
+-47 -147 0
+-48 -148 0
+c nodes "figureW-11" and "figureW-91" may not have the same color
+-45 -181 0
+-46 -182 0
+-47 -183 0
+-48 -184 0
+c nodes "figureW-11" and "figureW-101" may not have the same color
+-45 -217 0
+-46 -218 0
+-47 -219 0
+-48 -220 0
+c nodes "figureW-11" and "figureW-133" may not have the same color
+-45 -257 0
+-46 -258 0
+-47 -259 0
+-48 -260 0
+c nodes "figureW-11" and "figureW-143" may not have the same color
+-45 -293 0
+-46 -294 0
+-47 -295 0
+-48 -296 0
+c nodes "figureW-11" and "figureW-178" may not have the same color
+-45 -333 0
+-46 -334 0
+-47 -335 0
+-48 -336 0
+c nodes "figureW-11" and "figureW-188" may not have the same color
+-45 -369 0
+-46 -370 0
+-47 -371 0
+-48 -372 0
+c nodes "figureW-11" and "figureW-222" may not have the same color
+-45 -413 0
+-46 -414 0
+-47 -415 0
+-48 -416 0
+c nodes "figureW-11" and "figureW-232" may not have the same color
+-45 -449 0
+-46 -450 0
+-47 -451 0
+-48 -452 0
+c nodes "figureW-11" and "figureW-266" may not have the same color
+-45 -481 0
+-46 -482 0
+-47 -483 0
+-48 -484 0
+c nodes "figureW-11" and "figureW-276" may not have the same color
+-45 -517 0
+-46 -518 0
+-47 -519 0
+-48 -520 0
+c nodes "figureW-11" and "figureW-311" may not have the same color
+-45 -561 0
+-46 -562 0
+-47 -563 0
+-48 -564 0
+c nodes "figureW-11" and "figureW-321" may not have the same color
+-45 -597 0
+-46 -598 0
+-47 -599 0
+-48 -600 0
+c nodes "figureW-11" and "figureW-353" may not have the same color
+-45 -621 0
+-46 -622 0
+-47 -623 0
+-48 -624 0
+c nodes "figureW-11" and "figureW-363" may not have the same color
+-45 -657 0
+-46 -658 0
+-47 -659 0
+-48 -660 0
+c nodes "figureW-11" and "figureW-397" may not have the same color
+-45 -693 0
+-46 -694 0
+-47 -695 0
+-48 -696 0
+c nodes "figureW-11" and "figureW-407" may not have the same color
+-45 -729 0
+-46 -730 0
+-47 -731 0
+-48 -732 0
+c nodes "figureW-11" and "figureW-439" may not have the same color
+-45 -761 0
+-46 -762 0
+-47 -763 0
+-48 -764 0
+c nodes "figureW-11" and "figureW-479" may not have the same color
+-45 -817 0
+-46 -818 0
+-47 -819 0
+-48 -820 0
+c nodes "figureW-11" and "figureW-517" may not have the same color
+-45 -869 0
+-46 -870 0
+-47 -871 0
+-48 -872 0
+c nodes "figureW-11" and "figureW-553" may not have the same color
+-45 -917 0
+-46 -918 0
+-47 -919 0
+-48 -920 0
+c nodes "figureW-11" and "figureW-586" may not have the same color
+-45 -957 0
+-46 -958 0
+-47 -959 0
+-48 -960 0
+c nodes "figureW-11" and "figureW-617" may not have the same color
+-45 -997 0
+-46 -998 0
+-47 -999 0
+-48 -1000 0
+c nodes "figureW-11" and "figureW-646" may not have the same color
+-45 -1033 0
+-46 -1034 0
+-47 -1035 0
+-48 -1036 0
+c nodes "figureW-11" and "figureW-672" may not have the same color
+-45 -1065 0
+-46 -1066 0
+-47 -1067 0
+-48 -1068 0
+c nodes "figureW-11" and "figureW-696" may not have the same color
+-45 -1093 0
+-46 -1094 0
+-47 -1095 0
+-48 -1096 0
+c nodes "figureW-11" and "figureW-718" may not have the same color
+-45 -1117 0
+-46 -1118 0
+-47 -1119 0
+-48 -1120 0
+c nodes "figureW-12" and "figureW-17" may not have the same color
+-49 -69 0
+-50 -70 0
+-51 -71 0
+-52 -72 0
+c nodes "figureW-12" and "figureW-48" may not have the same color
+-49 -113 0
+-50 -114 0
+-51 -115 0
+-52 -116 0
+c nodes "figureW-12" and "figureW-57" may not have the same color
+-49 -145 0
+-50 -146 0
+-51 -147 0
+-52 -148 0
+c nodes "figureW-12" and "figureW-479" may not have the same color
+-49 -817 0
+-50 -818 0
+-51 -819 0
+-52 -820 0
+c nodes "figureW-12" and "figureW-645" may not have the same color
+-49 -1029 0
+-50 -1030 0
+-51 -1031 0
+-52 -1032 0
+c nodes "figureW-13" and "figureW-18" may not have the same color
+-53 -73 0
+-54 -74 0
+-55 -75 0
+-56 -76 0
+c nodes "figureW-13" and "figureW-49" may not have the same color
+-53 -117 0
+-54 -118 0
+-55 -119 0
+-56 -120 0
+c nodes "figureW-13" and "figureW-57" may not have the same color
+-53 -145 0
+-54 -146 0
+-55 -147 0
+-56 -148 0
+c nodes "figureW-13" and "figureW-225" may not have the same color
+-53 -425 0
+-54 -426 0
+-55 -427 0
+-56 -428 0
+c nodes "figureW-13" and "figureW-231" may not have the same color
+-53 -445 0
+-54 -446 0
+-55 -447 0
+-56 -448 0
+c nodes "figureW-13" and "figureW-440" may not have the same color
+-53 -765 0
+-54 -766 0
+-55 -767 0
+-56 -768 0
+c nodes "figureW-13" and "figureW-446" may not have the same color
+-53 -785 0
+-54 -786 0
+-55 -787 0
+-56 -788 0
+c nodes "figureW-13" and "figureW-517" may not have the same color
+-53 -869 0
+-54 -870 0
+-55 -871 0
+-56 -872 0
+c nodes "figureW-13" and "figureW-670" may not have the same color
+-53 -1057 0
+-54 -1058 0
+-55 -1059 0
+-56 -1060 0
+c nodes "figureW-13" and "figureW-735" may not have the same color
+-53 -1125 0
+-54 -1126 0
+-55 -1127 0
+-56 -1128 0
+c nodes "figureW-13" and "figureW-756" may not have the same color
+-53 -1149 0
+-54 -1150 0
+-55 -1151 0
+-56 -1152 0
+c nodes "figureW-14" and "figureW-19" may not have the same color
+-57 -77 0
+-58 -78 0
+-59 -79 0
+-60 -80 0
+c nodes "figureW-14" and "figureW-50" may not have the same color
+-57 -121 0
+-58 -122 0
+-59 -123 0
+-60 -124 0
+c nodes "figureW-14" and "figureW-57" may not have the same color
+-57 -145 0
+-58 -146 0
+-59 -147 0
+-60 -148 0
+c nodes "figureW-14" and "figureW-553" may not have the same color
+-57 -917 0
+-58 -918 0
+-59 -919 0
+-60 -920 0
+c nodes "figureW-14" and "figureW-693" may not have the same color
+-57 -1081 0
+-58 -1082 0
+-59 -1083 0
+-60 -1084 0
+c nodes "figureW-15" and "figureW-51" may not have the same color
+-61 -125 0
+-62 -126 0
+-63 -127 0
+-64 -128 0
+c nodes "figureW-15" and "figureW-57" may not have the same color
+-61 -145 0
+-62 -146 0
+-63 -147 0
+-64 -148 0
+c nodes "figureW-15" and "figureW-586" may not have the same color
+-61 -957 0
+-62 -958 0
+-63 -959 0
+-64 -960 0
+c nodes "figureW-16" and "figureW-20" may not have the same color
+-65 -81 0
+-66 -82 0
+-67 -83 0
+-68 -84 0
+c nodes "figureW-16" and "figureW-57" may not have the same color
+-65 -145 0
+-66 -146 0
+-67 -147 0
+-68 -148 0
+c nodes "figureW-16" and "figureW-105" may not have the same color
+-65 -233 0
+-66 -234 0
+-67 -235 0
+-68 -236 0
+c nodes "figureW-16" and "figureW-142" may not have the same color
+-65 -289 0
+-66 -290 0
+-67 -291 0
+-68 -292 0
+c nodes "figureW-16" and "figureW-191" may not have the same color
+-65 -381 0
+-66 -382 0
+-67 -383 0
+-68 -384 0
+c nodes "figureW-16" and "figureW-230" may not have the same color
+-65 -441 0
+-66 -442 0
+-67 -443 0
+-68 -444 0
+c nodes "figureW-16" and "figureW-278" may not have the same color
+-65 -525 0
+-66 -526 0
+-67 -527 0
+-68 -528 0
+c nodes "figureW-16" and "figureW-318" may not have the same color
+-65 -585 0
+-66 -586 0
+-67 -587 0
+-68 -588 0
+c nodes "figureW-16" and "figureW-364" may not have the same color
+-65 -661 0
+-66 -662 0
+-67 -663 0
+-68 -664 0
+c nodes "figureW-16" and "figureW-403" may not have the same color
+-65 -713 0
+-66 -714 0
+-67 -715 0
+-68 -716 0
+c nodes "figureW-16" and "figureW-483" may not have the same color
+-65 -833 0
+-66 -834 0
+-67 -835 0
+-68 -836 0
+c nodes "figureW-16" and "figureW-520" may not have the same color
+-65 -881 0
+-66 -882 0
+-67 -883 0
+-68 -884 0
+c nodes "figureW-16" and "figureW-555" may not have the same color
+-65 -925 0
+-66 -926 0
+-67 -927 0
+-68 -928 0
+c nodes "figureW-16" and "figureW-587" may not have the same color
+-65 -961 0
+-66 -962 0
+-67 -963 0
+-68 -964 0
+c nodes "figureW-16" and "figureW-617" may not have the same color
+-65 -997 0
+-66 -998 0
+-67 -999 0
+-68 -1000 0
+c nodes "figureW-16" and "figureW-645" may not have the same color
+-65 -1029 0
+-66 -1030 0
+-67 -1031 0
+-68 -1032 0
+c nodes "figureW-16" and "figureW-670" may not have the same color
+-65 -1057 0
+-66 -1058 0
+-67 -1059 0
+-68 -1060 0
+c nodes "figureW-16" and "figureW-693" may not have the same color
+-65 -1081 0
+-66 -1082 0
+-67 -1083 0
+-68 -1084 0
+c nodes "figureW-16" and "figureW-746" may not have the same color
+-65 -1145 0
+-66 -1146 0
+-67 -1147 0
+-68 -1148 0
+c nodes "figureW-16" and "figureW-825" may not have the same color
+-65 -1197 0
+-66 -1198 0
+-67 -1199 0
+-68 -1200 0
+c nodes "figureW-17" and "figureW-53" may not have the same color
+-69 -129 0
+-70 -130 0
+-71 -131 0
+-72 -132 0
+c nodes "figureW-17" and "figureW-57" may not have the same color
+-69 -145 0
+-70 -146 0
+-71 -147 0
+-72 -148 0
+c nodes "figureW-17" and "figureW-646" may not have the same color
+-69 -1033 0
+-70 -1034 0
+-71 -1035 0
+-72 -1036 0
+c nodes "figureW-18" and "figureW-54" may not have the same color
+-73 -133 0
+-74 -134 0
+-75 -135 0
+-76 -136 0
+c nodes "figureW-18" and "figureW-57" may not have the same color
+-73 -145 0
+-74 -146 0
+-75 -147 0
+-76 -148 0
+c nodes "figureW-18" and "figureW-186" may not have the same color
+-73 -361 0
+-74 -362 0
+-75 -363 0
+-76 -364 0
+c nodes "figureW-18" and "figureW-192" may not have the same color
+-73 -385 0
+-74 -386 0
+-75 -387 0
+-76 -388 0
+c nodes "figureW-18" and "figureW-672" may not have the same color
+-73 -1065 0
+-74 -1066 0
+-75 -1067 0
+-76 -1068 0
+c nodes "figureW-18" and "figureW-735" may not have the same color
+-73 -1125 0
+-74 -1126 0
+-75 -1127 0
+-76 -1128 0
+c nodes "figureW-19" and "figureW-55" may not have the same color
+-77 -137 0
+-78 -138 0
+-79 -139 0
+-80 -140 0
+c nodes "figureW-19" and "figureW-57" may not have the same color
+-77 -145 0
+-78 -146 0
+-79 -147 0
+-80 -148 0
+c nodes "figureW-19" and "figureW-696" may not have the same color
+-77 -1093 0
+-78 -1094 0
+-79 -1095 0
+-80 -1096 0
+c nodes "figureW-20" and "figureW-57" may not have the same color
+-81 -145 0
+-82 -146 0
+-83 -147 0
+-84 -148 0
+c nodes "figureW-20" and "figureW-187" may not have the same color
+-81 -365 0
+-82 -366 0
+-83 -367 0
+-84 -368 0
+c nodes "figureW-20" and "figureW-193" may not have the same color
+-81 -389 0
+-82 -390 0
+-83 -391 0
+-84 -392 0
+c nodes "figureW-20" and "figureW-756" may not have the same color
+-81 -1149 0
+-82 -1150 0
+-83 -1151 0
+-84 -1152 0
+c nodes "figureW-41" and "figureW-46" may not have the same color
+-85 -105 0
+-86 -106 0
+-87 -107 0
+-88 -108 0
+c nodes "figureW-41" and "figureW-353" may not have the same color
+-85 -621 0
+-86 -622 0
+-87 -623 0
+-88 -624 0
+c nodes "figureW-42" and "figureW-47" may not have the same color
+-89 -109 0
+-90 -110 0
+-91 -111 0
+-92 -112 0
+c nodes "figureW-42" and "figureW-87" may not have the same color
+-89 -165 0
+-90 -166 0
+-91 -167 0
+-92 -168 0
+c nodes "figureW-42" and "figureW-92" may not have the same color
+-89 -185 0
+-90 -186 0
+-91 -187 0
+-92 -188 0
+c nodes "figureW-42" and "figureW-217" may not have the same color
+-89 -393 0
+-90 -394 0
+-91 -395 0
+-92 -396 0
+c nodes "figureW-43" and "figureW-48" may not have the same color
+-93 -113 0
+-94 -114 0
+-95 -115 0
+-96 -116 0
+c nodes "figureW-43" and "figureW-133" may not have the same color
+-93 -257 0
+-94 -258 0
+-95 -259 0
+-96 -260 0
+c nodes "figureW-43" and "figureW-173" may not have the same color
+-93 -313 0
+-94 -314 0
+-95 -315 0
+-96 -316 0
+c nodes "figureW-43" and "figureW-181" may not have the same color
+-93 -345 0
+-94 -346 0
+-95 -347 0
+-96 -348 0
+c nodes "figureW-43" and "figureW-220" may not have the same color
+-93 -405 0
+-94 -406 0
+-95 -407 0
+-96 -408 0
+c nodes "figureW-44" and "figureW-49" may not have the same color
+-97 -117 0
+-98 -118 0
+-99 -119 0
+-100 -120 0
+c nodes "figureW-44" and "figureW-222" may not have the same color
+-97 -413 0
+-98 -414 0
+-99 -415 0
+-100 -416 0
+c nodes "figureW-45" and "figureW-50" may not have the same color
+-101 -121 0
+-102 -122 0
+-103 -123 0
+-104 -124 0
+c nodes "figureW-45" and "figureW-311" may not have the same color
+-101 -561 0
+-102 -562 0
+-103 -563 0
+-104 -564 0
+c nodes "figureW-46" and "figureW-51" may not have the same color
+-105 -125 0
+-106 -126 0
+-107 -127 0
+-108 -128 0
+c nodes "figureW-46" and "figureW-397" may not have the same color
+-105 -693 0
+-106 -694 0
+-107 -695 0
+-108 -696 0
+c nodes "figureW-46" and "figureW-433" may not have the same color
+-105 -737 0
+-106 -738 0
+-107 -739 0
+-108 -740 0
+c nodes "figureW-47" and "figureW-90" may not have the same color
+-109 -177 0
+-110 -178 0
+-111 -179 0
+-112 -180 0
+c nodes "figureW-47" and "figureW-176" may not have the same color
+-109 -325 0
+-110 -326 0
+-111 -327 0
+-112 -328 0
+c nodes "figureW-47" and "figureW-263" may not have the same color
+-109 -469 0
+-110 -470 0
+-111 -471 0
+-112 -472 0
+c nodes "figureW-47" and "figureW-433" may not have the same color
+-109 -737 0
+-110 -738 0
+-111 -739 0
+-112 -740 0
+c nodes "figureW-47" and "figureW-434" may not have the same color
+-109 -741 0
+-110 -742 0
+-111 -743 0
+-112 -744 0
+c nodes "figureW-47" and "figureW-435" may not have the same color
+-109 -745 0
+-110 -746 0
+-111 -747 0
+-112 -748 0
+c nodes "figureW-47" and "figureW-436" may not have the same color
+-109 -749 0
+-110 -750 0
+-111 -751 0
+-112 -752 0
+c nodes "figureW-47" and "figureW-437" may not have the same color
+-109 -753 0
+-110 -754 0
+-111 -755 0
+-112 -756 0
+c nodes "figureW-47" and "figureW-438" may not have the same color
+-109 -757 0
+-110 -758 0
+-111 -759 0
+-112 -760 0
+c nodes "figureW-47" and "figureW-439" may not have the same color
+-109 -761 0
+-110 -762 0
+-111 -763 0
+-112 -764 0
+c nodes "figureW-47" and "figureW-440" may not have the same color
+-109 -765 0
+-110 -766 0
+-111 -767 0
+-112 -768 0
+c nodes "figureW-47" and "figureW-441" may not have the same color
+-109 -769 0
+-110 -770 0
+-111 -771 0
+-112 -772 0
+c nodes "figureW-47" and "figureW-442" may not have the same color
+-109 -773 0
+-110 -774 0
+-111 -775 0
+-112 -776 0
+c nodes "figureW-47" and "figureW-443" may not have the same color
+-109 -777 0
+-110 -778 0
+-111 -779 0
+-112 -780 0
+c nodes "figureW-47" and "figureW-445" may not have the same color
+-109 -781 0
+-110 -782 0
+-111 -783 0
+-112 -784 0
+c nodes "figureW-47" and "figureW-446" may not have the same color
+-109 -785 0
+-110 -786 0
+-111 -787 0
+-112 -788 0
+c nodes "figureW-47" and "figureW-447" may not have the same color
+-109 -789 0
+-110 -790 0
+-111 -791 0
+-112 -792 0
+c nodes "figureW-47" and "figureW-448" may not have the same color
+-109 -793 0
+-110 -794 0
+-111 -795 0
+-112 -796 0
+c nodes "figureW-48" and "figureW-53" may not have the same color
+-113 -129 0
+-114 -130 0
+-115 -131 0
+-116 -132 0
+c nodes "figureW-48" and "figureW-217" may not have the same color
+-113 -393 0
+-114 -394 0
+-115 -395 0
+-116 -396 0
+c nodes "figureW-48" and "figureW-230" may not have the same color
+-113 -441 0
+-114 -442 0
+-115 -443 0
+-116 -444 0
+c nodes "figureW-48" and "figureW-435" may not have the same color
+-113 -745 0
+-114 -746 0
+-115 -747 0
+-116 -748 0
+c nodes "figureW-48" and "figureW-479" may not have the same color
+-113 -817 0
+-114 -818 0
+-115 -819 0
+-116 -820 0
+c nodes "figureW-48" and "figureW-520" may not have the same color
+-113 -881 0
+-114 -882 0
+-115 -883 0
+-116 -884 0
+c nodes "figureW-49" and "figureW-54" may not have the same color
+-117 -133 0
+-118 -134 0
+-119 -135 0
+-120 -136 0
+c nodes "figureW-49" and "figureW-220" may not have the same color
+-117 -405 0
+-118 -406 0
+-119 -407 0
+-120 -408 0
+c nodes "figureW-49" and "figureW-231" may not have the same color
+-117 -445 0
+-118 -446 0
+-119 -447 0
+-120 -448 0
+c nodes "figureW-49" and "figureW-436" may not have the same color
+-117 -749 0
+-118 -750 0
+-119 -751 0
+-120 -752 0
+c nodes "figureW-49" and "figureW-517" may not have the same color
+-117 -869 0
+-118 -870 0
+-119 -871 0
+-120 -872 0
+c nodes "figureW-49" and "figureW-618" may not have the same color
+-117 -1001 0
+-118 -1002 0
+-119 -1003 0
+-120 -1004 0
+c nodes "figureW-50" and "figureW-55" may not have the same color
+-121 -137 0
+-122 -138 0
+-123 -139 0
+-124 -140 0
+c nodes "figureW-50" and "figureW-437" may not have the same color
+-121 -753 0
+-122 -754 0
+-123 -755 0
+-124 -756 0
+c nodes "figureW-50" and "figureW-553" may not have the same color
+-121 -917 0
+-122 -918 0
+-123 -919 0
+-124 -920 0
+c nodes "figureW-51" and "figureW-56" may not have the same color
+-125 -141 0
+-126 -142 0
+-127 -143 0
+-128 -144 0
+c nodes "figureW-51" and "figureW-438" may not have the same color
+-125 -757 0
+-126 -758 0
+-127 -759 0
+-128 -760 0
+c nodes "figureW-51" and "figureW-586" may not have the same color
+-125 -957 0
+-126 -958 0
+-127 -959 0
+-128 -960 0
+c nodes "figureW-53" and "figureW-58" may not have the same color
+-129 -149 0
+-130 -150 0
+-131 -151 0
+-132 -152 0
+c nodes "figureW-53" and "figureW-440" may not have the same color
+-129 -765 0
+-130 -766 0
+-131 -767 0
+-132 -768 0
+c nodes "figureW-53" and "figureW-646" may not have the same color
+-129 -1033 0
+-130 -1034 0
+-131 -1035 0
+-132 -1036 0
+c nodes "figureW-54" and "figureW-59" may not have the same color
+-133 -153 0
+-134 -154 0
+-135 -155 0
+-136 -156 0
+c nodes "figureW-54" and "figureW-92" may not have the same color
+-133 -185 0
+-134 -186 0
+-135 -187 0
+-136 -188 0
+c nodes "figureW-54" and "figureW-105" may not have the same color
+-133 -233 0
+-134 -234 0
+-135 -235 0
+-136 -236 0
+c nodes "figureW-54" and "figureW-181" may not have the same color
+-133 -345 0
+-134 -346 0
+-135 -347 0
+-136 -348 0
+c nodes "figureW-54" and "figureW-192" may not have the same color
+-133 -385 0
+-134 -386 0
+-135 -387 0
+-136 -388 0
+c nodes "figureW-54" and "figureW-441" may not have the same color
+-133 -769 0
+-134 -770 0
+-135 -771 0
+-136 -772 0
+c nodes "figureW-54" and "figureW-520" may not have the same color
+-133 -881 0
+-134 -882 0
+-135 -883 0
+-136 -884 0
+c nodes "figureW-54" and "figureW-618" may not have the same color
+-133 -1001 0
+-134 -1002 0
+-135 -1003 0
+-136 -1004 0
+c nodes "figureW-54" and "figureW-672" may not have the same color
+-133 -1065 0
+-134 -1066 0
+-135 -1067 0
+-136 -1068 0
+c nodes "figureW-55" and "figureW-60" may not have the same color
+-137 -157 0
+-138 -158 0
+-139 -159 0
+-140 -160 0
+c nodes "figureW-55" and "figureW-442" may not have the same color
+-137 -773 0
+-138 -774 0
+-139 -775 0
+-140 -776 0
+c nodes "figureW-55" and "figureW-696" may not have the same color
+-137 -1093 0
+-138 -1094 0
+-139 -1095 0
+-140 -1096 0
+c nodes "figureW-56" and "figureW-443" may not have the same color
+-141 -777 0
+-142 -778 0
+-143 -779 0
+-144 -780 0
+c nodes "figureW-56" and "figureW-718" may not have the same color
+-141 -1117 0
+-142 -1118 0
+-143 -1119 0
+-144 -1120 0
+c nodes "figureW-58" and "figureW-101" may not have the same color
+-149 -217 0
+-150 -218 0
+-151 -219 0
+-152 -220 0
+c nodes "figureW-58" and "figureW-445" may not have the same color
+-149 -781 0
+-150 -782 0
+-151 -783 0
+-152 -784 0
+c nodes "figureW-59" and "figureW-87" may not have the same color
+-153 -165 0
+-154 -166 0
+-155 -167 0
+-156 -168 0
+c nodes "figureW-59" and "figureW-105" may not have the same color
+-153 -233 0
+-154 -234 0
+-155 -235 0
+-156 -236 0
+c nodes "figureW-59" and "figureW-188" may not have the same color
+-153 -369 0
+-154 -370 0
+-155 -371 0
+-156 -372 0
+c nodes "figureW-59" and "figureW-230" may not have the same color
+-153 -441 0
+-154 -442 0
+-155 -443 0
+-156 -444 0
+c nodes "figureW-59" and "figureW-446" may not have the same color
+-153 -785 0
+-154 -786 0
+-155 -787 0
+-156 -788 0
+c nodes "figureW-60" and "figureW-276" may not have the same color
+-157 -517 0
+-158 -518 0
+-159 -519 0
+-160 -520 0
+c nodes "figureW-60" and "figureW-447" may not have the same color
+-157 -789 0
+-158 -790 0
+-159 -791 0
+-160 -792 0
+c nodes "figureW-86" and "figureW-91" may not have the same color
+-161 -181 0
+-162 -182 0
+-163 -183 0
+-164 -184 0
+c nodes "figureW-86" and "figureW-143" may not have the same color
+-161 -293 0
+-162 -294 0
+-163 -295 0
+-164 -296 0
+c nodes "figureW-86" and "figureW-261" may not have the same color
+-161 -461 0
+-162 -462 0
+-163 -463 0
+-164 -464 0
+c nodes "figureW-86" and "figureW-280" may not have the same color
+-161 -533 0
+-162 -534 0
+-163 -535 0
+-164 -536 0
+c nodes "figureW-86" and "figureW-320" may not have the same color
+-161 -593 0
+-162 -594 0
+-163 -595 0
+-164 -596 0
+c nodes "figureW-87" and "figureW-92" may not have the same color
+-165 -185 0
+-166 -186 0
+-167 -187 0
+-168 -188 0
+c nodes "figureW-87" and "figureW-143" may not have the same color
+-165 -293 0
+-166 -294 0
+-167 -295 0
+-168 -296 0
+c nodes "figureW-87" and "figureW-178" may not have the same color
+-165 -333 0
+-166 -334 0
+-167 -335 0
+-168 -336 0
+c nodes "figureW-87" and "figureW-231" may not have the same color
+-165 -445 0
+-166 -446 0
+-167 -447 0
+-168 -448 0
+c nodes "figureW-87" and "figureW-264" may not have the same color
+-165 -473 0
+-166 -474 0
+-167 -475 0
+-168 -476 0
+c nodes "figureW-87" and "figureW-281" may not have the same color
+-165 -537 0
+-166 -538 0
+-167 -539 0
+-168 -540 0
+c nodes "figureW-87" and "figureW-446" may not have the same color
+-165 -785 0
+-166 -786 0
+-167 -787 0
+-168 -788 0
+c nodes "figureW-87" and "figureW-486" may not have the same color
+-165 -841 0
+-166 -842 0
+-167 -843 0
+-168 -844 0
+c nodes "figureW-88" and "figureW-93" may not have the same color
+-169 -189 0
+-170 -190 0
+-171 -191 0
+-172 -192 0
+c nodes "figureW-88" and "figureW-143" may not have the same color
+-169 -293 0
+-170 -294 0
+-171 -295 0
+-172 -296 0
+c nodes "figureW-88" and "figureW-266" may not have the same color
+-169 -481 0
+-170 -482 0
+-171 -483 0
+-172 -484 0
+c nodes "figureW-88" and "figureW-319" may not have the same color
+-169 -589 0
+-170 -590 0
+-171 -591 0
+-172 -592 0
+c nodes "figureW-89" and "figureW-94" may not have the same color
+-173 -193 0
+-174 -194 0
+-175 -195 0
+-176 -196 0
+c nodes "figureW-89" and "figureW-143" may not have the same color
+-173 -293 0
+-174 -294 0
+-175 -295 0
+-176 -296 0
+c nodes "figureW-89" and "figureW-353" may not have the same color
+-173 -621 0
+-174 -622 0
+-175 -623 0
+-176 -624 0
+c nodes "figureW-89" and "figureW-404" may not have the same color
+-173 -717 0
+-174 -718 0
+-175 -719 0
+-176 -720 0
+c nodes "figureW-90" and "figureW-95" may not have the same color
+-177 -197 0
+-178 -198 0
+-179 -199 0
+-180 -200 0
+c nodes "figureW-90" and "figureW-143" may not have the same color
+-177 -293 0
+-178 -294 0
+-179 -295 0
+-180 -296 0
+c nodes "figureW-90" and "figureW-445" may not have the same color
+-177 -781 0
+-178 -782 0
+-179 -783 0
+-180 -784 0
+c nodes "figureW-91" and "figureW-129" may not have the same color
+-181 -241 0
+-182 -242 0
+-183 -243 0
+-184 -244 0
+c nodes "figureW-91" and "figureW-130" may not have the same color
+-181 -245 0
+-182 -246 0
+-183 -247 0
+-184 -248 0
+c nodes "figureW-91" and "figureW-131" may not have the same color
+-181 -249 0
+-182 -250 0
+-183 -251 0
+-184 -252 0
+c nodes "figureW-91" and "figureW-132" may not have the same color
+-181 -253 0
+-182 -254 0
+-183 -255 0
+-184 -256 0
+c nodes "figureW-91" and "figureW-133" may not have the same color
+-181 -257 0
+-182 -258 0
+-183 -259 0
+-184 -260 0
+c nodes "figureW-91" and "figureW-134" may not have the same color
+-181 -261 0
+-182 -262 0
+-183 -263 0
+-184 -264 0
+c nodes "figureW-91" and "figureW-135" may not have the same color
+-181 -265 0
+-182 -266 0
+-183 -267 0
+-184 -268 0
+c nodes "figureW-91" and "figureW-136" may not have the same color
+-181 -269 0
+-182 -270 0
+-183 -271 0
+-184 -272 0
+c nodes "figureW-91" and "figureW-137" may not have the same color
+-181 -273 0
+-182 -274 0
+-183 -275 0
+-184 -276 0
+c nodes "figureW-91" and "figureW-139" may not have the same color
+-181 -277 0
+-182 -278 0
+-183 -279 0
+-184 -280 0
+c nodes "figureW-91" and "figureW-140" may not have the same color
+-181 -281 0
+-182 -282 0
+-183 -283 0
+-184 -284 0
+c nodes "figureW-91" and "figureW-141" may not have the same color
+-181 -285 0
+-182 -286 0
+-183 -287 0
+-184 -288 0
+c nodes "figureW-91" and "figureW-142" may not have the same color
+-181 -289 0
+-182 -290 0
+-183 -291 0
+-184 -292 0
+c nodes "figureW-91" and "figureW-143" may not have the same color
+-181 -293 0
+-182 -294 0
+-183 -295 0
+-184 -296 0
+c nodes "figureW-91" and "figureW-144" may not have the same color
+-181 -297 0
+-182 -298 0
+-183 -299 0
+-184 -300 0
+c nodes "figureW-91" and "figureW-145" may not have the same color
+-181 -301 0
+-182 -302 0
+-183 -303 0
+-184 -304 0
+c nodes "figureW-91" and "figureW-146" may not have the same color
+-181 -305 0
+-182 -306 0
+-183 -307 0
+-184 -308 0
+c nodes "figureW-91" and "figureW-149" may not have the same color
+-181 -309 0
+-182 -310 0
+-183 -311 0
+-184 -312 0
+c nodes "figureW-92" and "figureW-97" may not have the same color
+-185 -201 0
+-186 -202 0
+-187 -203 0
+-188 -204 0
+c nodes "figureW-92" and "figureW-129" may not have the same color
+-185 -241 0
+-186 -242 0
+-187 -243 0
+-188 -244 0
+c nodes "figureW-92" and "figureW-143" may not have the same color
+-185 -293 0
+-186 -294 0
+-187 -295 0
+-188 -296 0
+c nodes "figureW-92" and "figureW-222" may not have the same color
+-185 -413 0
+-186 -414 0
+-187 -415 0
+-188 -416 0
+c nodes "figureW-92" and "figureW-261" may not have the same color
+-185 -461 0
+-186 -462 0
+-187 -463 0
+-188 -464 0
+c nodes "figureW-92" and "figureW-274" may not have the same color
+-185 -509 0
+-186 -510 0
+-187 -511 0
+-188 -512 0
+c nodes "figureW-92" and "figureW-314" may not have the same color
+-185 -573 0
+-186 -574 0
+-187 -575 0
+-188 -576 0
+c nodes "figureW-92" and "figureW-441" may not have the same color
+-185 -769 0
+-186 -770 0
+-187 -771 0
+-188 -772 0
+c nodes "figureW-92" and "figureW-521" may not have the same color
+-185 -885 0
+-186 -886 0
+-187 -887 0
+-188 -888 0
+c nodes "figureW-93" and "figureW-98" may not have the same color
+-189 -205 0
+-190 -206 0
+-191 -207 0
+-192 -208 0
+c nodes "figureW-93" and "figureW-130" may not have the same color
+-189 -245 0
+-190 -246 0
+-191 -247 0
+-192 -248 0
+c nodes "figureW-93" and "figureW-143" may not have the same color
+-189 -293 0
+-190 -294 0
+-191 -295 0
+-192 -296 0
+c nodes "figureW-93" and "figureW-264" may not have the same color
+-189 -473 0
+-190 -474 0
+-191 -475 0
+-192 -476 0
+c nodes "figureW-93" and "figureW-275" may not have the same color
+-189 -513 0
+-190 -514 0
+-191 -515 0
+-192 -516 0
+c nodes "figureW-93" and "figureW-311" may not have the same color
+-189 -561 0
+-190 -562 0
+-191 -563 0
+-192 -564 0
+c nodes "figureW-93" and "figureW-480" may not have the same color
+-189 -821 0
+-190 -822 0
+-191 -823 0
+-192 -824 0
+c nodes "figureW-93" and "figureW-556" may not have the same color
+-189 -929 0
+-190 -930 0
+-191 -931 0
+-192 -932 0
+c nodes "figureW-94" and "figureW-99" may not have the same color
+-193 -209 0
+-194 -210 0
+-195 -211 0
+-196 -212 0
+c nodes "figureW-94" and "figureW-131" may not have the same color
+-193 -249 0
+-194 -250 0
+-195 -251 0
+-196 -252 0
+c nodes "figureW-94" and "figureW-143" may not have the same color
+-193 -293 0
+-194 -294 0
+-195 -295 0
+-196 -296 0
+c nodes "figureW-94" and "figureW-397" may not have the same color
+-193 -693 0
+-194 -694 0
+-195 -695 0
+-196 -696 0
+c nodes "figureW-94" and "figureW-588" may not have the same color
+-193 -965 0
+-194 -966 0
+-195 -967 0
+-196 -968 0
+c nodes "figureW-95" and "figureW-100" may not have the same color
+-197 -213 0
+-198 -214 0
+-199 -215 0
+-200 -216 0
+c nodes "figureW-95" and "figureW-132" may not have the same color
+-197 -253 0
+-198 -254 0
+-199 -255 0
+-200 -256 0
+c nodes "figureW-95" and "figureW-143" may not have the same color
+-197 -293 0
+-198 -294 0
+-199 -295 0
+-200 -296 0
+c nodes "figureW-95" and "figureW-439" may not have the same color
+-197 -761 0
+-198 -762 0
+-199 -763 0
+-200 -764 0
+c nodes "figureW-95" and "figureW-618" may not have the same color
+-197 -1001 0
+-198 -1002 0
+-199 -1003 0
+-200 -1004 0
+c nodes "figureW-97" and "figureW-102" may not have the same color
+-201 -221 0
+-202 -222 0
+-203 -223 0
+-204 -224 0
+c nodes "figureW-97" and "figureW-134" may not have the same color
+-201 -261 0
+-202 -262 0
+-203 -263 0
+-204 -264 0
+c nodes "figureW-97" and "figureW-143" may not have the same color
+-201 -293 0
+-202 -294 0
+-203 -295 0
+-204 -296 0
+c nodes "figureW-97" and "figureW-517" may not have the same color
+-201 -869 0
+-202 -870 0
+-203 -871 0
+-204 -872 0
+c nodes "figureW-97" and "figureW-671" may not have the same color
+-201 -1061 0
+-202 -1062 0
+-203 -1063 0
+-204 -1064 0
+c nodes "figureW-98" and "figureW-103" may not have the same color
+-205 -225 0
+-206 -226 0
+-207 -227 0
+-208 -228 0
+c nodes "figureW-98" and "figureW-135" may not have the same color
+-205 -265 0
+-206 -266 0
+-207 -267 0
+-208 -268 0
+c nodes "figureW-98" and "figureW-143" may not have the same color
+-205 -293 0
+-206 -294 0
+-207 -295 0
+-208 -296 0
+c nodes "figureW-98" and "figureW-314" may not have the same color
+-205 -573 0
+-206 -574 0
+-207 -575 0
+-208 -576 0
+c nodes "figureW-98" and "figureW-320" may not have the same color
+-205 -593 0
+-206 -594 0
+-207 -595 0
+-208 -596 0
+c nodes "figureW-98" and "figureW-480" may not have the same color
+-205 -821 0
+-206 -822 0
+-207 -823 0
+-208 -824 0
+c nodes "figureW-98" and "figureW-486" may not have the same color
+-205 -841 0
+-206 -842 0
+-207 -843 0
+-208 -844 0
+c nodes "figureW-98" and "figureW-553" may not have the same color
+-205 -917 0
+-206 -918 0
+-207 -919 0
+-208 -920 0
+c nodes "figureW-98" and "figureW-694" may not have the same color
+-205 -1085 0
+-206 -1086 0
+-207 -1087 0
+-208 -1088 0
+c nodes "figureW-98" and "figureW-756" may not have the same color
+-205 -1149 0
+-206 -1150 0
+-207 -1151 0
+-208 -1152 0
+c nodes "figureW-98" and "figureW-775" may not have the same color
+-205 -1169 0
+-206 -1170 0
+-207 -1171 0
+-208 -1172 0
+c nodes "figureW-99" and "figureW-104" may not have the same color
+-209 -229 0
+-210 -230 0
+-211 -231 0
+-212 -232 0
+c nodes "figureW-99" and "figureW-136" may not have the same color
+-209 -269 0
+-210 -270 0
+-211 -271 0
+-212 -272 0
+c nodes "figureW-99" and "figureW-143" may not have the same color
+-209 -293 0
+-210 -294 0
+-211 -295 0
+-212 -296 0
+c nodes "figureW-99" and "figureW-586" may not have the same color
+-209 -957 0
+-210 -958 0
+-211 -959 0
+-212 -960 0
+c nodes "figureW-99" and "figureW-715" may not have the same color
+-209 -1105 0
+-210 -1106 0
+-211 -1107 0
+-212 -1108 0
+c nodes "figureW-100" and "figureW-105" may not have the same color
+-213 -233 0
+-214 -234 0
+-215 -235 0
+-216 -236 0
+c nodes "figureW-100" and "figureW-137" may not have the same color
+-213 -273 0
+-214 -274 0
+-215 -275 0
+-216 -276 0
+c nodes "figureW-100" and "figureW-143" may not have the same color
+-213 -293 0
+-214 -294 0
+-215 -295 0
+-216 -296 0
+c nodes "figureW-100" and "figureW-441" may not have the same color
+-213 -769 0
+-214 -770 0
+-215 -771 0
+-216 -772 0
+c nodes "figureW-100" and "figureW-446" may not have the same color
+-213 -785 0
+-214 -786 0
+-215 -787 0
+-216 -788 0
+c nodes "figureW-100" and "figureW-617" may not have the same color
+-213 -997 0
+-214 -998 0
+-215 -999 0
+-216 -1000 0
+c nodes "figureW-100" and "figureW-735" may not have the same color
+-213 -1125 0
+-214 -1126 0
+-215 -1127 0
+-216 -1128 0
+c nodes "figureW-100" and "figureW-784" may not have the same color
+-213 -1177 0
+-214 -1178 0
+-215 -1179 0
+-216 -1180 0
+c nodes "figureW-101" and "figureW-106" may not have the same color
+-217 -237 0
+-218 -238 0
+-219 -239 0
+-220 -240 0
+c nodes "figureW-101" and "figureW-143" may not have the same color
+-217 -293 0
+-218 -294 0
+-219 -295 0
+-220 -296 0
+c nodes "figureW-101" and "figureW-192" may not have the same color
+-217 -385 0
+-218 -386 0
+-219 -387 0
+-220 -388 0
+c nodes "figureW-101" and "figureW-231" may not have the same color
+-217 -445 0
+-218 -446 0
+-219 -447 0
+-220 -448 0
+c nodes "figureW-101" and "figureW-279" may not have the same color
+-217 -529 0
+-218 -530 0
+-219 -531 0
+-220 -532 0
+c nodes "figureW-101" and "figureW-319" may not have the same color
+-217 -589 0
+-218 -590 0
+-219 -591 0
+-220 -592 0
+c nodes "figureW-101" and "figureW-365" may not have the same color
+-217 -665 0
+-218 -666 0
+-219 -667 0
+-220 -668 0
+c nodes "figureW-101" and "figureW-404" may not have the same color
+-217 -717 0
+-218 -718 0
+-219 -719 0
+-220 -720 0
+c nodes "figureW-101" and "figureW-445" may not have the same color
+-217 -781 0
+-218 -782 0
+-219 -783 0
+-220 -784 0
+c nodes "figureW-101" and "figureW-521" may not have the same color
+-217 -885 0
+-218 -886 0
+-219 -887 0
+-220 -888 0
+c nodes "figureW-101" and "figureW-556" may not have the same color
+-217 -929 0
+-218 -930 0
+-219 -931 0
+-220 -932 0
+c nodes "figureW-101" and "figureW-588" may not have the same color
+-217 -965 0
+-218 -966 0
+-219 -967 0
+-220 -968 0
+c nodes "figureW-101" and "figureW-618" may not have the same color
+-217 -1001 0
+-218 -1002 0
+-219 -1003 0
+-220 -1004 0
+c nodes "figureW-101" and "figureW-646" may not have the same color
+-217 -1033 0
+-218 -1034 0
+-219 -1035 0
+-220 -1036 0
+c nodes "figureW-101" and "figureW-671" may not have the same color
+-217 -1061 0
+-218 -1062 0
+-219 -1063 0
+-220 -1064 0
+c nodes "figureW-101" and "figureW-694" may not have the same color
+-217 -1085 0
+-218 -1086 0
+-219 -1087 0
+-220 -1088 0
+c nodes "figureW-101" and "figureW-715" may not have the same color
+-217 -1105 0
+-218 -1106 0
+-219 -1107 0
+-220 -1108 0
+c nodes "figureW-101" and "figureW-735" may not have the same color
+-217 -1125 0
+-218 -1126 0
+-219 -1127 0
+-220 -1128 0
+c nodes "figureW-101" and "figureW-766" may not have the same color
+-217 -1165 0
+-218 -1166 0
+-219 -1167 0
+-220 -1168 0
+c nodes "figureW-102" and "figureW-139" may not have the same color
+-221 -277 0
+-222 -278 0
+-223 -279 0
+-224 -280 0
+c nodes "figureW-102" and "figureW-143" may not have the same color
+-221 -293 0
+-222 -294 0
+-223 -295 0
+-224 -296 0
+c nodes "figureW-102" and "figureW-672" may not have the same color
+-221 -1065 0
+-222 -1066 0
+-223 -1067 0
+-224 -1068 0
+c nodes "figureW-103" and "figureW-140" may not have the same color
+-225 -281 0
+-226 -282 0
+-227 -283 0
+-228 -284 0
+c nodes "figureW-103" and "figureW-143" may not have the same color
+-225 -293 0
+-226 -294 0
+-227 -295 0
+-228 -296 0
+c nodes "figureW-103" and "figureW-274" may not have the same color
+-225 -509 0
+-226 -510 0
+-227 -511 0
+-228 -512 0
+c nodes "figureW-103" and "figureW-280" may not have the same color
+-225 -533 0
+-226 -534 0
+-227 -535 0
+-228 -536 0
+c nodes "figureW-103" and "figureW-696" may not have the same color
+-225 -1093 0
+-226 -1094 0
+-227 -1095 0
+-228 -1096 0
+c nodes "figureW-103" and "figureW-756" may not have the same color
+-225 -1149 0
+-226 -1150 0
+-227 -1151 0
+-228 -1152 0
+c nodes "figureW-104" and "figureW-141" may not have the same color
+-229 -285 0
+-230 -286 0
+-231 -287 0
+-232 -288 0
+c nodes "figureW-104" and "figureW-143" may not have the same color
+-229 -293 0
+-230 -294 0
+-231 -295 0
+-232 -296 0
+c nodes "figureW-104" and "figureW-718" may not have the same color
+-229 -1117 0
+-230 -1118 0
+-231 -1119 0
+-232 -1120 0
+c nodes "figureW-105" and "figureW-142" may not have the same color
+-233 -289 0
+-234 -290 0
+-235 -291 0
+-236 -292 0
+c nodes "figureW-105" and "figureW-143" may not have the same color
+-233 -293 0
+-234 -294 0
+-235 -295 0
+-236 -296 0
+c nodes "figureW-105" and "figureW-784" may not have the same color
+-233 -1177 0
+-234 -1178 0
+-235 -1179 0
+-236 -1180 0
+c nodes "figureW-106" and "figureW-143" may not have the same color
+-237 -293 0
+-238 -294 0
+-239 -295 0
+-240 -296 0
+c nodes "figureW-106" and "figureW-275" may not have the same color
+-237 -513 0
+-238 -514 0
+-239 -515 0
+-240 -516 0
+c nodes "figureW-106" and "figureW-281" may not have the same color
+-237 -537 0
+-238 -538 0
+-239 -539 0
+-240 -540 0
+c nodes "figureW-106" and "figureW-775" may not have the same color
+-237 -1169 0
+-238 -1170 0
+-239 -1171 0
+-240 -1172 0
+c nodes "figureW-129" and "figureW-134" may not have the same color
+-241 -261 0
+-242 -262 0
+-243 -263 0
+-244 -264 0
+c nodes "figureW-129" and "figureW-176" may not have the same color
+-241 -325 0
+-242 -326 0
+-243 -327 0
+-244 -328 0
+c nodes "figureW-129" and "figureW-181" may not have the same color
+-241 -345 0
+-242 -346 0
+-243 -347 0
+-244 -348 0
+c nodes "figureW-129" and "figureW-222" may not have the same color
+-241 -413 0
+-242 -414 0
+-243 -415 0
+-244 -416 0
+c nodes "figureW-129" and "figureW-261" may not have the same color
+-241 -461 0
+-242 -462 0
+-243 -463 0
+-244 -464 0
+c nodes "figureW-129" and "figureW-269" may not have the same color
+-241 -493 0
+-242 -494 0
+-243 -495 0
+-244 -496 0
+c nodes "figureW-129" and "figureW-309" may not have the same color
+-241 -553 0
+-242 -554 0
+-243 -555 0
+-244 -556 0
+c nodes "figureW-129" and "figureW-434" may not have the same color
+-241 -741 0
+-242 -742 0
+-243 -743 0
+-244 -744 0
+c nodes "figureW-130" and "figureW-135" may not have the same color
+-245 -265 0
+-246 -266 0
+-247 -267 0
+-248 -268 0
+c nodes "figureW-130" and "figureW-311" may not have the same color
+-245 -561 0
+-246 -562 0
+-247 -563 0
+-248 -564 0
+c nodes "figureW-131" and "figureW-136" may not have the same color
+-249 -269 0
+-250 -270 0
+-251 -271 0
+-252 -272 0
+c nodes "figureW-131" and "figureW-397" may not have the same color
+-249 -693 0
+-250 -694 0
+-251 -695 0
+-252 -696 0
+c nodes "figureW-132" and "figureW-137" may not have the same color
+-253 -273 0
+-254 -274 0
+-255 -275 0
+-256 -276 0
+c nodes "figureW-132" and "figureW-439" may not have the same color
+-253 -761 0
+-254 -762 0
+-255 -763 0
+-256 -764 0
+c nodes "figureW-133" and "figureW-149" may not have the same color
+-257 -309 0
+-258 -310 0
+-259 -311 0
+-260 -312 0
+c nodes "figureW-133" and "figureW-177" may not have the same color
+-257 -329 0
+-258 -330 0
+-259 -331 0
+-260 -332 0
+c nodes "figureW-133" and "figureW-264" may not have the same color
+-257 -473 0
+-258 -474 0
+-259 -475 0
+-260 -476 0
+c nodes "figureW-133" and "figureW-350" may not have the same color
+-257 -609 0
+-258 -610 0
+-259 -611 0
+-260 -612 0
+c nodes "figureW-133" and "figureW-474" may not have the same color
+-257 -797 0
+-258 -798 0
+-259 -799 0
+-260 -800 0
+c nodes "figureW-133" and "figureW-475" may not have the same color
+-257 -801 0
+-258 -802 0
+-259 -803 0
+-260 -804 0
+c nodes "figureW-133" and "figureW-476" may not have the same color
+-257 -805 0
+-258 -806 0
+-259 -807 0
+-260 -808 0
+c nodes "figureW-133" and "figureW-477" may not have the same color
+-257 -809 0
+-258 -810 0
+-259 -811 0
+-260 -812 0
+c nodes "figureW-133" and "figureW-478" may not have the same color
+-257 -813 0
+-258 -814 0
+-259 -815 0
+-260 -816 0
+c nodes "figureW-133" and "figureW-479" may not have the same color
+-257 -817 0
+-258 -818 0
+-259 -819 0
+-260 -820 0
+c nodes "figureW-133" and "figureW-480" may not have the same color
+-257 -821 0
+-258 -822 0
+-259 -823 0
+-260 -824 0
+c nodes "figureW-133" and "figureW-481" may not have the same color
+-257 -825 0
+-258 -826 0
+-259 -827 0
+-260 -828 0
+c nodes "figureW-133" and "figureW-482" may not have the same color
+-257 -829 0
+-258 -830 0
+-259 -831 0
+-260 -832 0
+c nodes "figureW-133" and "figureW-483" may not have the same color
+-257 -833 0
+-258 -834 0
+-259 -835 0
+-260 -836 0
+c nodes "figureW-133" and "figureW-485" may not have the same color
+-257 -837 0
+-258 -838 0
+-259 -839 0
+-260 -840 0
+c nodes "figureW-133" and "figureW-486" may not have the same color
+-257 -841 0
+-258 -842 0
+-259 -843 0
+-260 -844 0
+c nodes "figureW-133" and "figureW-487" may not have the same color
+-257 -845 0
+-258 -846 0
+-259 -847 0
+-260 -848 0
+c nodes "figureW-134" and "figureW-139" may not have the same color
+-261 -277 0
+-262 -278 0
+-263 -279 0
+-264 -280 0
+c nodes "figureW-134" and "figureW-306" may not have the same color
+-261 -541 0
+-262 -542 0
+-263 -543 0
+-264 -544 0
+c nodes "figureW-134" and "figureW-319" may not have the same color
+-261 -589 0
+-262 -590 0
+-263 -591 0
+-264 -592 0
+c nodes "figureW-134" and "figureW-434" may not have the same color
+-261 -741 0
+-262 -742 0
+-263 -743 0
+-264 -744 0
+c nodes "figureW-134" and "figureW-446" may not have the same color
+-261 -785 0
+-262 -786 0
+-263 -787 0
+-264 -788 0
+c nodes "figureW-134" and "figureW-475" may not have the same color
+-261 -801 0
+-262 -802 0
+-263 -803 0
+-264 -804 0
+c nodes "figureW-134" and "figureW-517" may not have the same color
+-261 -869 0
+-262 -870 0
+-263 -871 0
+-264 -872 0
+c nodes "figureW-134" and "figureW-556" may not have the same color
+-261 -929 0
+-262 -930 0
+-263 -931 0
+-264 -932 0
+c nodes "figureW-134" and "figureW-619" may not have the same color
+-261 -1005 0
+-262 -1006 0
+-263 -1007 0
+-264 -1008 0
+c nodes "figureW-135" and "figureW-140" may not have the same color
+-265 -281 0
+-266 -282 0
+-267 -283 0
+-268 -284 0
+c nodes "figureW-135" and "figureW-309" may not have the same color
+-265 -553 0
+-266 -554 0
+-267 -555 0
+-268 -556 0
+c nodes "figureW-135" and "figureW-320" may not have the same color
+-265 -593 0
+-266 -594 0
+-267 -595 0
+-268 -596 0
+c nodes "figureW-135" and "figureW-476" may not have the same color
+-265 -805 0
+-266 -806 0
+-267 -807 0
+-268 -808 0
+c nodes "figureW-135" and "figureW-553" may not have the same color
+-265 -917 0
+-266 -918 0
+-267 -919 0
+-268 -920 0
+c nodes "figureW-135" and "figureW-647" may not have the same color
+-265 -1037 0
+-266 -1038 0
+-267 -1039 0
+-268 -1040 0
+c nodes "figureW-136" and "figureW-141" may not have the same color
+-269 -285 0
+-270 -286 0
+-271 -287 0
+-272 -288 0
+c nodes "figureW-136" and "figureW-477" may not have the same color
+-269 -809 0
+-270 -810 0
+-271 -811 0
+-272 -812 0
+c nodes "figureW-136" and "figureW-586" may not have the same color
+-269 -957 0
+-270 -958 0
+-271 -959 0
+-272 -960 0
+c nodes "figureW-137" and "figureW-142" may not have the same color
+-273 -289 0
+-274 -290 0
+-275 -291 0
+-276 -292 0
+c nodes "figureW-137" and "figureW-478" may not have the same color
+-273 -813 0
+-274 -814 0
+-275 -815 0
+-276 -816 0
+c nodes "figureW-137" and "figureW-617" may not have the same color
+-273 -997 0
+-274 -998 0
+-275 -999 0
+-276 -1000 0
+c nodes "figureW-139" and "figureW-144" may not have the same color
+-277 -297 0
+-278 -298 0
+-279 -299 0
+-280 -300 0
+c nodes "figureW-139" and "figureW-480" may not have the same color
+-277 -821 0
+-278 -822 0
+-279 -823 0
+-280 -824 0
+c nodes "figureW-139" and "figureW-672" may not have the same color
+-277 -1065 0
+-278 -1066 0
+-279 -1067 0
+-280 -1068 0
+c nodes "figureW-140" and "figureW-145" may not have the same color
+-281 -301 0
+-282 -302 0
+-283 -303 0
+-284 -304 0
+c nodes "figureW-140" and "figureW-179" may not have the same color
+-281 -337 0
+-282 -338 0
+-283 -339 0
+-284 -340 0
+c nodes "figureW-140" and "figureW-192" may not have the same color
+-281 -385 0
+-282 -386 0
+-283 -387 0
+-284 -388 0
+c nodes "figureW-140" and "figureW-269" may not have the same color
+-281 -493 0
+-282 -494 0
+-283 -495 0
+-284 -496 0
+c nodes "figureW-140" and "figureW-280" may not have the same color
+-281 -533 0
+-282 -534 0
+-283 -535 0
+-284 -536 0
+c nodes "figureW-140" and "figureW-481" may not have the same color
+-281 -825 0
+-282 -826 0
+-283 -827 0
+-284 -828 0
+c nodes "figureW-140" and "figureW-556" may not have the same color
+-281 -929 0
+-282 -930 0
+-283 -931 0
+-284 -932 0
+c nodes "figureW-140" and "figureW-647" may not have the same color
+-281 -1037 0
+-282 -1038 0
+-283 -1039 0
+-284 -1040 0
+c nodes "figureW-140" and "figureW-696" may not have the same color
+-281 -1093 0
+-282 -1094 0
+-283 -1095 0
+-284 -1096 0
+c nodes "figureW-141" and "figureW-146" may not have the same color
+-285 -305 0
+-286 -306 0
+-287 -307 0
+-288 -308 0
+c nodes "figureW-141" and "figureW-482" may not have the same color
+-285 -829 0
+-286 -830 0
+-287 -831 0
+-288 -832 0
+c nodes "figureW-141" and "figureW-718" may not have the same color
+-285 -1117 0
+-286 -1118 0
+-287 -1119 0
+-288 -1120 0
+c nodes "figureW-142" and "figureW-181" may not have the same color
+-289 -345 0
+-290 -346 0
+-291 -347 0
+-292 -348 0
+c nodes "figureW-142" and "figureW-193" may not have the same color
+-289 -389 0
+-290 -390 0
+-291 -391 0
+-292 -392 0
+c nodes "figureW-142" and "figureW-483" may not have the same color
+-289 -833 0
+-290 -834 0
+-291 -835 0
+-292 -836 0
+c nodes "figureW-142" and "figureW-619" may not have the same color
+-289 -1005 0
+-290 -1006 0
+-291 -1007 0
+-292 -1008 0
+c nodes "figureW-144" and "figureW-188" may not have the same color
+-297 -369 0
+-298 -370 0
+-299 -371 0
+-300 -372 0
+c nodes "figureW-144" and "figureW-485" may not have the same color
+-297 -837 0
+-298 -838 0
+-299 -839 0
+-300 -840 0
+c nodes "figureW-145" and "figureW-174" may not have the same color
+-301 -317 0
+-302 -318 0
+-303 -319 0
+-304 -320 0
+c nodes "figureW-145" and "figureW-192" may not have the same color
+-301 -385 0
+-302 -386 0
+-303 -387 0
+-304 -388 0
+c nodes "figureW-145" and "figureW-276" may not have the same color
+-301 -517 0
+-302 -518 0
+-303 -519 0
+-304 -520 0
+c nodes "figureW-145" and "figureW-319" may not have the same color
+-301 -589 0
+-302 -590 0
+-303 -591 0
+-304 -592 0
+c nodes "figureW-145" and "figureW-486" may not have the same color
+-301 -841 0
+-302 -842 0
+-303 -843 0
+-304 -844 0
+c nodes "figureW-146" and "figureW-363" may not have the same color
+-305 -657 0
+-306 -658 0
+-307 -659 0
+-308 -660 0
+c nodes "figureW-146" and "figureW-487" may not have the same color
+-305 -845 0
+-306 -846 0
+-307 -847 0
+-308 -848 0
+c nodes "figureW-149" and "figureW-174" may not have the same color
+-309 -317 0
+-310 -318 0
+-311 -319 0
+-312 -320 0
+c nodes "figureW-149" and "figureW-179" may not have the same color
+-309 -337 0
+-310 -338 0
+-311 -339 0
+-312 -340 0
+c nodes "figureW-149" and "figureW-306" may not have the same color
+-309 -541 0
+-310 -542 0
+-311 -543 0
+-312 -544 0
+c nodes "figureW-173" and "figureW-178" may not have the same color
+-313 -333 0
+-314 -334 0
+-315 -335 0
+-316 -336 0
+c nodes "figureW-173" and "figureW-232" may not have the same color
+-313 -449 0
+-314 -450 0
+-315 -451 0
+-316 -452 0
+c nodes "figureW-173" and "figureW-349" may not have the same color
+-313 -605 0
+-314 -606 0
+-315 -607 0
+-316 -608 0
+c nodes "figureW-173" and "figureW-367" may not have the same color
+-313 -673 0
+-314 -674 0
+-315 -675 0
+-316 -676 0
+c nodes "figureW-173" and "figureW-406" may not have the same color
+-313 -725 0
+-314 -726 0
+-315 -727 0
+-316 -728 0
+c nodes "figureW-174" and "figureW-179" may not have the same color
+-317 -337 0
+-318 -338 0
+-319 -339 0
+-320 -340 0
+c nodes "figureW-174" and "figureW-232" may not have the same color
+-317 -449 0
+-318 -450 0
+-319 -451 0
+-320 -452 0
+c nodes "figureW-174" and "figureW-266" may not have the same color
+-317 -481 0
+-318 -482 0
+-319 -483 0
+-320 -484 0
+c nodes "figureW-174" and "figureW-320" may not have the same color
+-317 -593 0
+-318 -594 0
+-319 -595 0
+-320 -596 0
+c nodes "figureW-174" and "figureW-351" may not have the same color
+-317 -613 0
+-318 -614 0
+-319 -615 0
+-320 -616 0
+c nodes "figureW-174" and "figureW-368" may not have the same color
+-317 -677 0
+-318 -678 0
+-319 -679 0
+-320 -680 0
+c nodes "figureW-174" and "figureW-486" may not have the same color
+-317 -841 0
+-318 -842 0
+-319 -843 0
+-320 -844 0
+c nodes "figureW-174" and "figureW-524" may not have the same color
+-317 -893 0
+-318 -894 0
+-319 -895 0
+-320 -896 0
+c nodes "figureW-175" and "figureW-180" may not have the same color
+-321 -341 0
+-322 -342 0
+-323 -343 0
+-324 -344 0
+c nodes "figureW-175" and "figureW-232" may not have the same color
+-321 -449 0
+-322 -450 0
+-323 -451 0
+-324 -452 0
+c nodes "figureW-175" and "figureW-353" may not have the same color
+-321 -621 0
+-322 -622 0
+-323 -623 0
+-324 -624 0
+c nodes "figureW-175" and "figureW-405" may not have the same color
+-321 -721 0
+-322 -722 0
+-323 -723 0
+-324 -724 0
+c nodes "figureW-176" and "figureW-181" may not have the same color
+-325 -345 0
+-326 -346 0
+-327 -347 0
+-328 -348 0
+c nodes "figureW-176" and "figureW-232" may not have the same color
+-325 -449 0
+-326 -450 0
+-327 -451 0
+-328 -452 0
+c nodes "figureW-176" and "figureW-446" may not have the same color
+-325 -785 0
+-326 -786 0
+-327 -787 0
+-328 -788 0
+c nodes "figureW-177" and "figureW-182" may not have the same color
+-329 -349 0
+-330 -350 0
+-331 -351 0
+-332 -352 0
+c nodes "figureW-177" and "figureW-232" may not have the same color
+-329 -449 0
+-330 -450 0
+-331 -451 0
+-332 -452 0
+c nodes "figureW-177" and "figureW-485" may not have the same color
+-329 -837 0
+-330 -838 0
+-331 -839 0
+-332 -840 0
+c nodes "figureW-178" and "figureW-217" may not have the same color
+-333 -393 0
+-334 -394 0
+-335 -395 0
+-336 -396 0
+c nodes "figureW-178" and "figureW-218" may not have the same color
+-333 -397 0
+-334 -398 0
+-335 -399 0
+-336 -400 0
+c nodes "figureW-178" and "figureW-219" may not have the same color
+-333 -401 0
+-334 -402 0
+-335 -403 0
+-336 -404 0
+c nodes "figureW-178" and "figureW-220" may not have the same color
+-333 -405 0
+-334 -406 0
+-335 -407 0
+-336 -408 0
+c nodes "figureW-178" and "figureW-221" may not have the same color
+-333 -409 0
+-334 -410 0
+-335 -411 0
+-336 -412 0
+c nodes "figureW-178" and "figureW-222" may not have the same color
+-333 -413 0
+-334 -414 0
+-335 -415 0
+-336 -416 0
+c nodes "figureW-178" and "figureW-223" may not have the same color
+-333 -417 0
+-334 -418 0
+-335 -419 0
+-336 -420 0
+c nodes "figureW-178" and "figureW-224" may not have the same color
+-333 -421 0
+-334 -422 0
+-335 -423 0
+-336 -424 0
+c nodes "figureW-178" and "figureW-225" may not have the same color
+-333 -425 0
+-334 -426 0
+-335 -427 0
+-336 -428 0
+c nodes "figureW-178" and "figureW-226" may not have the same color
+-333 -429 0
+-334 -430 0
+-335 -431 0
+-336 -432 0
+c nodes "figureW-178" and "figureW-228" may not have the same color
+-333 -433 0
+-334 -434 0
+-335 -435 0
+-336 -436 0
+c nodes "figureW-178" and "figureW-229" may not have the same color
+-333 -437 0
+-334 -438 0
+-335 -439 0
+-336 -440 0
+c nodes "figureW-178" and "figureW-230" may not have the same color
+-333 -441 0
+-334 -442 0
+-335 -443 0
+-336 -444 0
+c nodes "figureW-178" and "figureW-231" may not have the same color
+-333 -445 0
+-334 -446 0
+-335 -447 0
+-336 -448 0
+c nodes "figureW-178" and "figureW-232" may not have the same color
+-333 -449 0
+-334 -450 0
+-335 -451 0
+-336 -452 0
+c nodes "figureW-178" and "figureW-233" may not have the same color
+-333 -453 0
+-334 -454 0
+-335 -455 0
+-336 -456 0
+c nodes "figureW-178" and "figureW-234" may not have the same color
+-333 -457 0
+-334 -458 0
+-335 -459 0
+-336 -460 0
+c nodes "figureW-179" and "figureW-184" may not have the same color
+-337 -353 0
+-338 -354 0
+-339 -355 0
+-340 -356 0
+c nodes "figureW-179" and "figureW-218" may not have the same color
+-337 -397 0
+-338 -398 0
+-339 -399 0
+-340 -400 0
+c nodes "figureW-179" and "figureW-232" may not have the same color
+-337 -449 0
+-338 -450 0
+-339 -451 0
+-340 -452 0
+c nodes "figureW-179" and "figureW-311" may not have the same color
+-337 -561 0
+-338 -562 0
+-339 -563 0
+-340 -564 0
+c nodes "figureW-179" and "figureW-349" may not have the same color
+-337 -605 0
+-338 -606 0
+-339 -607 0
+-340 -608 0
+c nodes "figureW-179" and "figureW-361" may not have the same color
+-337 -649 0
+-338 -650 0
+-339 -651 0
+-340 -652 0
+c nodes "figureW-179" and "figureW-400" may not have the same color
+-337 -705 0
+-338 -706 0
+-339 -707 0
+-340 -708 0
+c nodes "figureW-179" and "figureW-481" may not have the same color
+-337 -825 0
+-338 -826 0
+-339 -827 0
+-340 -828 0
+c nodes "figureW-179" and "figureW-557" may not have the same color
+-337 -933 0
+-338 -934 0
+-339 -935 0
+-340 -936 0
+c nodes "figureW-180" and "figureW-185" may not have the same color
+-341 -357 0
+-342 -358 0
+-343 -359 0
+-344 -360 0
+c nodes "figureW-180" and "figureW-219" may not have the same color
+-341 -401 0
+-342 -402 0
+-343 -403 0
+-344 -404 0
+c nodes "figureW-180" and "figureW-232" may not have the same color
+-341 -449 0
+-342 -450 0
+-343 -451 0
+-344 -452 0
+c nodes "figureW-180" and "figureW-351" may not have the same color
+-341 -613 0
+-342 -614 0
+-343 -615 0
+-344 -616 0
+c nodes "figureW-180" and "figureW-362" may not have the same color
+-341 -653 0
+-342 -654 0
+-343 -655 0
+-344 -656 0
+c nodes "figureW-180" and "figureW-397" may not have the same color
+-341 -693 0
+-342 -694 0
+-343 -695 0
+-344 -696 0
+c nodes "figureW-180" and "figureW-518" may not have the same color
+-341 -873 0
+-342 -874 0
+-343 -875 0
+-344 -876 0
+c nodes "figureW-180" and "figureW-589" may not have the same color
+-341 -969 0
+-342 -970 0
+-343 -971 0
+-344 -972 0
+c nodes "figureW-181" and "figureW-186" may not have the same color
+-345 -361 0
+-346 -362 0
+-347 -363 0
+-348 -364 0
+c nodes "figureW-181" and "figureW-220" may not have the same color
+-345 -405 0
+-346 -406 0
+-347 -407 0
+-348 -408 0
+c nodes "figureW-181" and "figureW-232" may not have the same color
+-345 -449 0
+-346 -450 0
+-347 -451 0
+-348 -452 0
+c nodes "figureW-181" and "figureW-439" may not have the same color
+-345 -761 0
+-346 -762 0
+-347 -763 0
+-348 -764 0
+c nodes "figureW-181" and "figureW-480" may not have the same color
+-345 -821 0
+-346 -822 0
+-347 -823 0
+-348 -824 0
+c nodes "figureW-181" and "figureW-520" may not have the same color
+-345 -881 0
+-346 -882 0
+-347 -883 0
+-348 -884 0
+c nodes "figureW-181" and "figureW-619" may not have the same color
+-345 -1005 0
+-346 -1006 0
+-347 -1007 0
+-348 -1008 0
+c nodes "figureW-182" and "figureW-187" may not have the same color
+-349 -365 0
+-350 -366 0
+-351 -367 0
+-352 -368 0
+c nodes "figureW-182" and "figureW-221" may not have the same color
+-349 -409 0
+-350 -410 0
+-351 -411 0
+-352 -412 0
+c nodes "figureW-182" and "figureW-232" may not have the same color
+-349 -449 0
+-350 -450 0
+-351 -451 0
+-352 -452 0
+c nodes "figureW-182" and "figureW-479" may not have the same color
+-349 -817 0
+-350 -818 0
+-351 -819 0
+-352 -820 0
+c nodes "figureW-182" and "figureW-647" may not have the same color
+-349 -1037 0
+-350 -1038 0
+-351 -1039 0
+-352 -1040 0
+c nodes "figureW-184" and "figureW-189" may not have the same color
+-353 -373 0
+-354 -374 0
+-355 -375 0
+-356 -376 0
+c nodes "figureW-184" and "figureW-223" may not have the same color
+-353 -417 0
+-354 -418 0
+-355 -419 0
+-356 -420 0
+c nodes "figureW-184" and "figureW-232" may not have the same color
+-353 -449 0
+-354 -450 0
+-355 -451 0
+-356 -452 0
+c nodes "figureW-184" and "figureW-553" may not have the same color
+-353 -917 0
+-354 -918 0
+-355 -919 0
+-356 -920 0
+c nodes "figureW-184" and "figureW-695" may not have the same color
+-353 -1089 0
+-354 -1090 0
+-355 -1091 0
+-356 -1092 0
+c nodes "figureW-185" and "figureW-190" may not have the same color
+-357 -377 0
+-358 -378 0
+-359 -379 0
+-360 -380 0
+c nodes "figureW-185" and "figureW-224" may not have the same color
+-357 -421 0
+-358 -422 0
+-359 -423 0
+-360 -424 0
+c nodes "figureW-185" and "figureW-232" may not have the same color
+-357 -449 0
+-358 -450 0
+-359 -451 0
+-360 -452 0
+c nodes "figureW-185" and "figureW-400" may not have the same color
+-357 -705 0
+-358 -706 0
+-359 -707 0
+-360 -708 0
+c nodes "figureW-185" and "figureW-406" may not have the same color
+-357 -725 0
+-358 -726 0
+-359 -727 0
+-360 -728 0
+c nodes "figureW-185" and "figureW-518" may not have the same color
+-357 -873 0
+-358 -874 0
+-359 -875 0
+-360 -876 0
+c nodes "figureW-185" and "figureW-524" may not have the same color
+-357 -893 0
+-358 -894 0
+-359 -895 0
+-360 -896 0
+c nodes "figureW-185" and "figureW-586" may not have the same color
+-357 -957 0
+-358 -958 0
+-359 -959 0
+-360 -960 0
+c nodes "figureW-185" and "figureW-716" may not have the same color
+-357 -1109 0
+-358 -1110 0
+-359 -1111 0
+-360 -1112 0
+c nodes "figureW-185" and "figureW-775" may not have the same color
+-357 -1169 0
+-358 -1170 0
+-359 -1171 0
+-360 -1172 0
+c nodes "figureW-185" and "figureW-792" may not have the same color
+-357 -1181 0
+-358 -1182 0
+-359 -1183 0
+-360 -1184 0
+c nodes "figureW-186" and "figureW-191" may not have the same color
+-361 -381 0
+-362 -382 0
+-363 -383 0
+-364 -384 0
+c nodes "figureW-186" and "figureW-225" may not have the same color
+-361 -425 0
+-362 -426 0
+-363 -427 0
+-364 -428 0
+c nodes "figureW-186" and "figureW-232" may not have the same color
+-361 -449 0
+-362 -450 0
+-363 -451 0
+-364 -452 0
+c nodes "figureW-186" and "figureW-480" may not have the same color
+-361 -821 0
+-362 -822 0
+-363 -823 0
+-364 -824 0
+c nodes "figureW-186" and "figureW-617" may not have the same color
+-361 -997 0
+-362 -998 0
+-363 -999 0
+-364 -1000 0
+c nodes "figureW-186" and "figureW-736" may not have the same color
+-361 -1129 0
+-362 -1130 0
+-363 -1131 0
+-364 -1132 0
+c nodes "figureW-187" and "figureW-192" may not have the same color
+-365 -385 0
+-366 -386 0
+-367 -387 0
+-368 -388 0
+c nodes "figureW-187" and "figureW-226" may not have the same color
+-365 -429 0
+-366 -430 0
+-367 -431 0
+-368 -432 0
+c nodes "figureW-187" and "figureW-232" may not have the same color
+-365 -449 0
+-366 -450 0
+-367 -451 0
+-368 -452 0
+c nodes "figureW-187" and "figureW-481" may not have the same color
+-365 -825 0
+-366 -826 0
+-367 -827 0
+-368 -828 0
+c nodes "figureW-187" and "figureW-486" may not have the same color
+-365 -841 0
+-366 -842 0
+-367 -843 0
+-368 -844 0
+c nodes "figureW-187" and "figureW-520" may not have the same color
+-365 -881 0
+-366 -882 0
+-367 -883 0
+-368 -884 0
+c nodes "figureW-187" and "figureW-646" may not have the same color
+-365 -1033 0
+-366 -1034 0
+-367 -1035 0
+-368 -1036 0
+c nodes "figureW-187" and "figureW-756" may not have the same color
+-365 -1149 0
+-366 -1150 0
+-367 -1151 0
+-368 -1152 0
+c nodes "figureW-187" and "figureW-801" may not have the same color
+-365 -1185 0
+-366 -1186 0
+-367 -1187 0
+-368 -1188 0
+c nodes "figureW-188" and "figureW-193" may not have the same color
+-369 -389 0
+-370 -390 0
+-371 -391 0
+-372 -392 0
+c nodes "figureW-188" and "figureW-232" may not have the same color
+-369 -449 0
+-370 -450 0
+-371 -451 0
+-372 -452 0
+c nodes "figureW-188" and "figureW-280" may not have the same color
+-369 -533 0
+-370 -534 0
+-371 -535 0
+-372 -536 0
+c nodes "figureW-188" and "figureW-320" may not have the same color
+-369 -593 0
+-370 -594 0
+-371 -595 0
+-372 -596 0
+c nodes "figureW-188" and "figureW-366" may not have the same color
+-369 -669 0
+-370 -670 0
+-371 -671 0
+-372 -672 0
+c nodes "figureW-188" and "figureW-405" may not have the same color
+-369 -721 0
+-370 -722 0
+-371 -723 0
+-372 -724 0
+c nodes "figureW-188" and "figureW-446" may not have the same color
+-369 -785 0
+-370 -786 0
+-371 -787 0
+-372 -788 0
+c nodes "figureW-188" and "figureW-485" may not have the same color
+-369 -837 0
+-370 -838 0
+-371 -839 0
+-372 -840 0
+c nodes "figureW-188" and "figureW-557" may not have the same color
+-369 -933 0
+-370 -934 0
+-371 -935 0
+-372 -936 0
+c nodes "figureW-188" and "figureW-589" may not have the same color
+-369 -969 0
+-370 -970 0
+-371 -971 0
+-372 -972 0
+c nodes "figureW-188" and "figureW-619" may not have the same color
+-369 -1005 0
+-370 -1006 0
+-371 -1007 0
+-372 -1008 0
+c nodes "figureW-188" and "figureW-647" may not have the same color
+-369 -1037 0
+-370 -1038 0
+-371 -1039 0
+-372 -1040 0
+c nodes "figureW-188" and "figureW-672" may not have the same color
+-369 -1065 0
+-370 -1066 0
+-371 -1067 0
+-372 -1068 0
+c nodes "figureW-188" and "figureW-695" may not have the same color
+-369 -1089 0
+-370 -1090 0
+-371 -1091 0
+-372 -1092 0
+c nodes "figureW-188" and "figureW-716" may not have the same color
+-369 -1109 0
+-370 -1110 0
+-371 -1111 0
+-372 -1112 0
+c nodes "figureW-188" and "figureW-736" may not have the same color
+-369 -1129 0
+-370 -1130 0
+-371 -1131 0
+-372 -1132 0
+c nodes "figureW-188" and "figureW-756" may not have the same color
+-369 -1149 0
+-370 -1150 0
+-371 -1151 0
+-372 -1152 0
+c nodes "figureW-188" and "figureW-784" may not have the same color
+-369 -1177 0
+-370 -1178 0
+-371 -1179 0
+-372 -1180 0
+c nodes "figureW-189" and "figureW-228" may not have the same color
+-373 -433 0
+-374 -434 0
+-375 -435 0
+-376 -436 0
+c nodes "figureW-189" and "figureW-232" may not have the same color
+-373 -449 0
+-374 -450 0
+-375 -451 0
+-376 -452 0
+c nodes "figureW-189" and "figureW-696" may not have the same color
+-373 -1093 0
+-374 -1094 0
+-375 -1095 0
+-376 -1096 0
+c nodes "figureW-190" and "figureW-229" may not have the same color
+-377 -437 0
+-378 -438 0
+-379 -439 0
+-380 -440 0
+c nodes "figureW-190" and "figureW-232" may not have the same color
+-377 -449 0
+-378 -450 0
+-379 -451 0
+-380 -452 0
+c nodes "figureW-190" and "figureW-361" may not have the same color
+-377 -649 0
+-378 -650 0
+-379 -651 0
+-380 -652 0
+c nodes "figureW-190" and "figureW-367" may not have the same color
+-377 -673 0
+-378 -674 0
+-379 -675 0
+-380 -676 0
+c nodes "figureW-190" and "figureW-718" may not have the same color
+-377 -1117 0
+-378 -1118 0
+-379 -1119 0
+-380 -1120 0
+c nodes "figureW-190" and "figureW-775" may not have the same color
+-377 -1169 0
+-378 -1170 0
+-379 -1171 0
+-380 -1172 0
+c nodes "figureW-191" and "figureW-230" may not have the same color
+-381 -441 0
+-382 -442 0
+-383 -443 0
+-384 -444 0
+c nodes "figureW-191" and "figureW-232" may not have the same color
+-381 -449 0
+-382 -450 0
+-383 -451 0
+-384 -452 0
+c nodes "figureW-192" and "figureW-231" may not have the same color
+-385 -445 0
+-386 -446 0
+-387 -447 0
+-388 -448 0
+c nodes "figureW-192" and "figureW-232" may not have the same color
+-385 -449 0
+-386 -450 0
+-387 -451 0
+-388 -452 0
+c nodes "figureW-192" and "figureW-801" may not have the same color
+-385 -1185 0
+-386 -1186 0
+-387 -1187 0
+-388 -1188 0
+c nodes "figureW-193" and "figureW-232" may not have the same color
+-389 -449 0
+-390 -450 0
+-391 -451 0
+-392 -452 0
+c nodes "figureW-193" and "figureW-362" may not have the same color
+-389 -653 0
+-390 -654 0
+-391 -655 0
+-392 -656 0
+c nodes "figureW-193" and "figureW-368" may not have the same color
+-389 -677 0
+-390 -678 0
+-391 -679 0
+-392 -680 0
+c nodes "figureW-193" and "figureW-792" may not have the same color
+-389 -1181 0
+-390 -1182 0
+-391 -1183 0
+-392 -1184 0
+c nodes "figureW-217" and "figureW-222" may not have the same color
+-393 -413 0
+-394 -414 0
+-395 -415 0
+-396 -416 0
+c nodes "figureW-217" and "figureW-262" may not have the same color
+-393 -465 0
+-394 -466 0
+-395 -467 0
+-396 -468 0
+c nodes "figureW-217" and "figureW-267" may not have the same color
+-393 -485 0
+-394 -486 0
+-395 -487 0
+-396 -488 0
+c nodes "figureW-217" and "figureW-415" may not have the same color
+-393 -733 0
+-394 -734 0
+-395 -735 0
+-396 -736 0
+c nodes "figureW-217" and "figureW-435" may not have the same color
+-393 -745 0
+-394 -746 0
+-395 -747 0
+-396 -748 0
+c nodes "figureW-218" and "figureW-223" may not have the same color
+-397 -417 0
+-398 -418 0
+-399 -419 0
+-400 -420 0
+c nodes "figureW-218" and "figureW-264" may not have the same color
+-397 -473 0
+-398 -474 0
+-399 -475 0
+-400 -476 0
+c nodes "figureW-218" and "figureW-269" may not have the same color
+-397 -493 0
+-398 -494 0
+-399 -495 0
+-400 -496 0
+c nodes "figureW-218" and "figureW-311" may not have the same color
+-397 -561 0
+-398 -562 0
+-399 -563 0
+-400 -564 0
+c nodes "figureW-218" and "figureW-349" may not have the same color
+-397 -605 0
+-398 -606 0
+-399 -607 0
+-400 -608 0
+c nodes "figureW-218" and "figureW-356" may not have the same color
+-397 -633 0
+-398 -634 0
+-399 -635 0
+-400 -636 0
+c nodes "figureW-218" and "figureW-395" may not have the same color
+-397 -685 0
+-398 -686 0
+-399 -687 0
+-400 -688 0
+c nodes "figureW-218" and "figureW-474" may not have the same color
+-397 -797 0
+-398 -798 0
+-399 -799 0
+-400 -800 0
+c nodes "figureW-219" and "figureW-224" may not have the same color
+-401 -421 0
+-402 -422 0
+-403 -423 0
+-404 -424 0
+c nodes "figureW-219" and "figureW-397" may not have the same color
+-401 -693 0
+-402 -694 0
+-403 -695 0
+-404 -696 0
+c nodes "figureW-220" and "figureW-225" may not have the same color
+-405 -425 0
+-406 -426 0
+-407 -427 0
+-408 -428 0
+c nodes "figureW-220" and "figureW-439" may not have the same color
+-405 -761 0
+-406 -762 0
+-407 -763 0
+-408 -764 0
+c nodes "figureW-220" and "figureW-475" may not have the same color
+-405 -801 0
+-406 -802 0
+-407 -803 0
+-408 -804 0
+c nodes "figureW-221" and "figureW-226" may not have the same color
+-409 -429 0
+-410 -430 0
+-411 -431 0
+-412 -432 0
+c nodes "figureW-221" and "figureW-479" may not have the same color
+-409 -817 0
+-410 -818 0
+-411 -819 0
+-412 -820 0
+c nodes "figureW-222" and "figureW-265" may not have the same color
+-413 -477 0
+-414 -478 0
+-415 -479 0
+-416 -480 0
+c nodes "figureW-222" and "figureW-351" may not have the same color
+-413 -613 0
+-414 -614 0
+-415 -615 0
+-416 -616 0
+c nodes "figureW-222" and "figureW-512" may not have the same color
+-413 -849 0
+-414 -850 0
+-415 -851 0
+-416 -852 0
+c nodes "figureW-222" and "figureW-513" may not have the same color
+-413 -853 0
+-414 -854 0
+-415 -855 0
+-416 -856 0
+c nodes "figureW-222" and "figureW-514" may not have the same color
+-413 -857 0
+-414 -858 0
+-415 -859 0
+-416 -860 0
+c nodes "figureW-222" and "figureW-515" may not have the same color
+-413 -861 0
+-414 -862 0
+-415 -863 0
+-416 -864 0
+c nodes "figureW-222" and "figureW-516" may not have the same color
+-413 -865 0
+-414 -866 0
+-415 -867 0
+-416 -868 0
+c nodes "figureW-222" and "figureW-517" may not have the same color
+-413 -869 0
+-414 -870 0
+-415 -871 0
+-416 -872 0
+c nodes "figureW-222" and "figureW-518" may not have the same color
+-413 -873 0
+-414 -874 0
+-415 -875 0
+-416 -876 0
+c nodes "figureW-222" and "figureW-519" may not have the same color
+-413 -877 0
+-414 -878 0
+-415 -879 0
+-416 -880 0
+c nodes "figureW-222" and "figureW-520" may not have the same color
+-413 -881 0
+-414 -882 0
+-415 -883 0
+-416 -884 0
+c nodes "figureW-222" and "figureW-521" may not have the same color
+-413 -885 0
+-414 -886 0
+-415 -887 0
+-416 -888 0
+c nodes "figureW-222" and "figureW-523" may not have the same color
+-413 -889 0
+-414 -890 0
+-415 -891 0
+-416 -892 0
+c nodes "figureW-222" and "figureW-524" may not have the same color
+-413 -893 0
+-414 -894 0
+-415 -895 0
+-416 -896 0
+c nodes "figureW-223" and "figureW-228" may not have the same color
+-417 -433 0
+-418 -434 0
+-419 -435 0
+-420 -436 0
+c nodes "figureW-223" and "figureW-405" may not have the same color
+-417 -721 0
+-418 -722 0
+-419 -723 0
+-420 -724 0
+c nodes "figureW-223" and "figureW-415" may not have the same color
+-417 -733 0
+-418 -734 0
+-419 -735 0
+-420 -736 0
+c nodes "figureW-223" and "figureW-474" may not have the same color
+-417 -797 0
+-418 -798 0
+-419 -799 0
+-420 -800 0
+c nodes "figureW-223" and "figureW-486" may not have the same color
+-417 -841 0
+-418 -842 0
+-419 -843 0
+-420 -844 0
+c nodes "figureW-223" and "figureW-513" may not have the same color
+-417 -853 0
+-418 -854 0
+-419 -855 0
+-420 -856 0
+c nodes "figureW-223" and "figureW-553" may not have the same color
+-417 -917 0
+-418 -918 0
+-419 -919 0
+-420 -920 0
+c nodes "figureW-223" and "figureW-589" may not have the same color
+-417 -969 0
+-418 -970 0
+-419 -971 0
+-420 -972 0
+c nodes "figureW-223" and "figureW-648" may not have the same color
+-417 -1041 0
+-418 -1042 0
+-419 -1043 0
+-420 -1044 0
+c nodes "figureW-224" and "figureW-229" may not have the same color
+-421 -437 0
+-422 -438 0
+-423 -439 0
+-424 -440 0
+c nodes "figureW-224" and "figureW-395" may not have the same color
+-421 -685 0
+-422 -686 0
+-423 -687 0
+-424 -688 0
+c nodes "figureW-224" and "figureW-406" may not have the same color
+-421 -725 0
+-422 -726 0
+-423 -727 0
+-424 -728 0
+c nodes "figureW-224" and "figureW-514" may not have the same color
+-421 -857 0
+-422 -858 0
+-423 -859 0
+-424 -860 0
+c nodes "figureW-224" and "figureW-586" may not have the same color
+-421 -957 0
+-422 -958 0
+-423 -959 0
+-424 -960 0
+c nodes "figureW-224" and "figureW-673" may not have the same color
+-421 -1069 0
+-422 -1070 0
+-423 -1071 0
+-424 -1072 0
+c nodes "figureW-225" and "figureW-230" may not have the same color
+-425 -441 0
+-426 -442 0
+-427 -443 0
+-428 -444 0
+c nodes "figureW-225" and "figureW-435" may not have the same color
+-425 -745 0
+-426 -746 0
+-427 -747 0
+-428 -748 0
+c nodes "figureW-225" and "figureW-446" may not have the same color
+-425 -785 0
+-426 -786 0
+-427 -787 0
+-428 -788 0
+c nodes "figureW-225" and "figureW-475" may not have the same color
+-425 -801 0
+-426 -802 0
+-427 -803 0
+-428 -804 0
+c nodes "figureW-225" and "figureW-515" may not have the same color
+-425 -861 0
+-426 -862 0
+-427 -863 0
+-428 -864 0
+c nodes "figureW-225" and "figureW-617" may not have the same color
+-425 -997 0
+-426 -998 0
+-427 -999 0
+-428 -1000 0
+c nodes "figureW-225" and "figureW-647" may not have the same color
+-425 -1037 0
+-426 -1038 0
+-427 -1039 0
+-428 -1040 0
+c nodes "figureW-226" and "figureW-231" may not have the same color
+-429 -445 0
+-430 -446 0
+-431 -447 0
+-432 -448 0
+c nodes "figureW-226" and "figureW-516" may not have the same color
+-429 -865 0
+-430 -866 0
+-431 -867 0
+-432 -868 0
+c nodes "figureW-226" and "figureW-646" may not have the same color
+-429 -1033 0
+-430 -1034 0
+-431 -1035 0
+-432 -1036 0
+c nodes "figureW-228" and "figureW-233" may not have the same color
+-433 -453 0
+-434 -454 0
+-435 -455 0
+-436 -456 0
+c nodes "figureW-228" and "figureW-518" may not have the same color
+-433 -873 0
+-434 -874 0
+-435 -875 0
+-436 -876 0
+c nodes "figureW-228" and "figureW-696" may not have the same color
+-433 -1093 0
+-434 -1094 0
+-435 -1095 0
+-436 -1096 0
+c nodes "figureW-229" and "figureW-234" may not have the same color
+-437 -457 0
+-438 -458 0
+-439 -459 0
+-440 -460 0
+c nodes "figureW-229" and "figureW-267" may not have the same color
+-437 -485 0
+-438 -486 0
+-439 -487 0
+-440 -488 0
+c nodes "figureW-229" and "figureW-280" may not have the same color
+-437 -533 0
+-438 -534 0
+-439 -535 0
+-440 -536 0
+c nodes "figureW-229" and "figureW-356" may not have the same color
+-437 -633 0
+-438 -634 0
+-439 -635 0
+-440 -636 0
+c nodes "figureW-229" and "figureW-367" may not have the same color
+-437 -673 0
+-438 -674 0
+-439 -675 0
+-440 -676 0
+c nodes "figureW-229" and "figureW-519" may not have the same color
+-437 -877 0
+-438 -878 0
+-439 -879 0
+-440 -880 0
+c nodes "figureW-229" and "figureW-589" may not have the same color
+-437 -969 0
+-438 -970 0
+-439 -971 0
+-440 -972 0
+c nodes "figureW-229" and "figureW-673" may not have the same color
+-437 -1069 0
+-438 -1070 0
+-439 -1071 0
+-440 -1072 0
+c nodes "figureW-229" and "figureW-718" may not have the same color
+-437 -1117 0
+-438 -1118 0
+-439 -1119 0
+-440 -1120 0
+c nodes "figureW-230" and "figureW-520" may not have the same color
+-441 -881 0
+-442 -882 0
+-443 -883 0
+-444 -884 0
+c nodes "figureW-230" and "figureW-647" may not have the same color
+-441 -1037 0
+-442 -1038 0
+-443 -1039 0
+-444 -1040 0
+c nodes "figureW-231" and "figureW-269" may not have the same color
+-445 -493 0
+-446 -494 0
+-447 -495 0
+-448 -496 0
+c nodes "figureW-231" and "figureW-281" may not have the same color
+-445 -537 0
+-446 -538 0
+-447 -539 0
+-448 -540 0
+c nodes "figureW-231" and "figureW-521" may not have the same color
+-445 -885 0
+-446 -886 0
+-447 -887 0
+-448 -888 0
+c nodes "figureW-231" and "figureW-648" may not have the same color
+-445 -1041 0
+-446 -1042 0
+-447 -1043 0
+-448 -1044 0
+c nodes "figureW-233" and "figureW-276" may not have the same color
+-453 -517 0
+-454 -518 0
+-455 -519 0
+-456 -520 0
+c nodes "figureW-233" and "figureW-523" may not have the same color
+-453 -889 0
+-454 -890 0
+-455 -891 0
+-456 -892 0
+c nodes "figureW-234" and "figureW-262" may not have the same color
+-457 -465 0
+-458 -466 0
+-459 -467 0
+-460 -468 0
+c nodes "figureW-234" and "figureW-280" may not have the same color
+-457 -533 0
+-458 -534 0
+-459 -535 0
+-460 -536 0
+c nodes "figureW-234" and "figureW-363" may not have the same color
+-457 -657 0
+-458 -658 0
+-459 -659 0
+-460 -660 0
+c nodes "figureW-234" and "figureW-405" may not have the same color
+-457 -721 0
+-458 -722 0
+-459 -723 0
+-460 -724 0
+c nodes "figureW-234" and "figureW-524" may not have the same color
+-457 -893 0
+-458 -894 0
+-459 -895 0
+-460 -896 0
+c nodes "figureW-261" and "figureW-266" may not have the same color
+-461 -481 0
+-462 -482 0
+-463 -483 0
+-464 -484 0
+c nodes "figureW-261" and "figureW-321" may not have the same color
+-461 -597 0
+-462 -598 0
+-463 -599 0
+-464 -600 0
+c nodes "figureW-262" and "figureW-267" may not have the same color
+-465 -485 0
+-466 -486 0
+-467 -487 0
+-468 -488 0
+c nodes "figureW-262" and "figureW-321" may not have the same color
+-465 -597 0
+-466 -598 0
+-467 -599 0
+-468 -600 0
+c nodes "figureW-262" and "figureW-353" may not have the same color
+-465 -621 0
+-466 -622 0
+-467 -623 0
+-468 -624 0
+c nodes "figureW-262" and "figureW-406" may not have the same color
+-465 -725 0
+-466 -726 0
+-467 -727 0
+-468 -728 0
+c nodes "figureW-262" and "figureW-524" may not have the same color
+-465 -893 0
+-466 -894 0
+-467 -895 0
+-468 -896 0
+c nodes "figureW-263" and "figureW-268" may not have the same color
+-469 -489 0
+-470 -490 0
+-471 -491 0
+-472 -492 0
+c nodes "figureW-263" and "figureW-321" may not have the same color
+-469 -597 0
+-470 -598 0
+-471 -599 0
+-472 -600 0
+c nodes "figureW-263" and "figureW-447" may not have the same color
+-469 -789 0
+-470 -790 0
+-471 -791 0
+-472 -792 0
+c nodes "figureW-264" and "figureW-269" may not have the same color
+-473 -493 0
+-474 -494 0
+-475 -495 0
+-476 -496 0
+c nodes "figureW-264" and "figureW-321" may not have the same color
+-473 -597 0
+-474 -598 0
+-475 -599 0
+-476 -600 0
+c nodes "figureW-264" and "figureW-486" may not have the same color
+-473 -841 0
+-474 -842 0
+-475 -843 0
+-476 -844 0
+c nodes "figureW-265" and "figureW-270" may not have the same color
+-477 -497 0
+-478 -498 0
+-479 -499 0
+-480 -500 0
+c nodes "figureW-265" and "figureW-321" may not have the same color
+-477 -597 0
+-478 -598 0
+-479 -599 0
+-480 -600 0
+c nodes "figureW-265" and "figureW-523" may not have the same color
+-477 -889 0
+-478 -890 0
+-479 -891 0
+-480 -892 0
+c nodes "figureW-266" and "figureW-306" may not have the same color
+-481 -541 0
+-482 -542 0
+-483 -543 0
+-484 -544 0
+c nodes "figureW-266" and "figureW-307" may not have the same color
+-481 -545 0
+-482 -546 0
+-483 -547 0
+-484 -548 0
+c nodes "figureW-266" and "figureW-308" may not have the same color
+-481 -549 0
+-482 -550 0
+-483 -551 0
+-484 -552 0
+c nodes "figureW-266" and "figureW-309" may not have the same color
+-481 -553 0
+-482 -554 0
+-483 -555 0
+-484 -556 0
+c nodes "figureW-266" and "figureW-310" may not have the same color
+-481 -557 0
+-482 -558 0
+-483 -559 0
+-484 -560 0
+c nodes "figureW-266" and "figureW-311" may not have the same color
+-481 -561 0
+-482 -562 0
+-483 -563 0
+-484 -564 0
+c nodes "figureW-266" and "figureW-312" may not have the same color
+-481 -565 0
+-482 -566 0
+-483 -567 0
+-484 -568 0
+c nodes "figureW-266" and "figureW-313" may not have the same color
+-481 -569 0
+-482 -570 0
+-483 -571 0
+-484 -572 0
+c nodes "figureW-266" and "figureW-314" may not have the same color
+-481 -573 0
+-482 -574 0
+-483 -575 0
+-484 -576 0
+c nodes "figureW-266" and "figureW-315" may not have the same color
+-481 -577 0
+-482 -578 0
+-483 -579 0
+-484 -580 0
+c nodes "figureW-266" and "figureW-317" may not have the same color
+-481 -581 0
+-482 -582 0
+-483 -583 0
+-484 -584 0
+c nodes "figureW-266" and "figureW-318" may not have the same color
+-481 -585 0
+-482 -586 0
+-483 -587 0
+-484 -588 0
+c nodes "figureW-266" and "figureW-319" may not have the same color
+-481 -589 0
+-482 -590 0
+-483 -591 0
+-484 -592 0
+c nodes "figureW-266" and "figureW-320" may not have the same color
+-481 -593 0
+-482 -594 0
+-483 -595 0
+-484 -596 0
+c nodes "figureW-266" and "figureW-321" may not have the same color
+-481 -597 0
+-482 -598 0
+-483 -599 0
+-484 -600 0
+c nodes "figureW-266" and "figureW-322" may not have the same color
+-481 -601 0
+-482 -602 0
+-483 -603 0
+-484 -604 0
+c nodes "figureW-267" and "figureW-272" may not have the same color
+-485 -501 0
+-486 -502 0
+-487 -503 0
+-488 -504 0
+c nodes "figureW-267" and "figureW-307" may not have the same color
+-485 -545 0
+-486 -546 0
+-487 -547 0
+-488 -548 0
+c nodes "figureW-267" and "figureW-321" may not have the same color
+-485 -597 0
+-486 -598 0
+-487 -599 0
+-488 -600 0
+c nodes "figureW-267" and "figureW-397" may not have the same color
+-485 -693 0
+-486 -694 0
+-487 -695 0
+-488 -696 0
+c nodes "figureW-267" and "figureW-519" may not have the same color
+-485 -877 0
+-486 -878 0
+-487 -879 0
+-488 -880 0
+c nodes "figureW-267" and "figureW-590" may not have the same color
+-485 -973 0
+-486 -974 0
+-487 -975 0
+-488 -976 0
+c nodes "figureW-268" and "figureW-273" may not have the same color
+-489 -505 0
+-490 -506 0
+-491 -507 0
+-492 -508 0
+c nodes "figureW-268" and "figureW-308" may not have the same color
+-489 -549 0
+-490 -550 0
+-491 -551 0
+-492 -552 0
+c nodes "figureW-268" and "figureW-321" may not have the same color
+-489 -597 0
+-490 -598 0
+-491 -599 0
+-492 -600 0
+c nodes "figureW-268" and "figureW-439" may not have the same color
+-489 -761 0
+-490 -762 0
+-491 -763 0
+-492 -764 0
+c nodes "figureW-268" and "figureW-620" may not have the same color
+-489 -1009 0
+-490 -1010 0
+-491 -1011 0
+-492 -1012 0
+c nodes "figureW-269" and "figureW-274" may not have the same color
+-493 -509 0
+-494 -510 0
+-495 -511 0
+-496 -512 0
+c nodes "figureW-269" and "figureW-309" may not have the same color
+-493 -553 0
+-494 -554 0
+-495 -555 0
+-496 -556 0
+c nodes "figureW-269" and "figureW-321" may not have the same color
+-493 -597 0
+-494 -598 0
+-495 -599 0
+-496 -600 0
+c nodes "figureW-269" and "figureW-479" may not have the same color
+-493 -817 0
+-494 -818 0
+-495 -819 0
+-496 -820 0
+c nodes "figureW-269" and "figureW-518" may not have the same color
+-493 -873 0
+-494 -874 0
+-495 -875 0
+-496 -876 0
+c nodes "figureW-269" and "figureW-556" may not have the same color
+-493 -929 0
+-494 -930 0
+-495 -931 0
+-496 -932 0
+c nodes "figureW-269" and "figureW-648" may not have the same color
+-493 -1041 0
+-494 -1042 0
+-495 -1043 0
+-496 -1044 0
+c nodes "figureW-270" and "figureW-275" may not have the same color
+-497 -513 0
+-498 -514 0
+-499 -515 0
+-500 -516 0
+c nodes "figureW-270" and "figureW-310" may not have the same color
+-497 -557 0
+-498 -558 0
+-499 -559 0
+-500 -560 0
+c nodes "figureW-270" and "figureW-321" may not have the same color
+-497 -597 0
+-498 -598 0
+-499 -599 0
+-500 -600 0
+c nodes "figureW-270" and "figureW-517" may not have the same color
+-497 -869 0
+-498 -870 0
+-499 -871 0
+-500 -872 0
+c nodes "figureW-270" and "figureW-673" may not have the same color
+-497 -1069 0
+-498 -1070 0
+-499 -1071 0
+-500 -1072 0
+c nodes "figureW-272" and "figureW-277" may not have the same color
+-501 -521 0
+-502 -522 0
+-503 -523 0
+-504 -524 0
+c nodes "figureW-272" and "figureW-312" may not have the same color
+-501 -565 0
+-502 -566 0
+-503 -567 0
+-504 -568 0
+c nodes "figureW-272" and "figureW-321" may not have the same color
+-501 -597 0
+-502 -598 0
+-503 -599 0
+-504 -600 0
+c nodes "figureW-272" and "figureW-586" may not have the same color
+-501 -957 0
+-502 -958 0
+-503 -959 0
+-504 -960 0
+c nodes "figureW-272" and "figureW-717" may not have the same color
+-501 -1113 0
+-502 -1114 0
+-503 -1115 0
+-504 -1116 0
+c nodes "figureW-273" and "figureW-278" may not have the same color
+-505 -525 0
+-506 -526 0
+-507 -527 0
+-508 -528 0
+c nodes "figureW-273" and "figureW-313" may not have the same color
+-505 -569 0
+-506 -570 0
+-507 -571 0
+-508 -572 0
+c nodes "figureW-273" and "figureW-321" may not have the same color
+-505 -597 0
+-506 -598 0
+-507 -599 0
+-508 -600 0
+c nodes "figureW-273" and "figureW-617" may not have the same color
+-505 -997 0
+-506 -998 0
+-507 -999 0
+-508 -1000 0
+c nodes "figureW-273" and "figureW-737" may not have the same color
+-505 -1133 0
+-506 -1134 0
+-507 -1135 0
+-508 -1136 0
+c nodes "figureW-274" and "figureW-279" may not have the same color
+-509 -529 0
+-510 -530 0
+-511 -531 0
+-512 -532 0
+c nodes "figureW-274" and "figureW-314" may not have the same color
+-509 -573 0
+-510 -574 0
+-511 -575 0
+-512 -576 0
+c nodes "figureW-274" and "figureW-321" may not have the same color
+-509 -597 0
+-510 -598 0
+-511 -599 0
+-512 -600 0
+c nodes "figureW-274" and "figureW-518" may not have the same color
+-509 -873 0
+-510 -874 0
+-511 -875 0
+-512 -876 0
+c nodes "figureW-274" and "figureW-646" may not have the same color
+-509 -1033 0
+-510 -1034 0
+-511 -1035 0
+-512 -1036 0
+c nodes "figureW-274" and "figureW-757" may not have the same color
+-509 -1153 0
+-510 -1154 0
+-511 -1155 0
+-512 -1156 0
+c nodes "figureW-275" and "figureW-280" may not have the same color
+-513 -533 0
+-514 -534 0
+-515 -535 0
+-516 -536 0
+c nodes "figureW-275" and "figureW-315" may not have the same color
+-513 -577 0
+-514 -578 0
+-515 -579 0
+-516 -580 0
+c nodes "figureW-275" and "figureW-321" may not have the same color
+-513 -597 0
+-514 -598 0
+-515 -599 0
+-516 -600 0
+c nodes "figureW-275" and "figureW-519" may not have the same color
+-513 -877 0
+-514 -878 0
+-515 -879 0
+-516 -880 0
+c nodes "figureW-275" and "figureW-524" may not have the same color
+-513 -893 0
+-514 -894 0
+-515 -895 0
+-516 -896 0
+c nodes "figureW-275" and "figureW-556" may not have the same color
+-513 -929 0
+-514 -930 0
+-515 -931 0
+-516 -932 0
+c nodes "figureW-275" and "figureW-672" may not have the same color
+-513 -1065 0
+-514 -1066 0
+-515 -1067 0
+-516 -1068 0
+c nodes "figureW-275" and "figureW-775" may not have the same color
+-513 -1169 0
+-514 -1170 0
+-515 -1171 0
+-516 -1172 0
+c nodes "figureW-275" and "figureW-820" may not have the same color
+-513 -1193 0
+-514 -1194 0
+-515 -1195 0
+-516 -1196 0
+c nodes "figureW-276" and "figureW-281" may not have the same color
+-517 -537 0
+-518 -538 0
+-519 -539 0
+-520 -540 0
+c nodes "figureW-276" and "figureW-321" may not have the same color
+-517 -597 0
+-518 -598 0
+-519 -599 0
+-520 -600 0
+c nodes "figureW-276" and "figureW-367" may not have the same color
+-517 -673 0
+-518 -674 0
+-519 -675 0
+-520 -676 0
+c nodes "figureW-276" and "figureW-406" may not have the same color
+-517 -725 0
+-518 -726 0
+-519 -727 0
+-520 -728 0
+c nodes "figureW-276" and "figureW-447" may not have the same color
+-517 -789 0
+-518 -790 0
+-519 -791 0
+-520 -792 0
+c nodes "figureW-276" and "figureW-486" may not have the same color
+-517 -841 0
+-518 -842 0
+-519 -843 0
+-520 -844 0
+c nodes "figureW-276" and "figureW-523" may not have the same color
+-517 -889 0
+-518 -890 0
+-519 -891 0
+-520 -892 0
+c nodes "figureW-276" and "figureW-590" may not have the same color
+-517 -973 0
+-518 -974 0
+-519 -975 0
+-520 -976 0
+c nodes "figureW-276" and "figureW-620" may not have the same color
+-517 -1009 0
+-518 -1010 0
+-519 -1011 0
+-520 -1012 0
+c nodes "figureW-276" and "figureW-648" may not have the same color
+-517 -1041 0
+-518 -1042 0
+-519 -1043 0
+-520 -1044 0
+c nodes "figureW-276" and "figureW-673" may not have the same color
+-517 -1069 0
+-518 -1070 0
+-519 -1071 0
+-520 -1072 0
+c nodes "figureW-276" and "figureW-696" may not have the same color
+-517 -1093 0
+-518 -1094 0
+-519 -1095 0
+-520 -1096 0
+c nodes "figureW-276" and "figureW-717" may not have the same color
+-517 -1113 0
+-518 -1114 0
+-519 -1115 0
+-520 -1116 0
+c nodes "figureW-276" and "figureW-737" may not have the same color
+-517 -1133 0
+-518 -1134 0
+-519 -1135 0
+-520 -1136 0
+c nodes "figureW-276" and "figureW-757" may not have the same color
+-517 -1153 0
+-518 -1154 0
+-519 -1155 0
+-520 -1156 0
+c nodes "figureW-276" and "figureW-775" may not have the same color
+-517 -1169 0
+-518 -1170 0
+-519 -1171 0
+-520 -1172 0
+c nodes "figureW-276" and "figureW-801" may not have the same color
+-517 -1185 0
+-518 -1186 0
+-519 -1187 0
+-520 -1188 0
+c nodes "figureW-277" and "figureW-317" may not have the same color
+-521 -581 0
+-522 -582 0
+-523 -583 0
+-524 -584 0
+c nodes "figureW-277" and "figureW-321" may not have the same color
+-521 -597 0
+-522 -598 0
+-523 -599 0
+-524 -600 0
+c nodes "figureW-277" and "figureW-718" may not have the same color
+-521 -1117 0
+-522 -1118 0
+-523 -1119 0
+-524 -1120 0
+c nodes "figureW-278" and "figureW-318" may not have the same color
+-525 -585 0
+-526 -586 0
+-527 -587 0
+-528 -588 0
+c nodes "figureW-278" and "figureW-321" may not have the same color
+-525 -597 0
+-526 -598 0
+-527 -599 0
+-528 -600 0
+c nodes "figureW-279" and "figureW-319" may not have the same color
+-529 -589 0
+-530 -590 0
+-531 -591 0
+-532 -592 0
+c nodes "figureW-279" and "figureW-321" may not have the same color
+-529 -597 0
+-530 -598 0
+-531 -599 0
+-532 -600 0
+c nodes "figureW-280" and "figureW-320" may not have the same color
+-533 -593 0
+-534 -594 0
+-535 -595 0
+-536 -596 0
+c nodes "figureW-280" and "figureW-321" may not have the same color
+-533 -597 0
+-534 -598 0
+-535 -599 0
+-536 -600 0
+c nodes "figureW-280" and "figureW-820" may not have the same color
+-533 -1193 0
+-534 -1194 0
+-535 -1195 0
+-536 -1196 0
+c nodes "figureW-281" and "figureW-321" may not have the same color
+-537 -597 0
+-538 -598 0
+-539 -599 0
+-540 -600 0
+c nodes "figureW-306" and "figureW-311" may not have the same color
+-541 -561 0
+-542 -562 0
+-543 -563 0
+-544 -564 0
+c nodes "figureW-306" and "figureW-475" may not have the same color
+-541 -801 0
+-542 -802 0
+-543 -803 0
+-544 -804 0
+c nodes "figureW-307" and "figureW-312" may not have the same color
+-545 -565 0
+-546 -566 0
+-547 -567 0
+-548 -568 0
+c nodes "figureW-307" and "figureW-351" may not have the same color
+-545 -613 0
+-546 -614 0
+-547 -615 0
+-548 -616 0
+c nodes "figureW-307" and "figureW-356" may not have the same color
+-545 -633 0
+-546 -634 0
+-547 -635 0
+-548 -636 0
+c nodes "figureW-307" and "figureW-397" may not have the same color
+-545 -693 0
+-546 -694 0
+-547 -695 0
+-548 -696 0
+c nodes "figureW-307" and "figureW-512" may not have the same color
+-545 -849 0
+-546 -850 0
+-547 -851 0
+-548 -852 0
+c nodes "figureW-308" and "figureW-313" may not have the same color
+-549 -569 0
+-550 -570 0
+-551 -571 0
+-552 -572 0
+c nodes "figureW-308" and "figureW-439" may not have the same color
+-549 -761 0
+-550 -762 0
+-551 -763 0
+-552 -764 0
+c nodes "figureW-309" and "figureW-314" may not have the same color
+-553 -573 0
+-554 -574 0
+-555 -575 0
+-556 -576 0
+c nodes "figureW-309" and "figureW-479" may not have the same color
+-553 -817 0
+-554 -818 0
+-555 -819 0
+-556 -820 0
+c nodes "figureW-309" and "figureW-513" may not have the same color
+-553 -853 0
+-554 -854 0
+-555 -855 0
+-556 -856 0
+c nodes "figureW-310" and "figureW-315" may not have the same color
+-557 -577 0
+-558 -578 0
+-559 -579 0
+-560 -580 0
+c nodes "figureW-310" and "figureW-517" may not have the same color
+-557 -869 0
+-558 -870 0
+-559 -871 0
+-560 -872 0
+c nodes "figureW-311" and "figureW-352" may not have the same color
+-561 -617 0
+-562 -618 0
+-563 -619 0
+-564 -620 0
+c nodes "figureW-311" and "figureW-548" may not have the same color
+-561 -897 0
+-562 -898 0
+-563 -899 0
+-564 -900 0
+c nodes "figureW-311" and "figureW-549" may not have the same color
+-561 -901 0
+-562 -902 0
+-563 -903 0
+-564 -904 0
+c nodes "figureW-311" and "figureW-550" may not have the same color
+-561 -905 0
+-562 -906 0
+-563 -907 0
+-564 -908 0
+c nodes "figureW-311" and "figureW-551" may not have the same color
+-561 -909 0
+-562 -910 0
+-563 -911 0
+-564 -912 0
+c nodes "figureW-311" and "figureW-552" may not have the same color
+-561 -913 0
+-562 -914 0
+-563 -915 0
+-564 -916 0
+c nodes "figureW-311" and "figureW-553" may not have the same color
+-561 -917 0
+-562 -918 0
+-563 -919 0
+-564 -920 0
+c nodes "figureW-311" and "figureW-554" may not have the same color
+-561 -921 0
+-562 -922 0
+-563 -923 0
+-564 -924 0
+c nodes "figureW-311" and "figureW-555" may not have the same color
+-561 -925 0
+-562 -926 0
+-563 -927 0
+-564 -928 0
+c nodes "figureW-311" and "figureW-556" may not have the same color
+-561 -929 0
+-562 -930 0
+-563 -931 0
+-564 -932 0
+c nodes "figureW-311" and "figureW-557" may not have the same color
+-561 -933 0
+-562 -934 0
+-563 -935 0
+-564 -936 0
+c nodes "figureW-311" and "figureW-559" may not have the same color
+-561 -937 0
+-562 -938 0
+-563 -939 0
+-564 -940 0
+c nodes "figureW-312" and "figureW-317" may not have the same color
+-565 -581 0
+-566 -582 0
+-567 -583 0
+-568 -584 0
+c nodes "figureW-312" and "figureW-512" may not have the same color
+-565 -849 0
+-566 -850 0
+-567 -851 0
+-568 -852 0
+c nodes "figureW-312" and "figureW-524" may not have the same color
+-565 -893 0
+-566 -894 0
+-567 -895 0
+-568 -896 0
+c nodes "figureW-312" and "figureW-549" may not have the same color
+-565 -901 0
+-566 -902 0
+-567 -903 0
+-568 -904 0
+c nodes "figureW-312" and "figureW-586" may not have the same color
+-565 -957 0
+-566 -958 0
+-567 -959 0
+-568 -960 0
+c nodes "figureW-312" and "figureW-674" may not have the same color
+-565 -1073 0
+-566 -1074 0
+-567 -1075 0
+-568 -1076 0
+c nodes "figureW-313" and "figureW-318" may not have the same color
+-569 -585 0
+-570 -586 0
+-571 -587 0
+-572 -588 0
+c nodes "figureW-313" and "figureW-550" may not have the same color
+-569 -905 0
+-570 -906 0
+-571 -907 0
+-572 -908 0
+c nodes "figureW-313" and "figureW-617" may not have the same color
+-569 -997 0
+-570 -998 0
+-571 -999 0
+-572 -1000 0
+c nodes "figureW-314" and "figureW-319" may not have the same color
+-573 -589 0
+-574 -590 0
+-575 -591 0
+-576 -592 0
+c nodes "figureW-314" and "figureW-475" may not have the same color
+-573 -801 0
+-574 -802 0
+-575 -803 0
+-576 -804 0
+c nodes "figureW-314" and "figureW-486" may not have the same color
+-573 -841 0
+-574 -842 0
+-575 -843 0
+-576 -844 0
+c nodes "figureW-314" and "figureW-513" may not have the same color
+-573 -853 0
+-574 -854 0
+-575 -855 0
+-576 -856 0
+c nodes "figureW-314" and "figureW-551" may not have the same color
+-573 -909 0
+-574 -910 0
+-575 -911 0
+-576 -912 0
+c nodes "figureW-314" and "figureW-646" may not have the same color
+-573 -1033 0
+-574 -1034 0
+-575 -1035 0
+-576 -1036 0
+c nodes "figureW-314" and "figureW-673" may not have the same color
+-573 -1069 0
+-574 -1070 0
+-575 -1071 0
+-576 -1072 0
+c nodes "figureW-315" and "figureW-320" may not have the same color
+-577 -593 0
+-578 -594 0
+-579 -595 0
+-580 -596 0
+c nodes "figureW-315" and "figureW-552" may not have the same color
+-577 -913 0
+-578 -914 0
+-579 -915 0
+-580 -916 0
+c nodes "figureW-315" and "figureW-672" may not have the same color
+-577 -1065 0
+-578 -1066 0
+-579 -1067 0
+-580 -1068 0
+c nodes "figureW-317" and "figureW-322" may not have the same color
+-581 -601 0
+-582 -602 0
+-583 -603 0
+-584 -604 0
+c nodes "figureW-317" and "figureW-554" may not have the same color
+-581 -921 0
+-582 -922 0
+-583 -923 0
+-584 -924 0
+c nodes "figureW-317" and "figureW-718" may not have the same color
+-581 -1117 0
+-582 -1118 0
+-583 -1119 0
+-584 -1120 0
+c nodes "figureW-318" and "figureW-555" may not have the same color
+-585 -925 0
+-586 -926 0
+-587 -927 0
+-588 -928 0
+c nodes "figureW-319" and "figureW-556" may not have the same color
+-589 -929 0
+-590 -930 0
+-591 -931 0
+-592 -932 0
+c nodes "figureW-319" and "figureW-673" may not have the same color
+-589 -1069 0
+-590 -1070 0
+-591 -1071 0
+-592 -1072 0
+c nodes "figureW-320" and "figureW-356" may not have the same color
+-593 -633 0
+-594 -634 0
+-595 -635 0
+-596 -636 0
+c nodes "figureW-320" and "figureW-368" may not have the same color
+-593 -677 0
+-594 -678 0
+-595 -679 0
+-596 -680 0
+c nodes "figureW-320" and "figureW-557" may not have the same color
+-593 -933 0
+-594 -934 0
+-595 -935 0
+-596 -936 0
+c nodes "figureW-320" and "figureW-674" may not have the same color
+-593 -1073 0
+-594 -1074 0
+-595 -1075 0
+-596 -1076 0
+c nodes "figureW-322" and "figureW-363" may not have the same color
+-601 -657 0
+-602 -658 0
+-603 -659 0
+-604 -660 0
+c nodes "figureW-322" and "figureW-559" may not have the same color
+-601 -937 0
+-602 -938 0
+-603 -939 0
+-604 -940 0
+c nodes "figureW-349" and "figureW-353" may not have the same color
+-605 -621 0
+-606 -622 0
+-607 -623 0
+-608 -624 0
+c nodes "figureW-349" and "figureW-407" may not have the same color
+-605 -729 0
+-606 -730 0
+-607 -731 0
+-608 -732 0
+c nodes "figureW-350" and "figureW-355" may not have the same color
+-609 -629 0
+-610 -630 0
+-611 -631 0
+-612 -632 0
+c nodes "figureW-350" and "figureW-407" may not have the same color
+-609 -729 0
+-610 -730 0
+-611 -731 0
+-612 -732 0
+c nodes "figureW-350" and "figureW-487" may not have the same color
+-609 -845 0
+-610 -846 0
+-611 -847 0
+-612 -848 0
+c nodes "figureW-351" and "figureW-356" may not have the same color
+-613 -633 0
+-614 -634 0
+-615 -635 0
+-616 -636 0
+c nodes "figureW-351" and "figureW-407" may not have the same color
+-613 -729 0
+-614 -730 0
+-615 -731 0
+-616 -732 0
+c nodes "figureW-351" and "figureW-524" may not have the same color
+-613 -893 0
+-614 -894 0
+-615 -895 0
+-616 -896 0
+c nodes "figureW-352" and "figureW-357" may not have the same color
+-617 -637 0
+-618 -638 0
+-619 -639 0
+-620 -640 0
+c nodes "figureW-352" and "figureW-407" may not have the same color
+-617 -729 0
+-618 -730 0
+-619 -731 0
+-620 -732 0
+c nodes "figureW-352" and "figureW-559" may not have the same color
+-617 -937 0
+-618 -938 0
+-619 -939 0
+-620 -940 0
+c nodes "figureW-353" and "figureW-394" may not have the same color
+-621 -681 0
+-622 -682 0
+-623 -683 0
+-624 -684 0
+c nodes "figureW-353" and "figureW-395" may not have the same color
+-621 -685 0
+-622 -686 0
+-623 -687 0
+-624 -688 0
+c nodes "figureW-353" and "figureW-396" may not have the same color
+-621 -689 0
+-622 -690 0
+-623 -691 0
+-624 -692 0
+c nodes "figureW-353" and "figureW-397" may not have the same color
+-621 -693 0
+-622 -694 0
+-623 -695 0
+-624 -696 0
+c nodes "figureW-353" and "figureW-398" may not have the same color
+-621 -697 0
+-622 -698 0
+-623 -699 0
+-624 -700 0
+c nodes "figureW-353" and "figureW-399" may not have the same color
+-621 -701 0
+-622 -702 0
+-623 -703 0
+-624 -704 0
+c nodes "figureW-353" and "figureW-400" may not have the same color
+-621 -705 0
+-622 -706 0
+-623 -707 0
+-624 -708 0
+c nodes "figureW-353" and "figureW-401" may not have the same color
+-621 -709 0
+-622 -710 0
+-623 -711 0
+-624 -712 0
+c nodes "figureW-353" and "figureW-403" may not have the same color
+-621 -713 0
+-622 -714 0
+-623 -715 0
+-624 -716 0
+c nodes "figureW-353" and "figureW-404" may not have the same color
+-621 -717 0
+-622 -718 0
+-623 -719 0
+-624 -720 0
+c nodes "figureW-353" and "figureW-405" may not have the same color
+-621 -721 0
+-622 -722 0
+-623 -723 0
+-624 -724 0
+c nodes "figureW-353" and "figureW-406" may not have the same color
+-621 -725 0
+-622 -726 0
+-623 -727 0
+-624 -728 0
+c nodes "figureW-353" and "figureW-407" may not have the same color
+-621 -729 0
+-622 -730 0
+-623 -731 0
+-624 -732 0
+c nodes "figureW-353" and "figureW-415" may not have the same color
+-621 -733 0
+-622 -734 0
+-623 -735 0
+-624 -736 0
+c nodes "figureW-354" and "figureW-359" may not have the same color
+-625 -641 0
+-626 -642 0
+-627 -643 0
+-628 -644 0
+c nodes "figureW-354" and "figureW-407" may not have the same color
+-625 -729 0
+-626 -730 0
+-627 -731 0
+-628 -732 0
+c nodes "figureW-354" and "figureW-439" may not have the same color
+-625 -761 0
+-626 -762 0
+-627 -763 0
+-628 -764 0
+c nodes "figureW-354" and "figureW-621" may not have the same color
+-625 -1013 0
+-626 -1014 0
+-627 -1015 0
+-628 -1016 0
+c nodes "figureW-355" and "figureW-360" may not have the same color
+-629 -645 0
+-630 -646 0
+-631 -647 0
+-632 -648 0
+c nodes "figureW-355" and "figureW-394" may not have the same color
+-629 -681 0
+-630 -682 0
+-631 -683 0
+-632 -684 0
+c nodes "figureW-355" and "figureW-407" may not have the same color
+-629 -729 0
+-630 -730 0
+-631 -731 0
+-632 -732 0
+c nodes "figureW-355" and "figureW-479" may not have the same color
+-629 -817 0
+-630 -818 0
+-631 -819 0
+-632 -820 0
+c nodes "figureW-355" and "figureW-649" may not have the same color
+-629 -1045 0
+-630 -1046 0
+-631 -1047 0
+-632 -1048 0
+c nodes "figureW-356" and "figureW-361" may not have the same color
+-633 -649 0
+-634 -650 0
+-635 -651 0
+-636 -652 0
+c nodes "figureW-356" and "figureW-395" may not have the same color
+-633 -685 0
+-634 -686 0
+-635 -687 0
+-636 -688 0
+c nodes "figureW-356" and "figureW-407" may not have the same color
+-633 -729 0
+-634 -730 0
+-635 -731 0
+-636 -732 0
+c nodes "figureW-356" and "figureW-517" may not have the same color
+-633 -869 0
+-634 -870 0
+-635 -871 0
+-636 -872 0
+c nodes "figureW-356" and "figureW-554" may not have the same color
+-633 -921 0
+-634 -922 0
+-635 -923 0
+-636 -924 0
+c nodes "figureW-356" and "figureW-589" may not have the same color
+-633 -969 0
+-634 -970 0
+-635 -971 0
+-636 -972 0
+c nodes "figureW-356" and "figureW-674" may not have the same color
+-633 -1073 0
+-634 -1074 0
+-635 -1075 0
+-636 -1076 0
+c nodes "figureW-357" and "figureW-362" may not have the same color
+-637 -653 0
+-638 -654 0
+-639 -655 0
+-640 -656 0
+c nodes "figureW-357" and "figureW-396" may not have the same color
+-637 -689 0
+-638 -690 0
+-639 -691 0
+-640 -692 0
+c nodes "figureW-357" and "figureW-407" may not have the same color
+-637 -729 0
+-638 -730 0
+-639 -731 0
+-640 -732 0
+c nodes "figureW-357" and "figureW-553" may not have the same color
+-637 -917 0
+-638 -918 0
+-639 -919 0
+-640 -920 0
+c nodes "figureW-357" and "figureW-697" may not have the same color
+-637 -1097 0
+-638 -1098 0
+-639 -1099 0
+-640 -1100 0
+c nodes "figureW-359" and "figureW-364" may not have the same color
+-641 -661 0
+-642 -662 0
+-643 -663 0
+-644 -664 0
+c nodes "figureW-359" and "figureW-398" may not have the same color
+-641 -697 0
+-642 -698 0
+-643 -699 0
+-644 -700 0
+c nodes "figureW-359" and "figureW-407" may not have the same color
+-641 -729 0
+-642 -730 0
+-643 -731 0
+-644 -732 0
+c nodes "figureW-359" and "figureW-617" may not have the same color
+-641 -997 0
+-642 -998 0
+-643 -999 0
+-644 -1000 0
+c nodes "figureW-359" and "figureW-738" may not have the same color
+-641 -1137 0
+-642 -1138 0
+-643 -1139 0
+-644 -1140 0
+c nodes "figureW-360" and "figureW-365" may not have the same color
+-645 -665 0
+-646 -666 0
+-647 -667 0
+-648 -668 0
+c nodes "figureW-360" and "figureW-399" may not have the same color
+-645 -701 0
+-646 -702 0
+-647 -703 0
+-648 -704 0
+c nodes "figureW-360" and "figureW-407" may not have the same color
+-645 -729 0
+-646 -730 0
+-647 -731 0
+-648 -732 0
+c nodes "figureW-360" and "figureW-646" may not have the same color
+-645 -1033 0
+-646 -1034 0
+-647 -1035 0
+-648 -1036 0
+c nodes "figureW-360" and "figureW-758" may not have the same color
+-645 -1157 0
+-646 -1158 0
+-647 -1159 0
+-648 -1160 0
+c nodes "figureW-361" and "figureW-366" may not have the same color
+-649 -669 0
+-650 -670 0
+-651 -671 0
+-652 -672 0
+c nodes "figureW-361" and "figureW-400" may not have the same color
+-649 -705 0
+-650 -706 0
+-651 -707 0
+-652 -708 0
+c nodes "figureW-361" and "figureW-407" may not have the same color
+-649 -729 0
+-650 -730 0
+-651 -731 0
+-652 -732 0
+c nodes "figureW-361" and "figureW-554" may not have the same color
+-649 -921 0
+-650 -922 0
+-651 -923 0
+-652 -924 0
+c nodes "figureW-361" and "figureW-672" may not have the same color
+-649 -1065 0
+-650 -1066 0
+-651 -1067 0
+-652 -1068 0
+c nodes "figureW-361" and "figureW-776" may not have the same color
+-649 -1173 0
+-650 -1174 0
+-651 -1175 0
+-652 -1176 0
+c nodes "figureW-362" and "figureW-367" may not have the same color
+-653 -673 0
+-654 -674 0
+-655 -675 0
+-656 -676 0
+c nodes "figureW-362" and "figureW-401" may not have the same color
+-653 -709 0
+-654 -710 0
+-655 -711 0
+-656 -712 0
+c nodes "figureW-362" and "figureW-407" may not have the same color
+-653 -729 0
+-654 -730 0
+-655 -731 0
+-656 -732 0
+c nodes "figureW-362" and "figureW-589" may not have the same color
+-653 -969 0
+-654 -970 0
+-655 -971 0
+-656 -972 0
+c nodes "figureW-362" and "figureW-696" may not have the same color
+-653 -1093 0
+-654 -1094 0
+-655 -1095 0
+-656 -1096 0
+c nodes "figureW-362" and "figureW-792" may not have the same color
+-653 -1181 0
+-654 -1182 0
+-655 -1183 0
+-656 -1184 0
+c nodes "figureW-363" and "figureW-368" may not have the same color
+-657 -677 0
+-658 -678 0
+-659 -679 0
+-660 -680 0
+c nodes "figureW-363" and "figureW-407" may not have the same color
+-657 -729 0
+-658 -730 0
+-659 -731 0
+-660 -732 0
+c nodes "figureW-363" and "figureW-448" may not have the same color
+-657 -793 0
+-658 -794 0
+-659 -795 0
+-660 -796 0
+c nodes "figureW-363" and "figureW-487" may not have the same color
+-657 -845 0
+-658 -846 0
+-659 -847 0
+-660 -848 0
+c nodes "figureW-363" and "figureW-524" may not have the same color
+-657 -893 0
+-658 -894 0
+-659 -895 0
+-660 -896 0
+c nodes "figureW-363" and "figureW-559" may not have the same color
+-657 -937 0
+-658 -938 0
+-659 -939 0
+-660 -940 0
+c nodes "figureW-363" and "figureW-621" may not have the same color
+-657 -1013 0
+-658 -1014 0
+-659 -1015 0
+-660 -1016 0
+c nodes "figureW-363" and "figureW-649" may not have the same color
+-657 -1045 0
+-658 -1046 0
+-659 -1047 0
+-660 -1048 0
+c nodes "figureW-363" and "figureW-674" may not have the same color
+-657 -1073 0
+-658 -1074 0
+-659 -1075 0
+-660 -1076 0
+c nodes "figureW-363" and "figureW-697" may not have the same color
+-657 -1097 0
+-658 -1098 0
+-659 -1099 0
+-660 -1100 0
+c nodes "figureW-363" and "figureW-718" may not have the same color
+-657 -1117 0
+-658 -1118 0
+-659 -1119 0
+-660 -1120 0
+c nodes "figureW-363" and "figureW-738" may not have the same color
+-657 -1137 0
+-658 -1138 0
+-659 -1139 0
+-660 -1140 0
+c nodes "figureW-363" and "figureW-758" may not have the same color
+-657 -1157 0
+-658 -1158 0
+-659 -1159 0
+-660 -1160 0
+c nodes "figureW-363" and "figureW-776" may not have the same color
+-657 -1173 0
+-658 -1174 0
+-659 -1175 0
+-660 -1176 0
+c nodes "figureW-363" and "figureW-792" may not have the same color
+-657 -1181 0
+-658 -1182 0
+-659 -1183 0
+-660 -1184 0
+c nodes "figureW-363" and "figureW-820" may not have the same color
+-657 -1193 0
+-658 -1194 0
+-659 -1195 0
+-660 -1196 0
+c nodes "figureW-363" and "figureW-825" may not have the same color
+-657 -1197 0
+-658 -1198 0
+-659 -1199 0
+-660 -1200 0
+c nodes "figureW-364" and "figureW-403" may not have the same color
+-661 -713 0
+-662 -714 0
+-663 -715 0
+-664 -716 0
+c nodes "figureW-364" and "figureW-407" may not have the same color
+-661 -729 0
+-662 -730 0
+-663 -731 0
+-664 -732 0
+c nodes "figureW-364" and "figureW-825" may not have the same color
+-661 -1197 0
+-662 -1198 0
+-663 -1199 0
+-664 -1200 0
+c nodes "figureW-365" and "figureW-404" may not have the same color
+-665 -717 0
+-666 -718 0
+-667 -719 0
+-668 -720 0
+c nodes "figureW-365" and "figureW-407" may not have the same color
+-665 -729 0
+-666 -730 0
+-667 -731 0
+-668 -732 0
+c nodes "figureW-366" and "figureW-405" may not have the same color
+-669 -721 0
+-670 -722 0
+-671 -723 0
+-672 -724 0
+c nodes "figureW-366" and "figureW-407" may not have the same color
+-669 -729 0
+-670 -730 0
+-671 -731 0
+-672 -732 0
+c nodes "figureW-367" and "figureW-406" may not have the same color
+-673 -725 0
+-674 -726 0
+-675 -727 0
+-676 -728 0
+c nodes "figureW-367" and "figureW-407" may not have the same color
+-673 -729 0
+-674 -730 0
+-675 -731 0
+-676 -732 0
+c nodes "figureW-368" and "figureW-407" may not have the same color
+-677 -729 0
+-678 -730 0
+-679 -731 0
+-680 -732 0
+c nodes "figureW-394" and "figureW-399" may not have the same color
+-681 -701 0
+-682 -702 0
+-683 -703 0
+-684 -704 0
+c nodes "figureW-394" and "figureW-479" may not have the same color
+-681 -817 0
+-682 -818 0
+-683 -819 0
+-684 -820 0
+c nodes "figureW-395" and "figureW-400" may not have the same color
+-685 -705 0
+-686 -706 0
+-687 -707 0
+-688 -708 0
+c nodes "figureW-395" and "figureW-517" may not have the same color
+-685 -869 0
+-686 -870 0
+-687 -871 0
+-688 -872 0
+c nodes "figureW-395" and "figureW-549" may not have the same color
+-685 -901 0
+-686 -902 0
+-687 -903 0
+-688 -904 0
+c nodes "figureW-396" and "figureW-401" may not have the same color
+-689 -709 0
+-690 -710 0
+-691 -711 0
+-692 -712 0
+c nodes "figureW-396" and "figureW-553" may not have the same color
+-689 -917 0
+-690 -918 0
+-691 -919 0
+-692 -920 0
+c nodes "figureW-397" and "figureW-415" may not have the same color
+-693 -733 0
+-694 -734 0
+-695 -735 0
+-696 -736 0
+c nodes "figureW-397" and "figureW-433" may not have the same color
+-693 -737 0
+-694 -738 0
+-695 -739 0
+-696 -740 0
+c nodes "figureW-397" and "figureW-582" may not have the same color
+-693 -941 0
+-694 -942 0
+-695 -943 0
+-696 -944 0
+c nodes "figureW-397" and "figureW-583" may not have the same color
+-693 -945 0
+-694 -946 0
+-695 -947 0
+-696 -948 0
+c nodes "figureW-397" and "figureW-584" may not have the same color
+-693 -949 0
+-694 -950 0
+-695 -951 0
+-696 -952 0
+c nodes "figureW-397" and "figureW-585" may not have the same color
+-693 -953 0
+-694 -954 0
+-695 -955 0
+-696 -956 0
+c nodes "figureW-397" and "figureW-586" may not have the same color
+-693 -957 0
+-694 -958 0
+-695 -959 0
+-696 -960 0
+c nodes "figureW-397" and "figureW-587" may not have the same color
+-693 -961 0
+-694 -962 0
+-695 -963 0
+-696 -964 0
+c nodes "figureW-397" and "figureW-588" may not have the same color
+-693 -965 0
+-694 -966 0
+-695 -967 0
+-696 -968 0
+c nodes "figureW-397" and "figureW-589" may not have the same color
+-693 -969 0
+-694 -970 0
+-695 -971 0
+-696 -972 0
+c nodes "figureW-397" and "figureW-590" may not have the same color
+-693 -973 0
+-694 -974 0
+-695 -975 0
+-696 -976 0
+c nodes "figureW-398" and "figureW-403" may not have the same color
+-697 -713 0
+-698 -714 0
+-699 -715 0
+-700 -716 0
+c nodes "figureW-398" and "figureW-617" may not have the same color
+-697 -997 0
+-698 -998 0
+-699 -999 0
+-700 -1000 0
+c nodes "figureW-399" and "figureW-404" may not have the same color
+-701 -717 0
+-702 -718 0
+-703 -719 0
+-704 -720 0
+c nodes "figureW-399" and "figureW-583" may not have the same color
+-701 -945 0
+-702 -946 0
+-703 -947 0
+-704 -948 0
+c nodes "figureW-399" and "figureW-646" may not have the same color
+-701 -1033 0
+-702 -1034 0
+-703 -1035 0
+-704 -1036 0
+c nodes "figureW-400" and "figureW-405" may not have the same color
+-705 -721 0
+-706 -722 0
+-707 -723 0
+-708 -724 0
+c nodes "figureW-400" and "figureW-513" may not have the same color
+-705 -853 0
+-706 -854 0
+-707 -855 0
+-708 -856 0
+c nodes "figureW-400" and "figureW-524" may not have the same color
+-705 -893 0
+-706 -894 0
+-707 -895 0
+-708 -896 0
+c nodes "figureW-400" and "figureW-549" may not have the same color
+-705 -901 0
+-706 -902 0
+-707 -903 0
+-708 -904 0
+c nodes "figureW-400" and "figureW-584" may not have the same color
+-705 -949 0
+-706 -950 0
+-707 -951 0
+-708 -952 0
+c nodes "figureW-400" and "figureW-672" may not have the same color
+-705 -1065 0
+-706 -1066 0
+-707 -1067 0
+-708 -1068 0
+c nodes "figureW-400" and "figureW-697" may not have the same color
+-705 -1097 0
+-706 -1098 0
+-707 -1099 0
+-708 -1100 0
+c nodes "figureW-401" and "figureW-406" may not have the same color
+-709 -725 0
+-710 -726 0
+-711 -727 0
+-712 -728 0
+c nodes "figureW-401" and "figureW-585" may not have the same color
+-709 -953 0
+-710 -954 0
+-711 -955 0
+-712 -956 0
+c nodes "figureW-401" and "figureW-696" may not have the same color
+-709 -1093 0
+-710 -1094 0
+-711 -1095 0
+-712 -1096 0
+c nodes "figureW-403" and "figureW-587" may not have the same color
+-713 -961 0
+-714 -962 0
+-715 -963 0
+-716 -964 0
+c nodes "figureW-404" and "figureW-588" may not have the same color
+-717 -965 0
+-718 -966 0
+-719 -967 0
+-720 -968 0
+c nodes "figureW-405" and "figureW-589" may not have the same color
+-721 -969 0
+-722 -970 0
+-723 -971 0
+-724 -972 0
+c nodes "figureW-405" and "figureW-697" may not have the same color
+-721 -1097 0
+-722 -1098 0
+-723 -1099 0
+-724 -1100 0
+c nodes "figureW-406" and "figureW-590" may not have the same color
+-725 -973 0
+-726 -974 0
+-727 -975 0
+-728 -976 0
+c nodes "figureW-415" and "figureW-513" may not have the same color
+-733 -853 0
+-734 -854 0
+-735 -855 0
+-736 -856 0
+c nodes "figureW-433" and "figureW-438" may not have the same color
+-737 -757 0
+-738 -758 0
+-739 -759 0
+-740 -760 0
+c nodes "figureW-434" and "figureW-439" may not have the same color
+-741 -761 0
+-742 -762 0
+-743 -763 0
+-744 -764 0
+c nodes "figureW-434" and "figureW-512" may not have the same color
+-741 -849 0
+-742 -850 0
+-743 -851 0
+-744 -852 0
+c nodes "figureW-435" and "figureW-440" may not have the same color
+-745 -765 0
+-746 -766 0
+-747 -767 0
+-748 -768 0
+c nodes "figureW-435" and "figureW-479" may not have the same color
+-745 -817 0
+-746 -818 0
+-747 -819 0
+-748 -820 0
+c nodes "figureW-435" and "figureW-515" may not have the same color
+-745 -861 0
+-746 -862 0
+-747 -863 0
+-748 -864 0
+c nodes "figureW-436" and "figureW-441" may not have the same color
+-749 -769 0
+-750 -770 0
+-751 -771 0
+-752 -772 0
+c nodes "figureW-436" and "figureW-517" may not have the same color
+-749 -869 0
+-750 -870 0
+-751 -871 0
+-752 -872 0
+c nodes "figureW-437" and "figureW-442" may not have the same color
+-753 -773 0
+-754 -774 0
+-755 -775 0
+-756 -776 0
+c nodes "figureW-437" and "figureW-553" may not have the same color
+-753 -917 0
+-754 -918 0
+-755 -919 0
+-756 -920 0
+c nodes "figureW-438" and "figureW-443" may not have the same color
+-757 -777 0
+-758 -778 0
+-759 -779 0
+-760 -780 0
+c nodes "figureW-438" and "figureW-586" may not have the same color
+-757 -957 0
+-758 -958 0
+-759 -959 0
+-760 -960 0
+c nodes "figureW-438" and "figureW-612" may not have the same color
+-757 -977 0
+-758 -978 0
+-759 -979 0
+-760 -980 0
+c nodes "figureW-439" and "figureW-612" may not have the same color
+-761 -977 0
+-762 -978 0
+-763 -979 0
+-764 -980 0
+c nodes "figureW-439" and "figureW-613" may not have the same color
+-761 -981 0
+-762 -982 0
+-763 -983 0
+-764 -984 0
+c nodes "figureW-439" and "figureW-614" may not have the same color
+-761 -985 0
+-762 -986 0
+-763 -987 0
+-764 -988 0
+c nodes "figureW-439" and "figureW-615" may not have the same color
+-761 -989 0
+-762 -990 0
+-763 -991 0
+-764 -992 0
+c nodes "figureW-439" and "figureW-616" may not have the same color
+-761 -993 0
+-762 -994 0
+-763 -995 0
+-764 -996 0
+c nodes "figureW-439" and "figureW-617" may not have the same color
+-761 -997 0
+-762 -998 0
+-763 -999 0
+-764 -1000 0
+c nodes "figureW-439" and "figureW-618" may not have the same color
+-761 -1001 0
+-762 -1002 0
+-763 -1003 0
+-764 -1004 0
+c nodes "figureW-439" and "figureW-619" may not have the same color
+-761 -1005 0
+-762 -1006 0
+-763 -1007 0
+-764 -1008 0
+c nodes "figureW-439" and "figureW-620" may not have the same color
+-761 -1009 0
+-762 -1010 0
+-763 -1011 0
+-764 -1012 0
+c nodes "figureW-439" and "figureW-621" may not have the same color
+-761 -1013 0
+-762 -1014 0
+-763 -1015 0
+-764 -1016 0
+c nodes "figureW-439" and "figureW-740" may not have the same color
+-761 -1141 0
+-762 -1142 0
+-763 -1143 0
+-764 -1144 0
+c nodes "figureW-440" and "figureW-445" may not have the same color
+-765 -781 0
+-766 -782 0
+-767 -783 0
+-768 -784 0
+c nodes "figureW-440" and "figureW-512" may not have the same color
+-765 -849 0
+-766 -850 0
+-767 -851 0
+-768 -852 0
+c nodes "figureW-440" and "figureW-613" may not have the same color
+-765 -981 0
+-766 -982 0
+-767 -983 0
+-768 -984 0
+c nodes "figureW-440" and "figureW-646" may not have the same color
+-765 -1033 0
+-766 -1034 0
+-767 -1035 0
+-768 -1036 0
+c nodes "figureW-441" and "figureW-446" may not have the same color
+-769 -785 0
+-770 -786 0
+-771 -787 0
+-772 -788 0
+c nodes "figureW-441" and "figureW-515" may not have the same color
+-769 -861 0
+-770 -862 0
+-771 -863 0
+-772 -864 0
+c nodes "figureW-441" and "figureW-614" may not have the same color
+-769 -985 0
+-770 -986 0
+-771 -987 0
+-772 -988 0
+c nodes "figureW-441" and "figureW-672" may not have the same color
+-769 -1065 0
+-770 -1066 0
+-771 -1067 0
+-772 -1068 0
+c nodes "figureW-442" and "figureW-447" may not have the same color
+-773 -789 0
+-774 -790 0
+-775 -791 0
+-776 -792 0
+c nodes "figureW-442" and "figureW-615" may not have the same color
+-773 -989 0
+-774 -990 0
+-775 -991 0
+-776 -992 0
+c nodes "figureW-442" and "figureW-696" may not have the same color
+-773 -1093 0
+-774 -1094 0
+-775 -1095 0
+-776 -1096 0
+c nodes "figureW-443" and "figureW-448" may not have the same color
+-777 -793 0
+-778 -794 0
+-779 -795 0
+-780 -796 0
+c nodes "figureW-443" and "figureW-616" may not have the same color
+-777 -993 0
+-778 -994 0
+-779 -995 0
+-780 -996 0
+c nodes "figureW-443" and "figureW-718" may not have the same color
+-777 -1117 0
+-778 -1118 0
+-779 -1119 0
+-780 -1120 0
+c nodes "figureW-445" and "figureW-618" may not have the same color
+-781 -1001 0
+-782 -1002 0
+-783 -1003 0
+-784 -1004 0
+c nodes "figureW-446" and "figureW-619" may not have the same color
+-785 -1005 0
+-786 -1006 0
+-787 -1007 0
+-788 -1008 0
+c nodes "figureW-447" and "figureW-620" may not have the same color
+-789 -1009 0
+-790 -1010 0
+-791 -1011 0
+-792 -1012 0
+c nodes "figureW-448" and "figureW-621" may not have the same color
+-793 -1013 0
+-794 -1014 0
+-795 -1015 0
+-796 -1016 0
+c nodes "figureW-474" and "figureW-479" may not have the same color
+-797 -817 0
+-798 -818 0
+-799 -819 0
+-800 -820 0
+c nodes "figureW-474" and "figureW-548" may not have the same color
+-797 -897 0
+-798 -898 0
+-799 -899 0
+-800 -900 0
+c nodes "figureW-475" and "figureW-480" may not have the same color
+-801 -821 0
+-802 -822 0
+-803 -823 0
+-804 -824 0
+c nodes "figureW-475" and "figureW-517" may not have the same color
+-801 -869 0
+-802 -870 0
+-803 -871 0
+-804 -872 0
+c nodes "figureW-475" and "figureW-551" may not have the same color
+-801 -909 0
+-802 -910 0
+-803 -911 0
+-804 -912 0
+c nodes "figureW-475" and "figureW-740" may not have the same color
+-801 -1141 0
+-802 -1142 0
+-803 -1143 0
+-804 -1144 0
+c nodes "figureW-476" and "figureW-481" may not have the same color
+-805 -825 0
+-806 -826 0
+-807 -827 0
+-808 -828 0
+c nodes "figureW-476" and "figureW-553" may not have the same color
+-805 -917 0
+-806 -918 0
+-807 -919 0
+-808 -920 0
+c nodes "figureW-477" and "figureW-482" may not have the same color
+-809 -829 0
+-810 -830 0
+-811 -831 0
+-812 -832 0
+c nodes "figureW-477" and "figureW-586" may not have the same color
+-809 -957 0
+-810 -958 0
+-811 -959 0
+-812 -960 0
+c nodes "figureW-478" and "figureW-483" may not have the same color
+-813 -833 0
+-814 -834 0
+-815 -835 0
+-816 -836 0
+c nodes "figureW-478" and "figureW-617" may not have the same color
+-813 -997 0
+-814 -998 0
+-815 -999 0
+-816 -1000 0
+c nodes "figureW-479" and "figureW-642" may not have the same color
+-817 -1017 0
+-818 -1018 0
+-819 -1019 0
+-820 -1020 0
+c nodes "figureW-479" and "figureW-643" may not have the same color
+-817 -1021 0
+-818 -1022 0
+-819 -1023 0
+-820 -1024 0
+c nodes "figureW-479" and "figureW-644" may not have the same color
+-817 -1025 0
+-818 -1026 0
+-819 -1027 0
+-820 -1028 0
+c nodes "figureW-479" and "figureW-645" may not have the same color
+-817 -1029 0
+-818 -1030 0
+-819 -1031 0
+-820 -1032 0
+c nodes "figureW-479" and "figureW-646" may not have the same color
+-817 -1033 0
+-818 -1034 0
+-819 -1035 0
+-820 -1036 0
+c nodes "figureW-479" and "figureW-647" may not have the same color
+-817 -1037 0
+-818 -1038 0
+-819 -1039 0
+-820 -1040 0
+c nodes "figureW-479" and "figureW-648" may not have the same color
+-817 -1041 0
+-818 -1042 0
+-819 -1043 0
+-820 -1044 0
+c nodes "figureW-479" and "figureW-649" may not have the same color
+-817 -1045 0
+-818 -1046 0
+-819 -1047 0
+-820 -1048 0
+c nodes "figureW-479" and "figureW-762" may not have the same color
+-817 -1161 0
+-818 -1162 0
+-819 -1163 0
+-820 -1164 0
+c nodes "figureW-480" and "figureW-485" may not have the same color
+-821 -837 0
+-822 -838 0
+-823 -839 0
+-824 -840 0
+c nodes "figureW-480" and "figureW-548" may not have the same color
+-821 -897 0
+-822 -898 0
+-823 -899 0
+-824 -900 0
+c nodes "figureW-480" and "figureW-642" may not have the same color
+-821 -1017 0
+-822 -1018 0
+-823 -1019 0
+-824 -1020 0
+c nodes "figureW-480" and "figureW-672" may not have the same color
+-821 -1065 0
+-822 -1066 0
+-823 -1067 0
+-824 -1068 0
+c nodes "figureW-480" and "figureW-740" may not have the same color
+-821 -1141 0
+-822 -1142 0
+-823 -1143 0
+-824 -1144 0
+c nodes "figureW-481" and "figureW-486" may not have the same color
+-825 -841 0
+-826 -842 0
+-827 -843 0
+-828 -844 0
+c nodes "figureW-481" and "figureW-551" may not have the same color
+-825 -909 0
+-826 -910 0
+-827 -911 0
+-828 -912 0
+c nodes "figureW-481" and "figureW-643" may not have the same color
+-825 -1021 0
+-826 -1022 0
+-827 -1023 0
+-828 -1024 0
+c nodes "figureW-481" and "figureW-696" may not have the same color
+-825 -1093 0
+-826 -1094 0
+-827 -1095 0
+-828 -1096 0
+c nodes "figureW-482" and "figureW-487" may not have the same color
+-829 -845 0
+-830 -846 0
+-831 -847 0
+-832 -848 0
+c nodes "figureW-482" and "figureW-644" may not have the same color
+-829 -1025 0
+-830 -1026 0
+-831 -1027 0
+-832 -1028 0
+c nodes "figureW-482" and "figureW-718" may not have the same color
+-829 -1117 0
+-830 -1118 0
+-831 -1119 0
+-832 -1120 0
+c nodes "figureW-483" and "figureW-645" may not have the same color
+-833 -1029 0
+-834 -1030 0
+-835 -1031 0
+-836 -1032 0
+c nodes "figureW-485" and "figureW-647" may not have the same color
+-837 -1037 0
+-838 -1038 0
+-839 -1039 0
+-840 -1040 0
+c nodes "figureW-486" and "figureW-648" may not have the same color
+-841 -1041 0
+-842 -1042 0
+-843 -1043 0
+-844 -1044 0
+c nodes "figureW-487" and "figureW-649" may not have the same color
+-845 -1045 0
+-846 -1046 0
+-847 -1047 0
+-848 -1048 0
+c nodes "figureW-512" and "figureW-517" may not have the same color
+-849 -869 0
+-850 -870 0
+-851 -871 0
+-852 -872 0
+c nodes "figureW-512" and "figureW-582" may not have the same color
+-849 -941 0
+-850 -942 0
+-851 -943 0
+-852 -944 0
+c nodes "figureW-512" and "figureW-613" may not have the same color
+-849 -981 0
+-850 -982 0
+-851 -983 0
+-852 -984 0
+c nodes "figureW-513" and "figureW-518" may not have the same color
+-853 -873 0
+-854 -874 0
+-855 -875 0
+-856 -876 0
+c nodes "figureW-513" and "figureW-553" may not have the same color
+-853 -917 0
+-854 -918 0
+-855 -919 0
+-856 -920 0
+c nodes "figureW-513" and "figureW-584" may not have the same color
+-853 -949 0
+-854 -950 0
+-855 -951 0
+-856 -952 0
+c nodes "figureW-513" and "figureW-762" may not have the same color
+-853 -1161 0
+-854 -1162 0
+-855 -1163 0
+-856 -1164 0
+c nodes "figureW-514" and "figureW-519" may not have the same color
+-857 -877 0
+-858 -878 0
+-859 -879 0
+-860 -880 0
+c nodes "figureW-514" and "figureW-586" may not have the same color
+-857 -957 0
+-858 -958 0
+-859 -959 0
+-860 -960 0
+c nodes "figureW-515" and "figureW-520" may not have the same color
+-861 -881 0
+-862 -882 0
+-863 -883 0
+-864 -884 0
+c nodes "figureW-515" and "figureW-617" may not have the same color
+-861 -997 0
+-862 -998 0
+-863 -999 0
+-864 -1000 0
+c nodes "figureW-515" and "figureW-642" may not have the same color
+-861 -1017 0
+-862 -1018 0
+-863 -1019 0
+-864 -1020 0
+c nodes "figureW-516" and "figureW-521" may not have the same color
+-865 -885 0
+-866 -886 0
+-867 -887 0
+-868 -888 0
+c nodes "figureW-516" and "figureW-646" may not have the same color
+-865 -1033 0
+-866 -1034 0
+-867 -1035 0
+-868 -1036 0
+c nodes "figureW-517" and "figureW-668" may not have the same color
+-869 -1049 0
+-870 -1050 0
+-871 -1051 0
+-872 -1052 0
+c nodes "figureW-517" and "figureW-669" may not have the same color
+-869 -1053 0
+-870 -1054 0
+-871 -1055 0
+-872 -1056 0
+c nodes "figureW-517" and "figureW-670" may not have the same color
+-869 -1057 0
+-870 -1058 0
+-871 -1059 0
+-872 -1060 0
+c nodes "figureW-517" and "figureW-671" may not have the same color
+-869 -1061 0
+-870 -1062 0
+-871 -1063 0
+-872 -1064 0
+c nodes "figureW-517" and "figureW-672" may not have the same color
+-869 -1065 0
+-870 -1066 0
+-871 -1067 0
+-872 -1068 0
+c nodes "figureW-517" and "figureW-673" may not have the same color
+-869 -1069 0
+-870 -1070 0
+-871 -1071 0
+-872 -1072 0
+c nodes "figureW-517" and "figureW-674" may not have the same color
+-869 -1073 0
+-870 -1074 0
+-871 -1075 0
+-872 -1076 0
+c nodes "figureW-517" and "figureW-1054" may not have the same color
+-869 -1201 0
+-870 -1202 0
+-871 -1203 0
+-872 -1204 0
+c nodes "figureW-518" and "figureW-523" may not have the same color
+-873 -889 0
+-874 -890 0
+-875 -891 0
+-876 -892 0
+c nodes "figureW-518" and "figureW-582" may not have the same color
+-873 -941 0
+-874 -942 0
+-875 -943 0
+-876 -944 0
+c nodes "figureW-518" and "figureW-668" may not have the same color
+-873 -1049 0
+-874 -1050 0
+-875 -1051 0
+-876 -1052 0
+c nodes "figureW-518" and "figureW-696" may not have the same color
+-873 -1093 0
+-874 -1094 0
+-875 -1095 0
+-876 -1096 0
+c nodes "figureW-518" and "figureW-762" may not have the same color
+-873 -1161 0
+-874 -1162 0
+-875 -1163 0
+-876 -1164 0
+c nodes "figureW-519" and "figureW-524" may not have the same color
+-877 -893 0
+-878 -894 0
+-879 -895 0
+-880 -896 0
+c nodes "figureW-519" and "figureW-584" may not have the same color
+-877 -949 0
+-878 -950 0
+-879 -951 0
+-880 -952 0
+c nodes "figureW-519" and "figureW-669" may not have the same color
+-877 -1053 0
+-878 -1054 0
+-879 -1055 0
+-880 -1056 0
+c nodes "figureW-519" and "figureW-718" may not have the same color
+-877 -1117 0
+-878 -1118 0
+-879 -1119 0
+-880 -1120 0
+c nodes "figureW-520" and "figureW-613" may not have the same color
+-881 -981 0
+-882 -982 0
+-883 -983 0
+-884 -984 0
+c nodes "figureW-520" and "figureW-642" may not have the same color
+-881 -1017 0
+-882 -1018 0
+-883 -1019 0
+-884 -1020 0
+c nodes "figureW-520" and "figureW-670" may not have the same color
+-881 -1057 0
+-882 -1058 0
+-883 -1059 0
+-884 -1060 0
+c nodes "figureW-521" and "figureW-671" may not have the same color
+-885 -1061 0
+-886 -1062 0
+-887 -1063 0
+-888 -1064 0
+c nodes "figureW-523" and "figureW-673" may not have the same color
+-889 -1069 0
+-890 -1070 0
+-891 -1071 0
+-892 -1072 0
+c nodes "figureW-524" and "figureW-674" may not have the same color
+-893 -1073 0
+-894 -1074 0
+-895 -1075 0
+-896 -1076 0
+c nodes "figureW-548" and "figureW-553" may not have the same color
+-897 -917 0
+-898 -918 0
+-899 -919 0
+-900 -920 0
+c nodes "figureW-548" and "figureW-642" may not have the same color
+-897 -1017 0
+-898 -1018 0
+-899 -1019 0
+-900 -1020 0
+c nodes "figureW-549" and "figureW-554" may not have the same color
+-901 -921 0
+-902 -922 0
+-903 -923 0
+-904 -924 0
+c nodes "figureW-549" and "figureW-586" may not have the same color
+-901 -957 0
+-902 -958 0
+-903 -959 0
+-904 -960 0
+c nodes "figureW-549" and "figureW-1054" may not have the same color
+-901 -1201 0
+-902 -1202 0
+-903 -1203 0
+-904 -1204 0
+c nodes "figureW-550" and "figureW-555" may not have the same color
+-905 -925 0
+-906 -926 0
+-907 -927 0
+-908 -928 0
+c nodes "figureW-550" and "figureW-617" may not have the same color
+-905 -997 0
+-906 -998 0
+-907 -999 0
+-908 -1000 0
+c nodes "figureW-551" and "figureW-556" may not have the same color
+-909 -929 0
+-910 -930 0
+-911 -931 0
+-912 -932 0
+c nodes "figureW-551" and "figureW-646" may not have the same color
+-909 -1033 0
+-910 -1034 0
+-911 -1035 0
+-912 -1036 0
+c nodes "figureW-551" and "figureW-668" may not have the same color
+-909 -1049 0
+-910 -1050 0
+-911 -1051 0
+-912 -1052 0
+c nodes "figureW-552" and "figureW-557" may not have the same color
+-913 -933 0
+-914 -934 0
+-915 -935 0
+-916 -936 0
+c nodes "figureW-552" and "figureW-672" may not have the same color
+-913 -1065 0
+-914 -1066 0
+-915 -1067 0
+-916 -1068 0
+c nodes "figureW-553" and "figureW-692" may not have the same color
+-917 -1077 0
+-918 -1078 0
+-919 -1079 0
+-920 -1080 0
+c nodes "figureW-553" and "figureW-693" may not have the same color
+-917 -1081 0
+-918 -1082 0
+-919 -1083 0
+-920 -1084 0
+c nodes "figureW-553" and "figureW-694" may not have the same color
+-917 -1085 0
+-918 -1086 0
+-919 -1087 0
+-920 -1088 0
+c nodes "figureW-553" and "figureW-695" may not have the same color
+-917 -1089 0
+-918 -1090 0
+-919 -1091 0
+-920 -1092 0
+c nodes "figureW-553" and "figureW-696" may not have the same color
+-917 -1093 0
+-918 -1094 0
+-919 -1095 0
+-920 -1096 0
+c nodes "figureW-553" and "figureW-697" may not have the same color
+-917 -1097 0
+-918 -1098 0
+-919 -1099 0
+-920 -1100 0
+c nodes "figureW-553" and "figureW-703" may not have the same color
+-917 -1101 0
+-918 -1102 0
+-919 -1103 0
+-920 -1104 0
+c nodes "figureW-554" and "figureW-559" may not have the same color
+-921 -937 0
+-922 -938 0
+-923 -939 0
+-924 -940 0
+c nodes "figureW-554" and "figureW-692" may not have the same color
+-921 -1077 0
+-922 -1078 0
+-923 -1079 0
+-924 -1080 0
+c nodes "figureW-554" and "figureW-718" may not have the same color
+-921 -1117 0
+-922 -1118 0
+-923 -1119 0
+-924 -1120 0
+c nodes "figureW-554" and "figureW-1054" may not have the same color
+-921 -1201 0
+-922 -1202 0
+-923 -1203 0
+-924 -1204 0
+c nodes "figureW-555" and "figureW-693" may not have the same color
+-925 -1081 0
+-926 -1082 0
+-927 -1083 0
+-928 -1084 0
+c nodes "figureW-556" and "figureW-642" may not have the same color
+-929 -1017 0
+-930 -1018 0
+-931 -1019 0
+-932 -1020 0
+c nodes "figureW-556" and "figureW-668" may not have the same color
+-929 -1049 0
+-930 -1050 0
+-931 -1051 0
+-932 -1052 0
+c nodes "figureW-556" and "figureW-694" may not have the same color
+-929 -1085 0
+-930 -1086 0
+-931 -1087 0
+-932 -1088 0
+c nodes "figureW-557" and "figureW-695" may not have the same color
+-933 -1089 0
+-934 -1090 0
+-935 -1091 0
+-936 -1092 0
+c nodes "figureW-559" and "figureW-697" may not have the same color
+-937 -1097 0
+-938 -1098 0
+-939 -1099 0
+-940 -1100 0
+c nodes "figureW-582" and "figureW-586" may not have the same color
+-941 -957 0
+-942 -958 0
+-943 -959 0
+-944 -960 0
+c nodes "figureW-582" and "figureW-668" may not have the same color
+-941 -1049 0
+-942 -1050 0
+-943 -1051 0
+-944 -1052 0
+c nodes "figureW-583" and "figureW-588" may not have the same color
+-945 -965 0
+-946 -966 0
+-947 -967 0
+-948 -968 0
+c nodes "figureW-583" and "figureW-646" may not have the same color
+-945 -1033 0
+-946 -1034 0
+-947 -1035 0
+-948 -1036 0
+c nodes "figureW-584" and "figureW-589" may not have the same color
+-949 -969 0
+-950 -970 0
+-951 -971 0
+-952 -972 0
+c nodes "figureW-584" and "figureW-672" may not have the same color
+-949 -1065 0
+-950 -1066 0
+-951 -1067 0
+-952 -1068 0
+c nodes "figureW-584" and "figureW-692" may not have the same color
+-949 -1077 0
+-950 -1078 0
+-951 -1079 0
+-952 -1080 0
+c nodes "figureW-585" and "figureW-590" may not have the same color
+-953 -973 0
+-954 -974 0
+-955 -975 0
+-956 -976 0
+c nodes "figureW-585" and "figureW-696" may not have the same color
+-953 -1093 0
+-954 -1094 0
+-955 -1095 0
+-956 -1096 0
+c nodes "figureW-586" and "figureW-612" may not have the same color
+-957 -977 0
+-958 -978 0
+-959 -979 0
+-960 -980 0
+c nodes "figureW-586" and "figureW-715" may not have the same color
+-957 -1105 0
+-958 -1106 0
+-959 -1107 0
+-960 -1108 0
+c nodes "figureW-586" and "figureW-716" may not have the same color
+-957 -1109 0
+-958 -1110 0
+-959 -1111 0
+-960 -1112 0
+c nodes "figureW-586" and "figureW-717" may not have the same color
+-957 -1113 0
+-958 -1114 0
+-959 -1115 0
+-960 -1116 0
+c nodes "figureW-586" and "figureW-718" may not have the same color
+-957 -1117 0
+-958 -1118 0
+-959 -1119 0
+-960 -1120 0
+c nodes "figureW-586" and "figureW-818" may not have the same color
+-957 -1189 0
+-958 -1190 0
+-959 -1191 0
+-960 -1192 0
+c nodes "figureW-588" and "figureW-715" may not have the same color
+-965 -1105 0
+-966 -1106 0
+-967 -1107 0
+-968 -1108 0
+c nodes "figureW-589" and "figureW-668" may not have the same color
+-969 -1049 0
+-970 -1050 0
+-971 -1051 0
+-972 -1052 0
+c nodes "figureW-589" and "figureW-692" may not have the same color
+-969 -1077 0
+-970 -1078 0
+-971 -1079 0
+-972 -1080 0
+c nodes "figureW-589" and "figureW-716" may not have the same color
+-969 -1109 0
+-970 -1110 0
+-971 -1111 0
+-972 -1112 0
+c nodes "figureW-590" and "figureW-717" may not have the same color
+-973 -1113 0
+-974 -1114 0
+-975 -1115 0
+-976 -1116 0
+c nodes "figureW-612" and "figureW-616" may not have the same color
+-977 -993 0
+-978 -994 0
+-979 -995 0
+-980 -996 0
+c nodes "figureW-613" and "figureW-618" may not have the same color
+-981 -1001 0
+-982 -1002 0
+-983 -1003 0
+-984 -1004 0
+c nodes "figureW-613" and "figureW-646" may not have the same color
+-981 -1033 0
+-982 -1034 0
+-983 -1035 0
+-984 -1036 0
+c nodes "figureW-613" and "figureW-670" may not have the same color
+-981 -1057 0
+-982 -1058 0
+-983 -1059 0
+-984 -1060 0
+c nodes "figureW-614" and "figureW-619" may not have the same color
+-985 -1005 0
+-986 -1006 0
+-987 -1007 0
+-988 -1008 0
+c nodes "figureW-614" and "figureW-672" may not have the same color
+-985 -1065 0
+-986 -1066 0
+-987 -1067 0
+-988 -1068 0
+c nodes "figureW-615" and "figureW-620" may not have the same color
+-989 -1009 0
+-990 -1010 0
+-991 -1011 0
+-992 -1012 0
+c nodes "figureW-615" and "figureW-696" may not have the same color
+-989 -1093 0
+-990 -1094 0
+-991 -1095 0
+-992 -1096 0
+c nodes "figureW-616" and "figureW-621" may not have the same color
+-993 -1013 0
+-994 -1014 0
+-995 -1015 0
+-996 -1016 0
+c nodes "figureW-616" and "figureW-718" may not have the same color
+-993 -1117 0
+-994 -1118 0
+-995 -1119 0
+-996 -1120 0
+c nodes "figureW-616" and "figureW-734" may not have the same color
+-993 -1121 0
+-994 -1122 0
+-995 -1123 0
+-996 -1124 0
+c nodes "figureW-617" and "figureW-734" may not have the same color
+-997 -1121 0
+-998 -1122 0
+-999 -1123 0
+-1000 -1124 0
+c nodes "figureW-617" and "figureW-735" may not have the same color
+-997 -1125 0
+-998 -1126 0
+-999 -1127 0
+-1000 -1128 0
+c nodes "figureW-617" and "figureW-736" may not have the same color
+-997 -1129 0
+-998 -1130 0
+-999 -1131 0
+-1000 -1132 0
+c nodes "figureW-617" and "figureW-737" may not have the same color
+-997 -1133 0
+-998 -1134 0
+-999 -1135 0
+-1000 -1136 0
+c nodes "figureW-617" and "figureW-738" may not have the same color
+-997 -1137 0
+-998 -1138 0
+-999 -1139 0
+-1000 -1140 0
+c nodes "figureW-617" and "figureW-740" may not have the same color
+-997 -1141 0
+-998 -1142 0
+-999 -1143 0
+-1000 -1144 0
+c nodes "figureW-617" and "figureW-746" may not have the same color
+-997 -1145 0
+-998 -1146 0
+-999 -1147 0
+-1000 -1148 0
+c nodes "figureW-618" and "figureW-735" may not have the same color
+-1001 -1125 0
+-1002 -1126 0
+-1003 -1127 0
+-1004 -1128 0
+c nodes "figureW-618" and "figureW-1054" may not have the same color
+-1001 -1201 0
+-1002 -1202 0
+-1003 -1203 0
+-1004 -1204 0
+c nodes "figureW-619" and "figureW-670" may not have the same color
+-1005 -1057 0
+-1006 -1058 0
+-1007 -1059 0
+-1008 -1060 0
+c nodes "figureW-619" and "figureW-736" may not have the same color
+-1005 -1129 0
+-1006 -1130 0
+-1007 -1131 0
+-1008 -1132 0
+c nodes "figureW-620" and "figureW-737" may not have the same color
+-1009 -1133 0
+-1010 -1134 0
+-1011 -1135 0
+-1012 -1136 0
+c nodes "figureW-621" and "figureW-738" may not have the same color
+-1013 -1137 0
+-1014 -1138 0
+-1015 -1139 0
+-1016 -1140 0
+c nodes "figureW-642" and "figureW-647" may not have the same color
+-1017 -1037 0
+-1018 -1038 0
+-1019 -1039 0
+-1020 -1040 0
+c nodes "figureW-642" and "figureW-672" may not have the same color
+-1017 -1065 0
+-1018 -1066 0
+-1019 -1067 0
+-1020 -1068 0
+c nodes "figureW-642" and "figureW-694" may not have the same color
+-1017 -1085 0
+-1018 -1086 0
+-1019 -1087 0
+-1020 -1088 0
+c nodes "figureW-642" and "figureW-746" may not have the same color
+-1017 -1145 0
+-1018 -1146 0
+-1019 -1147 0
+-1020 -1148 0
+c nodes "figureW-643" and "figureW-648" may not have the same color
+-1021 -1041 0
+-1022 -1042 0
+-1023 -1043 0
+-1024 -1044 0
+c nodes "figureW-643" and "figureW-696" may not have the same color
+-1021 -1093 0
+-1022 -1094 0
+-1023 -1095 0
+-1024 -1096 0
+c nodes "figureW-644" and "figureW-649" may not have the same color
+-1025 -1045 0
+-1026 -1046 0
+-1027 -1047 0
+-1028 -1048 0
+c nodes "figureW-644" and "figureW-718" may not have the same color
+-1025 -1117 0
+-1026 -1118 0
+-1027 -1119 0
+-1028 -1120 0
+c nodes "figureW-646" and "figureW-756" may not have the same color
+-1033 -1149 0
+-1034 -1150 0
+-1035 -1151 0
+-1036 -1152 0
+c nodes "figureW-646" and "figureW-757" may not have the same color
+-1033 -1153 0
+-1034 -1154 0
+-1035 -1155 0
+-1036 -1156 0
+c nodes "figureW-646" and "figureW-758" may not have the same color
+-1033 -1157 0
+-1034 -1158 0
+-1035 -1159 0
+-1036 -1160 0
+c nodes "figureW-646" and "figureW-762" may not have the same color
+-1033 -1161 0
+-1034 -1162 0
+-1035 -1163 0
+-1036 -1164 0
+c nodes "figureW-646" and "figureW-766" may not have the same color
+-1033 -1165 0
+-1034 -1166 0
+-1035 -1167 0
+-1036 -1168 0
+c nodes "figureW-647" and "figureW-703" may not have the same color
+-1037 -1101 0
+-1038 -1102 0
+-1039 -1103 0
+-1040 -1104 0
+c nodes "figureW-647" and "figureW-746" may not have the same color
+-1037 -1145 0
+-1038 -1146 0
+-1039 -1147 0
+-1040 -1148 0
+c nodes "figureW-647" and "figureW-756" may not have the same color
+-1037 -1149 0
+-1038 -1150 0
+-1039 -1151 0
+-1040 -1152 0
+c nodes "figureW-648" and "figureW-694" may not have the same color
+-1041 -1085 0
+-1042 -1086 0
+-1043 -1087 0
+-1044 -1088 0
+c nodes "figureW-648" and "figureW-757" may not have the same color
+-1041 -1153 0
+-1042 -1154 0
+-1043 -1155 0
+-1044 -1156 0
+c nodes "figureW-649" and "figureW-758" may not have the same color
+-1045 -1157 0
+-1046 -1158 0
+-1047 -1159 0
+-1048 -1160 0
+c nodes "figureW-668" and "figureW-673" may not have the same color
+-1049 -1069 0
+-1050 -1070 0
+-1051 -1071 0
+-1052 -1072 0
+c nodes "figureW-668" and "figureW-696" may not have the same color
+-1049 -1093 0
+-1050 -1094 0
+-1051 -1095 0
+-1052 -1096 0
+c nodes "figureW-668" and "figureW-716" may not have the same color
+-1049 -1109 0
+-1050 -1110 0
+-1051 -1111 0
+-1052 -1112 0
+c nodes "figureW-668" and "figureW-766" may not have the same color
+-1049 -1165 0
+-1050 -1166 0
+-1051 -1167 0
+-1052 -1168 0
+c nodes "figureW-669" and "figureW-674" may not have the same color
+-1053 -1073 0
+-1054 -1074 0
+-1055 -1075 0
+-1056 -1076 0
+c nodes "figureW-669" and "figureW-718" may not have the same color
+-1053 -1117 0
+-1054 -1118 0
+-1055 -1119 0
+-1056 -1120 0
+c nodes "figureW-670" and "figureW-756" may not have the same color
+-1057 -1149 0
+-1058 -1150 0
+-1059 -1151 0
+-1060 -1152 0
+c nodes "figureW-672" and "figureW-775" may not have the same color
+-1065 -1169 0
+-1066 -1170 0
+-1067 -1171 0
+-1068 -1172 0
+c nodes "figureW-672" and "figureW-776" may not have the same color
+-1065 -1173 0
+-1066 -1174 0
+-1067 -1175 0
+-1068 -1176 0
+c nodes "figureW-672" and "figureW-784" may not have the same color
+-1065 -1177 0
+-1066 -1178 0
+-1067 -1179 0
+-1068 -1180 0
+c nodes "figureW-672" and "figureW-1054" may not have the same color
+-1065 -1201 0
+-1066 -1202 0
+-1067 -1203 0
+-1068 -1204 0
+c nodes "figureW-673" and "figureW-766" may not have the same color
+-1069 -1165 0
+-1070 -1166 0
+-1071 -1167 0
+-1072 -1168 0
+c nodes "figureW-673" and "figureW-775" may not have the same color
+-1069 -1169 0
+-1070 -1170 0
+-1071 -1171 0
+-1072 -1172 0
+c nodes "figureW-673" and "figureW-818" may not have the same color
+-1069 -1189 0
+-1070 -1190 0
+-1071 -1191 0
+-1072 -1192 0
+c nodes "figureW-674" and "figureW-716" may not have the same color
+-1073 -1109 0
+-1074 -1110 0
+-1075 -1111 0
+-1076 -1112 0
+c nodes "figureW-674" and "figureW-776" may not have the same color
+-1073 -1173 0
+-1074 -1174 0
+-1075 -1175 0
+-1076 -1176 0
+c nodes "figureW-692" and "figureW-697" may not have the same color
+-1077 -1097 0
+-1078 -1098 0
+-1079 -1099 0
+-1080 -1100 0
+c nodes "figureW-692" and "figureW-718" may not have the same color
+-1077 -1117 0
+-1078 -1118 0
+-1079 -1119 0
+-1080 -1120 0
+c nodes "figureW-692" and "figureW-784" may not have the same color
+-1077 -1177 0
+-1078 -1178 0
+-1079 -1179 0
+-1080 -1180 0
+c nodes "figureW-694" and "figureW-775" may not have the same color
+-1085 -1169 0
+-1086 -1170 0
+-1087 -1171 0
+-1088 -1172 0
+c nodes "figureW-696" and "figureW-703" may not have the same color
+-1093 -1101 0
+-1094 -1102 0
+-1095 -1103 0
+-1096 -1104 0
+c nodes "figureW-696" and "figureW-792" may not have the same color
+-1093 -1181 0
+-1094 -1182 0
+-1095 -1183 0
+-1096 -1184 0
+c nodes "figureW-696" and "figureW-801" may not have the same color
+-1093 -1185 0
+-1094 -1186 0
+-1095 -1187 0
+-1096 -1188 0
+c nodes "figureW-697" and "figureW-784" may not have the same color
+-1097 -1177 0
+-1098 -1178 0
+-1099 -1179 0
+-1100 -1180 0
+c nodes "figureW-697" and "figureW-792" may not have the same color
+-1097 -1181 0
+-1098 -1182 0
+-1099 -1183 0
+-1100 -1184 0
+c nodes "figureW-703" and "figureW-756" may not have the same color
+-1101 -1149 0
+-1102 -1150 0
+-1103 -1151 0
+-1104 -1152 0
+c nodes "figureW-703" and "figureW-762" may not have the same color
+-1101 -1161 0
+-1102 -1162 0
+-1103 -1163 0
+-1104 -1164 0
+c nodes "figureW-716" and "figureW-792" may not have the same color
+-1109 -1181 0
+-1110 -1182 0
+-1111 -1183 0
+-1112 -1184 0
+c nodes "figureW-718" and "figureW-734" may not have the same color
+-1117 -1121 0
+-1118 -1122 0
+-1119 -1123 0
+-1120 -1124 0
+c nodes "figureW-718" and "figureW-818" may not have the same color
+-1117 -1189 0
+-1118 -1190 0
+-1119 -1191 0
+-1120 -1192 0
+c nodes "figureW-718" and "figureW-820" may not have the same color
+-1117 -1193 0
+-1118 -1194 0
+-1119 -1195 0
+-1120 -1196 0
+c nodes "figureW-734" and "figureW-738" may not have the same color
+-1121 -1137 0
+-1122 -1138 0
+-1123 -1139 0
+-1124 -1140 0
+c nodes "figureW-735" and "figureW-1054" may not have the same color
+-1125 -1201 0
+-1126 -1202 0
+-1127 -1203 0
+-1128 -1204 0
+c nodes "figureW-738" and "figureW-825" may not have the same color
+-1137 -1197 0
+-1138 -1198 0
+-1139 -1199 0
+-1140 -1200 0
+c nodes "figureW-740" and "figureW-1054" may not have the same color
+-1141 -1201 0
+-1142 -1202 0
+-1143 -1203 0
+-1144 -1204 0
+c nodes "figureW-746" and "figureW-784" may not have the same color
+-1145 -1177 0
+-1146 -1178 0
+-1147 -1179 0
+-1148 -1180 0
+c nodes "figureW-766" and "figureW-801" may not have the same color
+-1165 -1185 0
+-1166 -1186 0
+-1167 -1187 0
+-1168 -1188 0
+c nodes "figureW-775" and "figureW-818" may not have the same color
+-1169 -1189 0
+-1170 -1190 0
+-1171 -1191 0
+-1172 -1192 0
+c nodes "figureW-784" and "figureW-820" may not have the same color
+-1177 -1193 0
+-1178 -1194 0
+-1179 -1195 0
+-1180 -1196 0
+c nodes "figureW-818" and "figureW-1054" may not have the same color
+-1189 -1201 0
+-1190 -1202 0
+-1191 -1203 0
+-1192 -1204 0

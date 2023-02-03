@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <nodes>
+      <node id="figure5-0-0-0-0" label="origin-H (figure5-0-0-0-0)@{&quot;x&quot;:0,&quot;y&quot;:0}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0" y="0"/>
+      </node>
+      <node id="figure5-0-0-0-1" label="figure5-0-0-0-1@{&quot;x&quot;:-0.12186934340514737,&quot;y&quot;:0.9925461516413221}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.12186934340514737" y="0.9925461516413221"/>
+      </node>
+      <node id="figure5-0-0-0-2" label="figure5-0-0-0-2@{&quot;x&quot;:-0.9205048534524404,&quot;y&quot;:0.39073112848927377}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.9205048534524404" y="0.39073112848927377"/>
+      </node>
+      <node id="figure5-0-0-0-3" label="figure5-0-0-0-3@{&quot;x&quot;:-0.7986355100472927,&quot;y&quot;:-0.6018150231520483}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.7986355100472927" y="-0.6018150231520483"/>
+      </node>
+      <node id="figure5-0-0-0-4" label="figure5-0-0-0-4@{&quot;x&quot;:0.12186934340514681,&quot;y&quot;:-0.9925461516413221}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.12186934340514681" y="-0.9925461516413221"/>
+      </node>
+      <node id="figure5-0-0-0-5" label="figure5-0-0-0-5@{&quot;x&quot;:0.92050485345244,&quot;y&quot;:-0.3907311284892745}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.92050485345244" y="-0.3907311284892745"/>
+      </node>
+      <node id="figure5-0-0-0-6" label="figure5-0-0-0-6@{&quot;x&quot;:0.7986355100472928,&quot;y&quot;:0.6018150231520483}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.7986355100472928" y="0.6018150231520483"/>
+      </node>
+      <node id="figure5-0-0-1-1" label="figure5-0-0-1-1@{&quot;x&quot;:-0.24373868681029473,&quot;y&quot;:1.9850923032826442}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.24373868681029473" y="1.9850923032826442"/>
+      </node>
+      <node id="figure5-0-0-1-2" label="figure5-0-0-1-2@{&quot;x&quot;:-1.0423741968575873,&quot;y&quot;:1.3832772801305961}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.0423741968575873" y="1.3832772801305961"/>
+      </node>
+      <node id="figure5-0-0-1-6" label="B (figure5-0-0-1-6)@{&quot;x&quot;:0.6767661666421453,&quot;y&quot;:1.5943611747933704}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.6767661666421453" y="1.5943611747933704"/>
+      </node>
+      <node id="figure5-0-0-2-2" label="figure5-0-0-2-2@{&quot;x&quot;:-1.8410097069048807,&quot;y&quot;:0.7814622569785475}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.8410097069048807" y="0.7814622569785475"/>
+      </node>
+      <node id="figure5-0-0-2-3" label="figure5-0-0-2-3@{&quot;x&quot;:-1.719140363499733,&quot;y&quot;:-0.21108389466277344}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.719140363499733" y="-0.21108389466277344"/>
+      </node>
+      <node id="figure5-0-0-3-3" label="figure5-0-0-3-3@{&quot;x&quot;:-1.5972710200945854,&quot;y&quot;:-1.2036300463040965}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.5972710200945854" y="-1.2036300463040965"/>
+      </node>
+      <node id="figure5-0-0-3-4" label="figure5-0-0-3-4@{&quot;x&quot;:-0.6767661666421454,&quot;y&quot;:-1.5943611747933701}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.6767661666421454" y="-1.5943611747933701"/>
+      </node>
+      <node id="figure5-0-0-4-4" label="figure5-0-0-4-4@{&quot;x&quot;:0.24373868681029362,&quot;y&quot;:-1.9850923032826442}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.24373868681029362" y="-1.9850923032826442"/>
+      </node>
+      <node id="figure5-0-0-4-5" label="figure5-0-0-4-5@{&quot;x&quot;:1.0423741968575873,&quot;y&quot;:-1.3832772801305966}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.0423741968575873" y="-1.3832772801305966"/>
+      </node>
+      <node id="figure5-0-0-5-5" label="figure5-0-0-5-5@{&quot;x&quot;:1.84100970690488,&quot;y&quot;:-0.781462256978549}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.84100970690488" y="-0.781462256978549"/>
+      </node>
+      <node id="figure5-0-0-5-6" label="figure5-0-0-5-6@{&quot;x&quot;:1.719140363499733,&quot;y&quot;:0.21108389466277366}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.719140363499733" y="0.21108389466277366"/>
+      </node>
+      <node id="figure5-0-0-6-6" label="figure5-0-0-6-6@{&quot;x&quot;:1.5972710200945857,&quot;y&quot;:1.2036300463040965}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.5972710200945857" y="1.2036300463040965"/>
+      </node>
+      <node id="figure5-0-0-7-1" label="figure5-0-0-7-1@{&quot;x&quot;:-1.164243540262735,&quot;y&quot;:2.3758234317719182}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.164243540262735" y="2.3758234317719182"/>
+      </node>
+      <node id="figure5-0-0-7-2" label="figure5-0-0-7-2@{&quot;x&quot;:-1.9628790503100284,&quot;y&quot;:1.7740084086198695}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.9628790503100284" y="1.7740084086198695"/>
+      </node>
+      <node id="figure5-0-0-8-2" label="figure5-0-0-8-2@{&quot;x&quot;:-2.639645216952174,&quot;y&quot;:0.17964723382649944}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.639645216952174" y="0.17964723382649944"/>
+      </node>
+      <node id="figure5-0-0-8-3" label="figure5-0-0-8-3@{&quot;x&quot;:-2.5177758735470257,&quot;y&quot;:-0.812898917814822}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.5177758735470257" y="-0.812898917814822"/>
+      </node>
+      <node id="figure5-0-0-9-3" label="figure5-0-0-9-3@{&quot;x&quot;:-1.4754016766894393,&quot;y&quot;:-2.196176197945418}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.4754016766894393" y="-2.196176197945418"/>
+      </node>
+      <node id="figure5-0-0-9-4" label="figure5-0-0-9-4@{&quot;x&quot;:-0.5548968232369994,&quot;y&quot;:-2.5869073264346922}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.5548968232369994" y="-2.5869073264346922"/>
+      </node>
+      <node id="figure5-0-0-10-4" label="figure5-0-0-10-4@{&quot;x&quot;:1.1642435402627351,&quot;y&quot;:-2.3758234317719182}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.1642435402627351" y="-2.3758234317719182"/>
+      </node>
+      <node id="figure5-0-0-10-5" label="figure5-0-0-10-5@{&quot;x&quot;:1.9628790503100277,&quot;y&quot;:-1.77400840861987}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.9628790503100277" y="-1.77400840861987"/>
+      </node>
+      <node id="figure5-0-0-11-5" label="figure5-0-0-11-5@{&quot;x&quot;:2.6396452169521734,&quot;y&quot;:-0.17964723382650086}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.6396452169521734" y="-0.17964723382650086"/>
+      </node>
+      <node id="figure5-0-0-11-6" label="figure5-0-0-11-6@{&quot;x&quot;:2.517775873547026,&quot;y&quot;:0.8128989178148225}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.517775873547026" y="0.8128989178148225"/>
+      </node>
+      <node id="figure5-0-0-12-1" label="figure5-0-0-12-1@{&quot;x&quot;:0.554896823236998,&quot;y&quot;:2.5869073264346927}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.554896823236998" y="2.5869073264346927"/>
+      </node>
+      <node id="figure5-0-0-12-6" label="figure5-0-0-12-6@{&quot;x&quot;:1.4754016766894387,&quot;y&quot;:2.196176197945418}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.4754016766894387" y="2.196176197945418"/>
+      </node>
+      <node id="figure5-0-1-0-1" label="figure5-0-1-0-1@{&quot;x&quot;:0.37387866397663366,&quot;y&quot;:0.9274776248638279}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.37387866397663366" y="0.9274776248638279"/>
+      </node>
+      <node id="figure5-0-1-0-2" label="figure5-0-1-0-2@{&quot;x&quot;:-0.6162798525854115,&quot;y&quot;:0.7875272333686647}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.6162798525854115" y="0.7875272333686647"/>
+      </node>
+      <node id="figure5-0-1-0-3" label="figure5-0-1-0-3@{&quot;x&quot;:-0.9901585165620453,&quot;y&quot;:-0.13995039149516353}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.9901585165620453" y="-0.13995039149516353"/>
+      </node>
+      <node id="figure5-0-1-0-4" label="figure5-0-1-0-4@{&quot;x&quot;:-0.3738786639766338,&quot;y&quot;:-0.9274776248638279}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.3738786639766338" y="-0.9274776248638279"/>
+      </node>
+      <node id="figure5-0-1-0-5" label="figure5-0-1-0-5@{&quot;x&quot;:0.6162798525854113,&quot;y&quot;:-0.7875272333686649}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.6162798525854113" y="-0.7875272333686649"/>
+      </node>
+      <node id="figure5-0-1-0-6" label="figure5-0-1-0-6@{&quot;x&quot;:0.9901585165620455,&quot;y&quot;:0.13995039149516322}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.9901585165620455" y="0.13995039149516322"/>
+      </node>
+      <node id="figure5-0-1-1-1" label="figure5-0-1-1-1@{&quot;x&quot;:0.7477573279532673,&quot;y&quot;:1.8549552497276558}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.7477573279532673" y="1.8549552497276558"/>
+      </node>
+      <node id="figure5-0-1-1-2" label="figure5-0-1-1-2@{&quot;x&quot;:-0.24240118860877788,&quot;y&quot;:1.7150048582324924}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.24240118860877788" y="1.7150048582324924"/>
+      </node>
+      <node id="figure5-0-1-1-6" label="figure5-0-1-1-6@{&quot;x&quot;:1.364037180538679,&quot;y&quot;:1.067428016358991}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.364037180538679" y="1.067428016358991"/>
+      </node>
+      <node id="figure5-0-1-2-2" label="figure5-0-1-2-2@{&quot;x&quot;:-1.232559705170823,&quot;y&quot;:1.5750544667373294}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.232559705170823" y="1.5750544667373294"/>
+      </node>
+      <node id="figure5-0-1-2-3" label="figure5-0-1-2-3@{&quot;x&quot;:-1.6064383691474569,&quot;y&quot;:0.647576841873502}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.6064383691474569" y="0.647576841873502"/>
+      </node>
+      <node id="figure5-0-1-3-3" label="figure5-0-1-3-3@{&quot;x&quot;:-1.9803170331240907,&quot;y&quot;:-0.27990078299032706}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.9803170331240907" y="-0.27990078299032706"/>
+      </node>
+      <node id="figure5-0-1-3-4" label="figure5-0-1-3-4@{&quot;x&quot;:-1.3640371805386788,&quot;y&quot;:-1.067428016358991}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.3640371805386788" y="-1.067428016358991"/>
+      </node>
+      <node id="figure5-0-1-4-4" label="figure5-0-1-4-4@{&quot;x&quot;:-0.7477573279532675,&quot;y&quot;:-1.8549552497276558}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.7477573279532675" y="-1.8549552497276558"/>
+      </node>
+      <node id="figure5-0-1-4-5" label="figure5-0-1-4-5@{&quot;x&quot;:0.2424011886087774,&quot;y&quot;:-1.7150048582324928}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.2424011886087774" y="-1.7150048582324928"/>
+      </node>
+      <node id="figure5-0-1-5-5" label="figure5-0-1-5-5@{&quot;x&quot;:1.2325597051708226,&quot;y&quot;:-1.5750544667373299}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.2325597051708226" y="-1.5750544667373299"/>
+      </node>
+      <node id="figure5-0-1-5-6" label="figure5-0-1-5-6@{&quot;x&quot;:1.606438369147457,&quot;y&quot;:-0.6475768418735018}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.606438369147457" y="-0.6475768418735018"/>
+      </node>
+      <node id="figure5-0-1-6-6" label="figure5-0-1-6-6@{&quot;x&quot;:1.980317033124091,&quot;y&quot;:0.27990078299032645}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.980317033124091" y="0.27990078299032645"/>
+      </node>
+      <node id="figure5-0-1-7-1" label="figure5-0-1-7-1@{&quot;x&quot;:0.13147747536785567,&quot;y&quot;:2.6424824830963205}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.13147747536785567" y="2.6424824830963205"/>
+      </node>
+      <node id="figure5-0-1-7-2" label="figure5-0-1-7-2@{&quot;x&quot;:-0.8586810411941895,&quot;y&quot;:2.5025320916011573}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8586810411941895" y="2.5025320916011573"/>
+      </node>
+      <node id="figure5-0-1-8-2" label="figure5-0-1-8-2@{&quot;x&quot;:-2.222718221732869,&quot;y&quot;:1.4351040752421667}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.222718221732869" y="1.4351040752421667"/>
+      </node>
+      <node id="figure5-0-1-8-3" label="figure5-0-1-8-3@{&quot;x&quot;:-2.5965968857095025,&quot;y&quot;:0.5076264503783382}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.5965968857095025" y="0.5076264503783382"/>
+      </node>
+      <node id="figure5-0-1-9-3" label="figure5-0-1-9-3@{&quot;x&quot;:-2.354195697100725,&quot;y&quot;:-1.2073784078541538}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.354195697100725" y="-1.2073784078541538"/>
+      </node>
+      <node id="figure5-0-1-9-4" label="figure5-0-1-9-4@{&quot;x&quot;:-1.737915844515313,&quot;y&quot;:-1.9949056412228192}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.737915844515313" y="-1.9949056412228192"/>
+      </node>
+      <node id="figure5-0-1-10-4" label="figure5-0-1-10-4@{&quot;x&quot;:-0.13147747536785365,&quot;y&quot;:-2.6424824830963205}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.13147747536785365" y="-2.6424824830963205"/>
+      </node>
+      <node id="figure5-0-1-10-5" label="figure5-0-1-10-5@{&quot;x&quot;:0.8586810411941898,&quot;y&quot;:-2.5025320916011573}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8586810411941898" y="-2.5025320916011573"/>
+      </node>
+      <node id="figure5-0-1-11-5" label="figure5-0-1-11-5@{&quot;x&quot;:2.2227182217328676,&quot;y&quot;:-1.4351040752421673}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.2227182217328676" y="-1.4351040752421673"/>
+      </node>
+      <node id="figure5-0-1-11-6" label="figure5-0-1-11-6@{&quot;x&quot;:2.596596885709503,&quot;y&quot;:-0.5076264503783385}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.596596885709503" y="-0.5076264503783385"/>
+      </node>
+      <node id="figure5-0-1-12-1" label="figure5-0-1-12-1@{&quot;x&quot;:1.7379158445153131,&quot;y&quot;:1.994905641222819}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.7379158445153131" y="1.994905641222819"/>
+      </node>
+      <node id="figure5-0-1-12-6" label="figure5-0-1-12-6@{&quot;x&quot;:2.3541956971007254,&quot;y&quot;:1.2073784078541543}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.3541956971007254" y="1.2073784078541543"/>
+      </node>
+      <node id="figure5-1-0-0-0" label="origin-H (figure5-1-0-0-0)@{&quot;x&quot;:0.24999875591864296,&quot;y&quot;:-0.0007886945738460504}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.24999875591864296" y="-0.0007886945738460504"/>
+      </node>
+      <node id="figure5-1-0-0-1" label="figure5-1-0-0-1@{&quot;x&quot;:0.3781281684321383,&quot;y&quot;:0.9909687624936296}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.3781281684321383" y="0.9909687624936296"/>
+      </node>
+      <node id="figure5-1-0-0-2" label="figure5-1-0-0-2@{&quot;x&quot;:-0.5448236900376981,&quot;y&quot;:0.6060533601685552}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.5448236900376981" y="0.6060533601685552"/>
+      </node>
+      <node id="figure5-1-0-0-3" label="figure5-1-0-0-3@{&quot;x&quot;:-0.6729531025511938,&quot;y&quot;:-0.3857040968989209}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.6729531025511938" y="-0.3857040968989209"/>
+      </node>
+      <node id="figure5-1-0-0-5" label="figure5-1-0-0-5@{&quot;x&quot;:1.044821201874984,&quot;y&quot;:-0.6076307493162473}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.044821201874984" y="-0.6076307493162473"/>
+      </node>
+      <node id="figure5-1-0-0-6" label="figure5-1-0-0-6@{&quot;x&quot;:1.1729506143884798,&quot;y&quot;:0.38412670775122915}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.1729506143884798" y="0.38412670775122915"/>
+      </node>
+      <node id="figure5-1-0-1-1" label="figure5-1-0-1-1@{&quot;x&quot;:0.506257580945634,&quot;y&quot;:1.9827262195611055}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.506257580945634" y="1.9827262195611055"/>
+      </node>
+      <node id="figure5-1-0-1-2" label="figure5-1-0-1-2@{&quot;x&quot;:-0.4166942775242028,&quot;y&quot;:1.5978108172360308}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.4166942775242028" y="1.5978108172360308"/>
+      </node>
+      <node id="figure5-1-0-1-6" label="B' (figure5-1-0-1-6)@{&quot;x&quot;:1.3010800269019753,&quot;y&quot;:1.375884164818705}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.3010800269019753" y="1.375884164818705"/>
+      </node>
+      <node id="figure5-1-0-2-2" label="figure5-1-0-2-2@{&quot;x&quot;:-1.339646135994039,&quot;y&quot;:1.2128954149109563}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.339646135994039" y="1.2128954149109563"/>
+      </node>
+      <node id="figure5-1-0-2-3" label="figure5-1-0-2-3@{&quot;x&quot;:-1.4677755485075343,&quot;y&quot;:0.22113795784347945}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.4677755485075343" y="0.22113795784347945"/>
+      </node>
+      <node id="figure5-1-0-3-3" label="figure5-1-0-3-3@{&quot;x&quot;:-1.5959049610210305,&quot;y&quot;:-0.7706194992239969}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.5959049610210305" y="-0.7706194992239969"/>
+      </node>
+      <node id="figure5-1-0-3-4" label="figure5-1-0-3-4@{&quot;x&quot;:-0.8010825150646893,&quot;y&quot;:-1.377461553966397}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.8010825150646893" y="-1.377461553966397"/>
+      </node>
+      <node id="figure5-1-0-4-4" label="figure5-1-0-4-4@{&quot;x&quot;:-0.006260069108347631,&quot;y&quot;:-1.9843036087087982}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.006260069108347631" y="-1.9843036087087982"/>
+      </node>
+      <node id="figure5-1-0-4-5" label="figure5-1-0-4-5@{&quot;x&quot;:0.9166917893614878,&quot;y&quot;:-1.5993882063837235}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.9166917893614878" y="-1.5993882063837235"/>
+      </node>
+      <node id="figure5-1-0-5-5" label="figure5-1-0-5-5@{&quot;x&quot;:1.839643647831325,&quot;y&quot;:-1.2144728040586492}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.839643647831325" y="-1.2144728040586492"/>
+      </node>
+      <node id="figure5-1-0-5-6" label="figure5-1-0-5-6@{&quot;x&quot;:1.9677730603448207,&quot;y&quot;:-0.22271534699117254}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.9677730603448207" y="-0.22271534699117254"/>
+      </node>
+      <node id="figure5-1-0-6-6" label="figure5-1-0-6-6@{&quot;x&quot;:2.095902472858316,&quot;y&quot;:0.7690421100763043}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.095902472858316" y="0.7690421100763043"/>
+      </node>
+      <node id="figure5-1-0-7-1" label="figure5-1-0-7-1@{&quot;x&quot;:-0.2885648650107071,&quot;y&quot;:2.589568274303507}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.2885648650107071" y="2.589568274303507"/>
+      </node>
+      <node id="figure5-1-0-7-2" label="figure5-1-0-7-2@{&quot;x&quot;:-1.2115167234805435,&quot;y&quot;:2.2046528719784315}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.2115167234805435" y="2.2046528719784315"/>
+      </node>
+      <node id="figure5-1-0-8-2" label="figure5-1-0-8-2@{&quot;x&quot;:-2.262597994463877,&quot;y&quot;:0.8279800125858807}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.262597994463877" y="0.8279800125858807"/>
+      </node>
+      <node id="figure5-1-0-8-3" label="figure5-1-0-8-3@{&quot;x&quot;:-2.3907274069773723,&quot;y&quot;:-0.16377744448159545}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.3907274069773723" y="-0.16377744448159545"/>
+      </node>
+      <node id="figure5-1-0-9-3" label="figure5-1-0-9-3@{&quot;x&quot;:-1.7240343735345258,&quot;y&quot;:-1.7623769562914722}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.7240343735345258" y="-1.7623769562914722"/>
+      </node>
+      <node id="figure5-1-0-9-4" label="figure5-1-0-9-4@{&quot;x&quot;:-0.9292119275781855,&quot;y&quot;:-2.369219011033873}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.9292119275781855" y="-2.369219011033873"/>
+      </node>
+      <node id="figure5-1-0-10-4" label="figure5-1-0-10-4@{&quot;x&quot;:0.7885623768479929,&quot;y&quot;:-2.5911456634511993}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.7885623768479929" y="-2.5911456634511993"/>
+      </node>
+      <node id="figure5-1-0-10-5" label="figure5-1-0-10-5@{&quot;x&quot;:1.7115142353178292,&quot;y&quot;:-2.206230261126125}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.7115142353178292" y="-2.206230261126125"/>
+      </node>
+      <node id="figure5-1-0-11-5" label="figure5-1-0-11-5@{&quot;x&quot;:2.762595506301162,&quot;y&quot;:-0.8295574017335734}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.762595506301162" y="-0.8295574017335734"/>
+      </node>
+      <node id="figure5-1-0-11-6" label="figure5-1-0-11-6@{&quot;x&quot;:2.8907249188146573,&quot;y&quot;:0.16220005533390203}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.8907249188146573" y="0.16220005533390203"/>
+      </node>
+      <node id="figure5-1-0-12-1" label="figure5-1-0-12-1@{&quot;x&quot;:1.4292094394154706,&quot;y&quot;:2.3676416218861807}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.4292094394154706" y="2.3676416218861807"/>
+      </node>
+      <node id="figure5-1-0-12-6" label="figure5-1-0-12-6@{&quot;x&quot;:2.224031885371812,&quot;y&quot;:1.76079956714378}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.224031885371812" y="1.76079956714378"/>
+      </node>
+      <node id="figure5-1-1-0-1" label="figure5-1-1-0-1@{&quot;x&quot;:0.8422445062053705,&quot;y&quot;:0.8049686952571818}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.8422445062053705" y="0.8049686952571818"/>
+      </node>
+      <node id="figure5-1-1-0-2" label="figure5-1-1-0-2@{&quot;x&quot;:-0.15168473781870465,&quot;y&quot;:0.9149898653733489}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.15168473781870465" y="0.9149898653733489"/>
+      </node>
+      <node id="figure5-1-1-0-3" label="figure5-1-1-0-3@{&quot;x&quot;:-0.743930488105432,&quot;y&quot;:0.10923247554232057}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.743930488105432" y="0.10923247554232057"/>
+      </node>
+      <node id="figure5-1-1-0-4" label="figure5-1-1-0-4@{&quot;x&quot;:-0.34224699436808403,&quot;y&quot;:-0.8065460844048744}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.34224699436808403" y="-0.8065460844048744"/>
+      </node>
+      <node id="figure5-1-1-0-5" label="figure5-1-1-0-5@{&quot;x&quot;:0.6516822496559902,&quot;y&quot;:-0.9165672545210412}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.6516822496559902" y="-0.9165672545210412"/>
+      </node>
+      <node id="figure5-1-1-0-6" label="figure5-1-1-0-6@{&quot;x&quot;:1.2439279999427182,&quot;y&quot;:-0.11080986469001328}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.2439279999427182" y="-0.11080986469001328"/>
+      </node>
+      <node id="figure5-1-1-1-1" label="figure5-1-1-1-1@{&quot;x&quot;:1.4344902564920983,&quot;y&quot;:1.6107260850882095}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.4344902564920983" y="1.6107260850882095"/>
+      </node>
+      <node id="figure5-1-1-1-2" label="figure5-1-1-1-2@{&quot;x&quot;:0.4405610124680232,&quot;y&quot;:1.7207472552043768}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.4405610124680232" y="1.7207472552043768"/>
+      </node>
+      <node id="figure5-1-1-1-6" label="figure5-1-1-1-6@{&quot;x&quot;:1.8361737502294455,&quot;y&quot;:0.6949475251410147}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.8361737502294455" y="0.6949475251410147"/>
+      </node>
+      <node id="figure5-1-1-2-2" label="figure5-1-1-2-2@{&quot;x&quot;:-0.5533682315560519,&quot;y&quot;:1.830768425320544}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.5533682315560519" y="1.830768425320544"/>
+      </node>
+      <node id="figure5-1-1-2-3" label="figure5-1-1-2-3@{&quot;x&quot;:-1.1456139818427793,&quot;y&quot;:1.0250110354895166}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.1456139818427793" y="1.0250110354895166"/>
+      </node>
+      <node id="figure5-1-1-3-3" label="figure5-1-1-3-3@{&quot;x&quot;:-1.7378597321295073,&quot;y&quot;:0.21925364565848762}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.7378597321295073" y="0.21925364565848762"/>
+      </node>
+      <node id="figure5-1-1-3-4" label="figure5-1-1-3-4@{&quot;x&quot;:-1.3361762383921598,&quot;y&quot;:-0.6965249142887072}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.3361762383921598" y="-0.6965249142887072"/>
+      </node>
+      <node id="figure5-1-1-4-4" label="figure5-1-1-4-4@{&quot;x&quot;:-0.9344927446548124,&quot;y&quot;:-1.612303474235902}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.9344927446548124" y="-1.612303474235902"/>
+      </node>
+      <node id="figure5-1-1-4-5" label="figure5-1-1-4-5@{&quot;x&quot;:0.05943649936926132,&quot;y&quot;:-1.7223246443520694}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.05943649936926132" y="-1.7223246443520694"/>
+      </node>
+      <node id="figure5-1-1-5-5" label="figure5-1-1-5-5@{&quot;x&quot;:1.053365743393337,&quot;y&quot;:-1.8323458144682367}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.053365743393337" y="-1.8323458144682367"/>
+      </node>
+      <node id="figure5-1-1-5-6" label="figure5-1-1-5-6@{&quot;x&quot;:1.6456114936800654,&quot;y&quot;:-1.0265884246372083}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.6456114936800654" y="-1.0265884246372083"/>
+      </node>
+      <node id="figure5-1-1-6-6" label="figure5-1-1-6-6@{&quot;x&quot;:2.237857243966794,&quot;y&quot;:-0.2208310348061802}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.237857243966794" y="-0.2208310348061802"/>
+      </node>
+      <node id="figure5-1-1-7-1" label="figure5-1-1-7-1@{&quot;x&quot;:1.0328067627547501,&quot;y&quot;:2.5265046450354047}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="1.0328067627547501" y="2.5265046450354047"/>
+      </node>
+      <node id="figure5-1-1-7-2" label="figure5-1-1-7-2@{&quot;x&quot;:0.03887751873067585,&quot;y&quot;:2.6365258151515722}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.03887751873067585" y="2.6365258151515722"/>
+      </node>
+      <node id="figure5-1-1-8-2" label="figure5-1-1-8-2@{&quot;x&quot;:-1.5472974755801272,&quot;y&quot;:1.940789595436712}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.5472974755801272" y="1.940789595436712"/>
+      </node>
+      <node id="figure5-1-1-8-3" label="figure5-1-1-8-3@{&quot;x&quot;:-2.1395432258668547,&quot;y&quot;:1.1350322056056823}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.1395432258668547" y="1.1350322056056823"/>
+      </node>
+      <node id="figure5-1-1-9-3" label="figure5-1-1-9-3@{&quot;x&quot;:-2.3301054824162355,&quot;y&quot;:-0.5865037441725397}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-2.3301054824162355" y="-0.5865037441725397"/>
+      </node>
+      <node id="figure5-1-1-9-4" label="figure5-1-1-9-4@{&quot;x&quot;:-1.9284219886788871,&quot;y&quot;:-1.5022823041197348}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-1.9284219886788871" y="-1.5022823041197348"/>
+      </node>
+      <node id="figure5-1-1-10-4" label="figure5-1-1-10-4@{&quot;x&quot;:-0.5328092509174635,&quot;y&quot;:-2.5280820341830976}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="-0.5328092509174635" y="-2.5280820341830976"/>
+      </node>
+      <node id="figure5-1-1-10-5" label="figure5-1-1-10-5@{&quot;x&quot;:0.4611199931066104,&quot;y&quot;:-2.6381032042992643}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="0.4611199931066104" y="-2.6381032042992643"/>
+      </node>
+      <node id="figure5-1-1-11-5" label="figure5-1-1-11-5@{&quot;x&quot;:2.047294987417411,&quot;y&quot;:-1.9423669845844043}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.047294987417411" y="-1.9423669845844043"/>
+      </node>
+      <node id="figure5-1-1-11-6" label="figure5-1-1-11-6@{&quot;x&quot;:2.639540737704141,&quot;y&quot;:-1.1366095947533752}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.639540737704141" y="-1.1366095947533752"/>
+      </node>
+      <node id="figure5-1-1-12-1" label="figure5-1-1-12-1@{&quot;x&quot;:2.4284195005161737,&quot;y&quot;:1.5007049149720435}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.4284195005161737" y="1.5007049149720435"/>
+      </node>
+      <node id="figure5-1-1-12-6" label="figure5-1-1-12-6@{&quot;x&quot;:2.8301029942535214,&quot;y&quot;:0.5849263550248477}">
+        <viz:color/>
+        <viz:size value="5"/>
+        <viz:position x="2.8301029942535214" y="0.5849263550248477"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_10_0" source="figure5-0-0-0-0" target="figure5-0-0-0-1"/>
+      <edge id="geid_10_1" source="figure5-0-0-0-0" target="figure5-0-0-0-2"/>
+      <edge id="geid_10_2" source="figure5-0-0-0-0" target="figure5-0-0-0-3"/>
+      <edge id="geid_10_3" source="figure5-0-0-0-0" target="figure5-0-0-0-4"/>
+      <edge id="geid_10_4" source="figure5-0-0-0-0" target="figure5-0-0-0-5"/>
+      <edge id="geid_10_5" source="figure5-0-0-0-0" target="figure5-0-0-0-6"/>
+      <edge id="geid_10_6" source="figure5-0-0-0-0" target="figure5-0-1-0-1"/>
+      <edge id="geid_10_7" source="figure5-0-0-0-0" target="figure5-0-1-0-2"/>
+      <edge id="geid_10_8" source="figure5-0-0-0-0" target="figure5-0-1-0-3"/>
+      <edge id="geid_10_9" source="figure5-0-0-0-0" target="figure5-0-1-0-4"/>
+      <edge id="geid_10_10" source="figure5-0-0-0-0" target="figure5-0-1-0-5"/>
+      <edge id="geid_10_11" source="figure5-0-0-0-0" target="figure5-0-1-0-6"/>
+      <edge id="geid_10_12" source="figure5-0-0-0-1" target="figure5-0-0-0-2"/>
+      <edge id="geid_10_13" source="figure5-0-0-0-1" target="figure5-0-0-0-6"/>
+      <edge id="geid_10_14" source="figure5-0-0-0-1" target="figure5-0-0-1-1"/>
+      <edge id="geid_10_15" source="figure5-0-0-0-1" target="figure5-0-0-1-2"/>
+      <edge id="geid_10_16" source="figure5-0-0-0-1" target="figure5-0-0-1-6"/>
+      <edge id="geid_10_17" source="figure5-0-0-0-2" target="figure5-0-0-0-3"/>
+      <edge id="geid_10_18" source="figure5-0-0-0-2" target="figure5-0-0-1-2"/>
+      <edge id="geid_10_19" source="figure5-0-0-0-2" target="figure5-0-0-2-2"/>
+      <edge id="geid_10_20" source="figure5-0-0-0-2" target="figure5-0-0-2-3"/>
+      <edge id="geid_10_21" source="figure5-0-0-0-3" target="figure5-0-0-0-4"/>
+      <edge id="geid_10_22" source="figure5-0-0-0-3" target="figure5-0-0-2-3"/>
+      <edge id="geid_10_23" source="figure5-0-0-0-3" target="figure5-0-0-3-3"/>
+      <edge id="geid_10_24" source="figure5-0-0-0-3" target="figure5-0-0-3-4"/>
+      <edge id="geid_10_25" source="figure5-0-0-0-4" target="figure5-0-0-0-5"/>
+      <edge id="geid_10_26" source="figure5-0-0-0-4" target="figure5-0-0-3-4"/>
+      <edge id="geid_10_27" source="figure5-0-0-0-4" target="figure5-0-0-4-4"/>
+      <edge id="geid_10_28" source="figure5-0-0-0-4" target="figure5-0-0-4-5"/>
+      <edge id="geid_10_29" source="figure5-0-0-0-4" target="figure5-1-0-0-0"/>
+      <edge id="geid_10_30" source="figure5-0-0-0-4" target="figure5-1-0-0-3"/>
+      <edge id="geid_10_31" source="figure5-0-0-0-4" target="figure5-1-0-0-5"/>
+      <edge id="geid_10_32" source="figure5-0-0-0-4" target="figure5-1-0-3-4"/>
+      <edge id="geid_10_33" source="figure5-0-0-0-4" target="figure5-1-0-4-4"/>
+      <edge id="geid_10_34" source="figure5-0-0-0-4" target="figure5-1-0-4-5"/>
+      <edge id="geid_10_35" source="figure5-0-0-0-5" target="figure5-0-0-0-6"/>
+      <edge id="geid_10_36" source="figure5-0-0-0-5" target="figure5-0-0-4-5"/>
+      <edge id="geid_10_37" source="figure5-0-0-0-5" target="figure5-0-0-5-5"/>
+      <edge id="geid_10_38" source="figure5-0-0-0-5" target="figure5-0-0-5-6"/>
+      <edge id="geid_10_39" source="figure5-0-0-0-6" target="figure5-0-0-1-6"/>
+      <edge id="geid_10_40" source="figure5-0-0-0-6" target="figure5-0-0-5-6"/>
+      <edge id="geid_10_41" source="figure5-0-0-0-6" target="figure5-0-0-6-6"/>
+      <edge id="geid_10_42" source="figure5-0-0-1-1" target="figure5-0-0-1-2"/>
+      <edge id="geid_10_43" source="figure5-0-0-1-1" target="figure5-0-0-1-6"/>
+      <edge id="geid_10_44" source="figure5-0-0-1-1" target="figure5-0-0-7-1"/>
+      <edge id="geid_10_45" source="figure5-0-0-1-1" target="figure5-0-0-12-1"/>
+      <edge id="geid_10_46" source="figure5-0-0-1-1" target="figure5-0-1-1-1"/>
+      <edge id="geid_10_47" source="figure5-0-0-1-2" target="figure5-0-0-2-2"/>
+      <edge id="geid_10_48" source="figure5-0-0-1-2" target="figure5-0-0-7-1"/>
+      <edge id="geid_10_49" source="figure5-0-0-1-2" target="figure5-0-0-7-2"/>
+      <edge id="geid_10_50" source="figure5-0-0-1-6" target="figure5-0-0-6-6"/>
+      <edge id="geid_10_51" source="figure5-0-0-1-6" target="figure5-0-0-12-1"/>
+      <edge id="geid_10_52" source="figure5-0-0-1-6" target="figure5-0-0-12-6"/>
+      <edge id="geid_10_53" source="figure5-0-0-2-2" target="figure5-0-0-2-3"/>
+      <edge id="geid_10_54" source="figure5-0-0-2-2" target="figure5-0-0-7-2"/>
+      <edge id="geid_10_55" source="figure5-0-0-2-2" target="figure5-0-0-8-2"/>
+      <edge id="geid_10_56" source="figure5-0-0-2-2" target="figure5-0-1-2-2"/>
+      <edge id="geid_10_57" source="figure5-0-0-2-3" target="figure5-0-0-3-3"/>
+      <edge id="geid_10_58" source="figure5-0-0-2-3" target="figure5-0-0-8-2"/>
+      <edge id="geid_10_59" source="figure5-0-0-2-3" target="figure5-0-0-8-3"/>
+      <edge id="geid_10_60" source="figure5-0-0-3-3" target="figure5-0-0-3-4"/>
+      <edge id="geid_10_61" source="figure5-0-0-3-3" target="figure5-0-0-8-3"/>
+      <edge id="geid_10_62" source="figure5-0-0-3-3" target="figure5-0-0-9-3"/>
+      <edge id="geid_10_63" source="figure5-0-0-3-3" target="figure5-0-1-3-3"/>
+      <edge id="geid_10_64" source="figure5-0-0-3-4" target="figure5-0-0-4-4"/>
+      <edge id="geid_10_65" source="figure5-0-0-3-4" target="figure5-0-0-9-3"/>
+      <edge id="geid_10_66" source="figure5-0-0-3-4" target="figure5-0-0-9-4"/>
+      <edge id="geid_10_67" source="figure5-0-0-4-4" target="figure5-0-0-4-5"/>
+      <edge id="geid_10_68" source="figure5-0-0-4-4" target="figure5-0-0-9-4"/>
+      <edge id="geid_10_69" source="figure5-0-0-4-4" target="figure5-0-0-10-4"/>
+      <edge id="geid_10_70" source="figure5-0-0-4-4" target="figure5-0-1-4-4"/>
+      <edge id="geid_10_71" source="figure5-0-0-4-5" target="figure5-0-0-5-5"/>
+      <edge id="geid_10_72" source="figure5-0-0-4-5" target="figure5-0-0-10-4"/>
+      <edge id="geid_10_73" source="figure5-0-0-4-5" target="figure5-0-0-10-5"/>
+      <edge id="geid_10_74" source="figure5-0-0-5-5" target="figure5-0-0-5-6"/>
+      <edge id="geid_10_75" source="figure5-0-0-5-5" target="figure5-0-0-10-5"/>
+      <edge id="geid_10_76" source="figure5-0-0-5-5" target="figure5-0-0-11-5"/>
+      <edge id="geid_10_77" source="figure5-0-0-5-5" target="figure5-0-1-5-5"/>
+      <edge id="geid_10_78" source="figure5-0-0-5-6" target="figure5-0-0-6-6"/>
+      <edge id="geid_10_79" source="figure5-0-0-5-6" target="figure5-0-0-11-5"/>
+      <edge id="geid_10_80" source="figure5-0-0-5-6" target="figure5-0-0-11-6"/>
+      <edge id="geid_10_81" source="figure5-0-0-6-6" target="figure5-0-0-11-6"/>
+      <edge id="geid_10_82" source="figure5-0-0-6-6" target="figure5-0-0-12-6"/>
+      <edge id="geid_10_83" source="figure5-0-0-6-6" target="figure5-0-1-6-6"/>
+      <edge id="geid_10_84" source="figure5-0-0-7-1" target="figure5-0-0-7-2"/>
+      <edge id="geid_10_85" source="figure5-0-0-8-2" target="figure5-0-0-8-3"/>
+      <edge id="geid_10_86" source="figure5-0-0-9-3" target="figure5-0-0-9-4"/>
+      <edge id="geid_10_87" source="figure5-0-0-10-4" target="figure5-0-0-10-5"/>
+      <edge id="geid_10_88" source="figure5-0-0-11-5" target="figure5-0-0-11-6"/>
+      <edge id="geid_10_89" source="figure5-0-0-12-1" target="figure5-0-0-12-6"/>
+      <edge id="geid_10_90" source="figure5-0-1-0-1" target="figure5-0-1-0-2"/>
+      <edge id="geid_10_91" source="figure5-0-1-0-1" target="figure5-0-1-0-6"/>
+      <edge id="geid_10_92" source="figure5-0-1-0-1" target="figure5-0-1-1-1"/>
+      <edge id="geid_10_93" source="figure5-0-1-0-1" target="figure5-0-1-1-2"/>
+      <edge id="geid_10_94" source="figure5-0-1-0-1" target="figure5-0-1-1-6"/>
+      <edge id="geid_10_95" source="figure5-0-1-0-2" target="figure5-0-1-0-3"/>
+      <edge id="geid_10_96" source="figure5-0-1-0-2" target="figure5-0-1-1-2"/>
+      <edge id="geid_10_97" source="figure5-0-1-0-2" target="figure5-0-1-2-2"/>
+      <edge id="geid_10_98" source="figure5-0-1-0-2" target="figure5-0-1-2-3"/>
+      <edge id="geid_10_99" source="figure5-0-1-0-3" target="figure5-0-1-0-4"/>
+      <edge id="geid_10_100" source="figure5-0-1-0-3" target="figure5-0-1-2-3"/>
+      <edge id="geid_10_101" source="figure5-0-1-0-3" target="figure5-0-1-3-3"/>
+      <edge id="geid_10_102" source="figure5-0-1-0-3" target="figure5-0-1-3-4"/>
+      <edge id="geid_10_103" source="figure5-0-1-0-4" target="figure5-0-1-0-5"/>
+      <edge id="geid_10_104" source="figure5-0-1-0-4" target="figure5-0-1-3-4"/>
+      <edge id="geid_10_105" source="figure5-0-1-0-4" target="figure5-0-1-4-4"/>
+      <edge id="geid_10_106" source="figure5-0-1-0-4" target="figure5-0-1-4-5"/>
+      <edge id="geid_10_107" source="figure5-0-1-0-5" target="figure5-0-1-0-6"/>
+      <edge id="geid_10_108" source="figure5-0-1-0-5" target="figure5-0-1-4-5"/>
+      <edge id="geid_10_109" source="figure5-0-1-0-5" target="figure5-0-1-5-5"/>
+      <edge id="geid_10_110" source="figure5-0-1-0-5" target="figure5-0-1-5-6"/>
+      <edge id="geid_10_111" source="figure5-0-1-0-6" target="figure5-0-1-1-6"/>
+      <edge id="geid_10_112" source="figure5-0-1-0-6" target="figure5-0-1-5-6"/>
+      <edge id="geid_10_113" source="figure5-0-1-0-6" target="figure5-0-1-6-6"/>
+      <edge id="geid_10_114" source="figure5-0-1-1-1" target="figure5-0-1-1-2"/>
+      <edge id="geid_10_115" source="figure5-0-1-1-1" target="figure5-0-1-1-6"/>
+      <edge id="geid_10_116" source="figure5-0-1-1-1" target="figure5-0-1-7-1"/>
+      <edge id="geid_10_117" source="figure5-0-1-1-1" target="figure5-0-1-12-1"/>
+      <edge id="geid_10_118" source="figure5-0-1-1-2" target="figure5-0-1-2-2"/>
+      <edge id="geid_10_119" source="figure5-0-1-1-2" target="figure5-0-1-7-1"/>
+      <edge id="geid_10_120" source="figure5-0-1-1-2" target="figure5-0-1-7-2"/>
+      <edge id="geid_10_121" source="figure5-0-1-1-6" target="figure5-0-1-6-6"/>
+      <edge id="geid_10_122" source="figure5-0-1-1-6" target="figure5-0-1-12-1"/>
+      <edge id="geid_10_123" source="figure5-0-1-1-6" target="figure5-0-1-12-6"/>
+      <edge id="geid_10_124" source="figure5-0-1-2-2" target="figure5-0-1-2-3"/>
+      <edge id="geid_10_125" source="figure5-0-1-2-2" target="figure5-0-1-7-2"/>
+      <edge id="geid_10_126" source="figure5-0-1-2-2" target="figure5-0-1-8-2"/>
+      <edge id="geid_10_127" source="figure5-0-1-2-3" target="figure5-0-1-3-3"/>
+      <edge id="geid_10_128" source="figure5-0-1-2-3" target="figure5-0-1-8-2"/>
+      <edge id="geid_10_129" source="figure5-0-1-2-3" target="figure5-0-1-8-3"/>
+      <edge id="geid_10_130" source="figure5-0-1-3-3" target="figure5-0-1-3-4"/>
+      <edge id="geid_10_131" source="figure5-0-1-3-3" target="figure5-0-1-8-3"/>
+      <edge id="geid_10_132" source="figure5-0-1-3-3" target="figure5-0-1-9-3"/>
+      <edge id="geid_10_133" source="figure5-0-1-3-4" target="figure5-0-1-4-4"/>
+      <edge id="geid_10_134" source="figure5-0-1-3-4" target="figure5-0-1-9-3"/>
+      <edge id="geid_10_135" source="figure5-0-1-3-4" target="figure5-0-1-9-4"/>
+      <edge id="geid_10_136" source="figure5-0-1-4-4" target="figure5-0-1-4-5"/>
+      <edge id="geid_10_137" source="figure5-0-1-4-4" target="figure5-0-1-9-4"/>
+      <edge id="geid_10_138" source="figure5-0-1-4-4" target="figure5-0-1-10-4"/>
+      <edge id="geid_10_139" source="figure5-0-1-4-5" target="figure5-0-1-5-5"/>
+      <edge id="geid_10_140" source="figure5-0-1-4-5" target="figure5-0-1-10-4"/>
+      <edge id="geid_10_141" source="figure5-0-1-4-5" target="figure5-0-1-10-5"/>
+      <edge id="geid_10_142" source="figure5-0-1-5-5" target="figure5-0-1-5-6"/>
+      <edge id="geid_10_143" source="figure5-0-1-5-5" target="figure5-0-1-10-5"/>
+      <edge id="geid_10_144" source="figure5-0-1-5-5" target="figure5-0-1-11-5"/>
+      <edge id="geid_10_145" source="figure5-0-1-5-6" target="figure5-0-1-6-6"/>
+      <edge id="geid_10_146" source="figure5-0-1-5-6" target="figure5-0-1-11-5"/>
+      <edge id="geid_10_147" source="figure5-0-1-5-6" target="figure5-0-1-11-6"/>
+      <edge id="geid_10_148" source="figure5-0-1-6-6" target="figure5-0-1-11-6"/>
+      <edge id="geid_10_149" source="figure5-0-1-6-6" target="figure5-0-1-12-6"/>
+      <edge id="geid_10_150" source="figure5-0-1-7-1" target="figure5-0-1-7-2"/>
+      <edge id="geid_10_151" source="figure5-0-1-8-2" target="figure5-0-1-8-3"/>
+      <edge id="geid_10_152" source="figure5-0-1-9-3" target="figure5-0-1-9-4"/>
+      <edge id="geid_10_153" source="figure5-0-1-10-4" target="figure5-0-1-10-5"/>
+      <edge id="geid_10_154" source="figure5-0-1-11-5" target="figure5-0-1-11-6"/>
+      <edge id="geid_10_155" source="figure5-0-1-12-1" target="figure5-0-1-12-6"/>
+      <edge id="geid_10_156" source="figure5-1-0-0-0" target="figure5-1-0-0-1"/>
+      <edge id="geid_10_157" source="figure5-1-0-0-0" target="figure5-1-0-0-2"/>
+      <edge id="geid_10_158" source="figure5-1-0-0-0" target="figure5-1-0-0-3"/>
+      <edge id="geid_10_159" source="figure5-1-0-0-0" target="figure5-1-0-0-5"/>
+      <edge id="geid_10_160" source="figure5-1-0-0-0" target="figure5-1-0-0-6"/>
+      <edge id="geid_10_161" source="figure5-1-0-0-0" target="figure5-1-1-0-1"/>
+      <edge id="geid_10_162" source="figure5-1-0-0-0" target="figure5-1-1-0-2"/>
+      <edge id="geid_10_163" source="figure5-1-0-0-0" target="figure5-1-1-0-3"/>
+      <edge id="geid_10_164" source="figure5-1-0-0-0" target="figure5-1-1-0-4"/>
+      <edge id="geid_10_165" source="figure5-1-0-0-0" target="figure5-1-1-0-5"/>
+      <edge id="geid_10_166" source="figure5-1-0-0-0" target="figure5-1-1-0-6"/>
+      <edge id="geid_10_167" source="figure5-1-0-0-1" target="figure5-1-0-0-2"/>
+      <edge id="geid_10_168" source="figure5-1-0-0-1" target="figure5-1-0-0-6"/>
+      <edge id="geid_10_169" source="figure5-1-0-0-1" target="figure5-1-0-1-1"/>
+      <edge id="geid_10_170" source="figure5-1-0-0-1" target="figure5-1-0-1-2"/>
+      <edge id="geid_10_171" source="figure5-1-0-0-1" target="figure5-1-0-1-6"/>
+      <edge id="geid_10_172" source="figure5-1-0-0-2" target="figure5-1-0-0-3"/>
+      <edge id="geid_10_173" source="figure5-1-0-0-2" target="figure5-1-0-1-2"/>
+      <edge id="geid_10_174" source="figure5-1-0-0-2" target="figure5-1-0-2-2"/>
+      <edge id="geid_10_175" source="figure5-1-0-0-2" target="figure5-1-0-2-3"/>
+      <edge id="geid_10_176" source="figure5-1-0-0-3" target="figure5-1-0-2-3"/>
+      <edge id="geid_10_177" source="figure5-1-0-0-3" target="figure5-1-0-3-3"/>
+      <edge id="geid_10_178" source="figure5-1-0-0-3" target="figure5-1-0-3-4"/>
+      <edge id="geid_10_179" source="figure5-1-0-0-5" target="figure5-1-0-0-6"/>
+      <edge id="geid_10_180" source="figure5-1-0-0-5" target="figure5-1-0-4-5"/>
+      <edge id="geid_10_181" source="figure5-1-0-0-5" target="figure5-1-0-5-5"/>
+      <edge id="geid_10_182" source="figure5-1-0-0-5" target="figure5-1-0-5-6"/>
+      <edge id="geid_10_183" source="figure5-1-0-0-6" target="figure5-1-0-1-6"/>
+      <edge id="geid_10_184" source="figure5-1-0-0-6" target="figure5-1-0-5-6"/>
+      <edge id="geid_10_185" source="figure5-1-0-0-6" target="figure5-1-0-6-6"/>
+      <edge id="geid_10_186" source="figure5-1-0-1-1" target="figure5-1-0-1-2"/>
+      <edge id="geid_10_187" source="figure5-1-0-1-1" target="figure5-1-0-1-6"/>
+      <edge id="geid_10_188" source="figure5-1-0-1-1" target="figure5-1-0-7-1"/>
+      <edge id="geid_10_189" source="figure5-1-0-1-1" target="figure5-1-0-12-1"/>
+      <edge id="geid_10_190" source="figure5-1-0-1-1" target="figure5-1-1-1-1"/>
+      <edge id="geid_10_191" source="figure5-1-0-1-2" target="figure5-1-0-2-2"/>
+      <edge id="geid_10_192" source="figure5-1-0-1-2" target="figure5-1-0-7-1"/>
+      <edge id="geid_10_193" source="figure5-1-0-1-2" target="figure5-1-0-7-2"/>
+      <edge id="geid_10_194" source="figure5-1-0-1-6" target="figure5-1-0-6-6"/>
+      <edge id="geid_10_195" source="figure5-1-0-1-6" target="figure5-1-0-12-1"/>
+      <edge id="geid_10_196" source="figure5-1-0-1-6" target="figure5-1-0-12-6"/>
+      <edge id="geid_10_197" source="figure5-1-0-2-2" target="figure5-1-0-2-3"/>
+      <edge id="geid_10_198" source="figure5-1-0-2-2" target="figure5-1-0-7-2"/>
+      <edge id="geid_10_199" source="figure5-1-0-2-2" target="figure5-1-0-8-2"/>
+      <edge id="geid_10_200" source="figure5-1-0-2-2" target="figure5-1-1-2-2"/>
+      <edge id="geid_10_201" source="figure5-1-0-2-3" target="figure5-1-0-3-3"/>
+      <edge id="geid_10_202" source="figure5-1-0-2-3" target="figure5-1-0-8-2"/>
+      <edge id="geid_10_203" source="figure5-1-0-2-3" target="figure5-1-0-8-3"/>
+      <edge id="geid_10_204" source="figure5-1-0-3-3" target="figure5-1-0-3-4"/>
+      <edge id="geid_10_205" source="figure5-1-0-3-3" target="figure5-1-0-8-3"/>
+      <edge id="geid_10_206" source="figure5-1-0-3-3" target="figure5-1-0-9-3"/>
+      <edge id="geid_10_207" source="figure5-1-0-3-3" target="figure5-1-1-3-3"/>
+      <edge id="geid_10_208" source="figure5-1-0-3-4" target="figure5-1-0-4-4"/>
+      <edge id="geid_10_209" source="figure5-1-0-3-4" target="figure5-1-0-9-3"/>
+      <edge id="geid_10_210" source="figure5-1-0-3-4" target="figure5-1-0-9-4"/>
+      <edge id="geid_10_211" source="figure5-1-0-4-4" target="figure5-1-0-4-5"/>
+      <edge id="geid_10_212" source="figure5-1-0-4-4" target="figure5-1-0-9-4"/>
+      <edge id="geid_10_213" source="figure5-1-0-4-4" target="figure5-1-0-10-4"/>
+      <edge id="geid_10_214" source="figure5-1-0-4-4" target="figure5-1-1-4-4"/>
+      <edge id="geid_10_215" source="figure5-1-0-4-5" target="figure5-1-0-5-5"/>
+      <edge id="geid_10_216" source="figure5-1-0-4-5" target="figure5-1-0-10-4"/>
+      <edge id="geid_10_217" source="figure5-1-0-4-5" target="figure5-1-0-10-5"/>
+      <edge id="geid_10_218" source="figure5-1-0-5-5" target="figure5-1-0-5-6"/>
+      <edge id="geid_10_219" source="figure5-1-0-5-5" target="figure5-1-0-10-5"/>
+      <edge id="geid_10_220" source="figure5-1-0-5-5" target="figure5-1-0-11-5"/>
+      <edge id="geid_10_221" source="figure5-1-0-5-5" target="figure5-1-1-5-5"/>
+      <edge id="geid_10_222" source="figure5-1-0-5-6" target="figure5-1-0-6-6"/>
+      <edge id="geid_10_223" source="figure5-1-0-5-6" target="figure5-1-0-11-5"/>
+      <edge id="geid_10_224" source="figure5-1-0-5-6" target="figure5-1-0-11-6"/>
+      <edge id="geid_10_225" source="figure5-1-0-6-6" target="figure5-1-0-11-6"/>
+      <edge id="geid_10_226" source="figure5-1-0-6-6" target="figure5-1-0-12-6"/>
+      <edge id="geid_10_227" source="figure5-1-0-6-6" target="figure5-1-1-6-6"/>
+      <edge id="geid_10_228" source="figure5-1-0-7-1" target="figure5-1-0-7-2"/>
+      <edge id="geid_10_229" source="figure5-1-0-8-2" target="figure5-1-0-8-3"/>
+      <edge id="geid_10_230" source="figure5-1-0-9-3" target="figure5-1-0-9-4"/>
+      <edge id="geid_10_231" source="figure5-1-0-10-4" target="figure5-1-0-10-5"/>
+      <edge id="geid_10_232" source="figure5-1-0-11-5" target="figure5-1-0-11-6"/>
+      <edge id="geid_10_233" source="figure5-1-0-12-1" target="figure5-1-0-12-6"/>
+      <edge id="geid_10_234" source="figure5-1-1-0-1" target="figure5-1-1-0-2"/>
+      <edge id="geid_10_235" source="figure5-1-1-0-1" target="figure5-1-1-0-6"/>
+      <edge id="geid_10_236" source="figure5-1-1-0-1" target="figure5-1-1-1-1"/>
+      <edge id="geid_10_237" source="figure5-1-1-0-1" target="figure5-1-1-1-2"/>
+      <edge id="geid_10_238" source="figure5-1-1-0-1" target="figure5-1-1-1-6"/>
+      <edge id="geid_10_239" source="figure5-1-1-0-2" target="figure5-1-1-0-3"/>
+      <edge id="geid_10_240" source="figure5-1-1-0-2" target="figure5-1-1-1-2"/>
+      <edge id="geid_10_241" source="figure5-1-1-0-2" target="figure5-1-1-2-2"/>
+      <edge id="geid_10_242" source="figure5-1-1-0-2" target="figure5-1-1-2-3"/>
+      <edge id="geid_10_243" source="figure5-1-1-0-3" target="figure5-1-1-0-4"/>
+      <edge id="geid_10_244" source="figure5-1-1-0-3" target="figure5-1-1-2-3"/>
+      <edge id="geid_10_245" source="figure5-1-1-0-3" target="figure5-1-1-3-3"/>
+      <edge id="geid_10_246" source="figure5-1-1-0-3" target="figure5-1-1-3-4"/>
+      <edge id="geid_10_247" source="figure5-1-1-0-4" target="figure5-1-1-0-5"/>
+      <edge id="geid_10_248" source="figure5-1-1-0-4" target="figure5-1-1-3-4"/>
+      <edge id="geid_10_249" source="figure5-1-1-0-4" target="figure5-1-1-4-4"/>
+      <edge id="geid_10_250" source="figure5-1-1-0-4" target="figure5-1-1-4-5"/>
+      <edge id="geid_10_251" source="figure5-1-1-0-5" target="figure5-1-1-0-6"/>
+      <edge id="geid_10_252" source="figure5-1-1-0-5" target="figure5-1-1-4-5"/>
+      <edge id="geid_10_253" source="figure5-1-1-0-5" target="figure5-1-1-5-5"/>
+      <edge id="geid_10_254" source="figure5-1-1-0-5" target="figure5-1-1-5-6"/>
+      <edge id="geid_10_255" source="figure5-1-1-0-6" target="figure5-1-1-1-6"/>
+      <edge id="geid_10_256" source="figure5-1-1-0-6" target="figure5-1-1-5-6"/>
+      <edge id="geid_10_257" source="figure5-1-1-0-6" target="figure5-1-1-6-6"/>
+      <edge id="geid_10_258" source="figure5-1-1-1-1" target="figure5-1-1-1-2"/>
+      <edge id="geid_10_259" source="figure5-1-1-1-1" target="figure5-1-1-1-6"/>
+      <edge id="geid_10_260" source="figure5-1-1-1-1" target="figure5-1-1-7-1"/>
+      <edge id="geid_10_261" source="figure5-1-1-1-1" target="figure5-1-1-12-1"/>
+      <edge id="geid_10_262" source="figure5-1-1-1-2" target="figure5-1-1-2-2"/>
+      <edge id="geid_10_263" source="figure5-1-1-1-2" target="figure5-1-1-7-1"/>
+      <edge id="geid_10_264" source="figure5-1-1-1-2" target="figure5-1-1-7-2"/>
+      <edge id="geid_10_265" source="figure5-1-1-1-6" target="figure5-1-1-6-6"/>
+      <edge id="geid_10_266" source="figure5-1-1-1-6" target="figure5-1-1-12-1"/>
+      <edge id="geid_10_267" source="figure5-1-1-1-6" target="figure5-1-1-12-6"/>
+      <edge id="geid_10_268" source="figure5-1-1-2-2" target="figure5-1-1-2-3"/>
+      <edge id="geid_10_269" source="figure5-1-1-2-2" target="figure5-1-1-7-2"/>
+      <edge id="geid_10_270" source="figure5-1-1-2-2" target="figure5-1-1-8-2"/>
+      <edge id="geid_10_271" source="figure5-1-1-2-3" target="figure5-1-1-3-3"/>
+      <edge id="geid_10_272" source="figure5-1-1-2-3" target="figure5-1-1-8-2"/>
+      <edge id="geid_10_273" source="figure5-1-1-2-3" target="figure5-1-1-8-3"/>
+      <edge id="geid_10_274" source="figure5-1-1-3-3" target="figure5-1-1-3-4"/>
+      <edge id="geid_10_275" source="figure5-1-1-3-3" target="figure5-1-1-8-3"/>
+      <edge id="geid_10_276" source="figure5-1-1-3-3" target="figure5-1-1-9-3"/>
+      <edge id="geid_10_277" source="figure5-1-1-3-4" target="figure5-1-1-4-4"/>
+      <edge id="geid_10_278" source="figure5-1-1-3-4" target="figure5-1-1-9-3"/>
+      <edge id="geid_10_279" source="figure5-1-1-3-4" target="figure5-1-1-9-4"/>
+      <edge id="geid_10_280" source="figure5-1-1-4-4" target="figure5-1-1-4-5"/>
+      <edge id="geid_10_281" source="figure5-1-1-4-4" target="figure5-1-1-9-4"/>
+      <edge id="geid_10_282" source="figure5-1-1-4-4" target="figure5-1-1-10-4"/>
+      <edge id="geid_10_283" source="figure5-1-1-4-5" target="figure5-1-1-5-5"/>
+      <edge id="geid_10_284" source="figure5-1-1-4-5" target="figure5-1-1-10-4"/>
+      <edge id="geid_10_285" source="figure5-1-1-4-5" target="figure5-1-1-10-5"/>
+      <edge id="geid_10_286" source="figure5-1-1-5-5" target="figure5-1-1-5-6"/>
+      <edge id="geid_10_287" source="figure5-1-1-5-5" target="figure5-1-1-10-5"/>
+      <edge id="geid_10_288" source="figure5-1-1-5-5" target="figure5-1-1-11-5"/>
+      <edge id="geid_10_289" source="figure5-1-1-5-6" target="figure5-1-1-6-6"/>
+      <edge id="geid_10_290" source="figure5-1-1-5-6" target="figure5-1-1-11-5"/>
+      <edge id="geid_10_291" source="figure5-1-1-5-6" target="figure5-1-1-11-6"/>
+      <edge id="geid_10_292" source="figure5-1-1-6-6" target="figure5-1-1-11-6"/>
+      <edge id="geid_10_293" source="figure5-1-1-6-6" target="figure5-1-1-12-6"/>
+      <edge id="geid_10_294" source="figure5-1-1-7-1" target="figure5-1-1-7-2"/>
+      <edge id="geid_10_295" source="figure5-1-1-8-2" target="figure5-1-1-8-3"/>
+      <edge id="geid_10_296" source="figure5-1-1-9-3" target="figure5-1-1-9-4"/>
+      <edge id="geid_10_297" source="figure5-1-1-10-4" target="figure5-1-1-10-5"/>
+      <edge id="geid_10_298" source="figure5-1-1-11-5" target="figure5-1-1-11-6"/>
+      <edge id="geid_10_299" source="figure5-1-1-12-1" target="figure5-1-1-12-6"/>
+    </edges>
+  </graph>
+</gexf>
