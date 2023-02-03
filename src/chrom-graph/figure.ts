@@ -318,7 +318,7 @@ export function section51(name: string): Node[] {
     // line 2
     xy(7 / 6, Math.sqrt(11) / 6),
     xy(1 / 6, (Math.sqrt(12) - Math.sqrt(11)) / 6),
-    xy(6 / 6, (Math.sqrt(12) - Math.sqrt(11)) / 6),
+    xy(5 / 6, (Math.sqrt(12) - Math.sqrt(11)) / 6),
     // line 3
     xy(2 / 3, (Math.sqrt(11) - Math.sqrt(3)) / 6),
     xy(2 / 3, (3 * Math.sqrt(3) - Math.sqrt(11)) / 6),
@@ -356,7 +356,7 @@ export function section51(name: string): Node[] {
     xy((Math.sqrt(33) - 3) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 12),
     // line 14 (-2)
     xy((15 - Math.sqrt(33)) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 4),
-    xy((15 - Math.sqrt(33)) / 12, (7 * Math.sqrt(3) - 3 * Math.sqrt(11)) / 4),
+    xy((15 - Math.sqrt(33)) / 12, (7 * Math.sqrt(3) - 3 * Math.sqrt(11)) / 12),
     // line 15 (-1)
     xy((13 - Math.sqrt(33)) / 12, (3 * Math.sqrt(3) - Math.sqrt(11)) / 12),
     xy((11 - Math.sqrt(33)) / 12, (Math.sqrt(11) - Math.sqrt(3)) / 12),
