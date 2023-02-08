@@ -1,2 +1,2 @@
-Command exited with non-zero status 10
-{"exit_code" : 10, "time_user_seconds" : 1.68, "time_system_seconds" : 0.01, "time_wall_clock_seconds" : 1.69, "rss_max_kbytes" : 54736, "rss_avg_kbytes" : 0, "page_faults_major" : 0, "page_faults_minor" : 3606, "io_inputs" : 0, "io_outputs" : 72, "context_switches_voluntary" : 1, "context_switches_involuntary" : 20, "cpu_percentage" : "99%", "signals_received" : 0}
+Command exited with non-zero status 20
+{"exit_code" : 20, "time_user_seconds" : 387624.37, "time_system_seconds" : 40.10, "time_wall_clock_seconds" : 387670.43, "rss_max_kbytes" : 5877024, "rss_avg_kbytes" : 0, "page_faults_major" : 11, "page_faults_minor" : 3545497, "io_inputs" : 2184, "io_outputs" : 0, "context_switches_voluntary" : 329, "context_switches_involuntary" : 600098, "cpu_percentage" : "0%", "signals_received" : 0}

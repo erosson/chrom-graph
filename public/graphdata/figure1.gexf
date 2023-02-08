@@ -40,18 +40,18 @@
       </node>
     </nodes>
     <edges>
-      <edge id="geid_7_0" source="figure1-0" target="figure1-1"/>
-      <edge id="geid_7_1" source="figure1-0" target="figure1-2"/>
-      <edge id="geid_7_2" source="figure1-0" target="figure1-3"/>
-      <edge id="geid_7_3" source="figure1-0" target="figure1-4"/>
-      <edge id="geid_7_4" source="figure1-0" target="figure1-5"/>
-      <edge id="geid_7_5" source="figure1-0" target="figure1-6"/>
-      <edge id="geid_7_6" source="figure1-1" target="figure1-2"/>
-      <edge id="geid_7_7" source="figure1-1" target="figure1-6"/>
-      <edge id="geid_7_8" source="figure1-2" target="figure1-3"/>
-      <edge id="geid_7_9" source="figure1-3" target="figure1-4"/>
-      <edge id="geid_7_10" source="figure1-4" target="figure1-5"/>
-      <edge id="geid_7_11" source="figure1-5" target="figure1-6"/>
+      <edge id="geid_180_0" source="figure1-0" target="figure1-1"/>
+      <edge id="geid_180_1" source="figure1-0" target="figure1-2"/>
+      <edge id="geid_180_2" source="figure1-0" target="figure1-3"/>
+      <edge id="geid_180_3" source="figure1-0" target="figure1-4"/>
+      <edge id="geid_180_4" source="figure1-0" target="figure1-5"/>
+      <edge id="geid_180_5" source="figure1-0" target="figure1-6"/>
+      <edge id="geid_180_6" source="figure1-1" target="figure1-2"/>
+      <edge id="geid_180_7" source="figure1-1" target="figure1-6"/>
+      <edge id="geid_180_8" source="figure1-2" target="figure1-3"/>
+      <edge id="geid_180_9" source="figure1-3" target="figure1-4"/>
+      <edge id="geid_180_10" source="figure1-4" target="figure1-5"/>
+      <edge id="geid_180_11" source="figure1-5" target="figure1-6"/>
     </edges>
   </graph>
 </gexf>

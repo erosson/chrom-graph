@@ -1,2 +1,2 @@
 Command exited with non-zero status 10
-{"exit_code" : 10, "time_user_seconds" : 0.00, "time_system_seconds" : 0.00, "time_wall_clock_seconds" : 0.00, "rss_max_kbytes" : 9520, "rss_avg_kbytes" : 0, "page_faults_major" : 0, "page_faults_minor" : 385, "io_inputs" : 0, "io_outputs" : 16, "context_switches_voluntary" : 1, "context_switches_involuntary" : 4, "cpu_percentage" : "80%", "signals_received" : 0}
+{"exit_code" : 10, "time_user_seconds" : 0.00, "time_system_seconds" : 0.00, "time_wall_clock_seconds" : 0.03, "rss_max_kbytes" : 9408, "rss_avg_kbytes" : 0, "page_faults_major" : 11, "page_faults_minor" : 375, "io_inputs" : 2184, "io_outputs" : 0, "context_switches_voluntary" : 315, "context_switches_involuntary" : 0, "cpu_percentage" : "27%", "signals_received" : 0}
